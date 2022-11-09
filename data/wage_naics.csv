@@ -1,0 +1,2881 @@
+﻿year,geo,naics,wage_rate
+1997,Alberta,Accommodation and food services [72],258.06
+1998,Alberta,Accommodation and food services [72],274.96
+1999,Alberta,Accommodation and food services [72],274.35
+2000,Alberta,Accommodation and food services [72],308.25
+2001,Alberta,Accommodation and food services [72],313.89
+2002,Alberta,Accommodation and food services [72],320.69
+2003,Alberta,Accommodation and food services [72],327.26
+2004,Alberta,Accommodation and food services [72],323.84
+2005,Alberta,Accommodation and food services [72],366.31
+2006,Alberta,Accommodation and food services [72],393.02
+2007,Alberta,Accommodation and food services [72],430.09
+2008,Alberta,Accommodation and food services [72],443.91
+2009,Alberta,Accommodation and food services [72],459.34
+2010,Alberta,Accommodation and food services [72],463.69
+2011,Alberta,Accommodation and food services [72],452.85
+2012,Alberta,Accommodation and food services [72],506.14
+2013,Alberta,Accommodation and food services [72],487.25
+2014,Alberta,Accommodation and food services [72],492.06
+2015,Alberta,Accommodation and food services [72],490.81
+2016,Alberta,Accommodation and food services [72],490.23
+2017,Alberta,Accommodation and food services [72],510.81
+2018,Alberta,Accommodation and food services [72],547.07
+2019,Alberta,Accommodation and food services [72],537.08
+2020,Alberta,Accommodation and food services [72],536.08
+1997,British Columbia,Accommodation and food services [72],435.11
+1998,British Columbia,Accommodation and food services [72],423.69
+1999,British Columbia,Accommodation and food services [72],446.93
+2000,British Columbia,Accommodation and food services [72],460.03
+2001,British Columbia,Accommodation and food services [72],466.89
+2002,British Columbia,Accommodation and food services [72],508.59
+2003,British Columbia,Accommodation and food services [72],539.68
+2004,British Columbia,Accommodation and food services [72],497.5
+2005,British Columbia,Accommodation and food services [72],566.15
+2006,British Columbia,Accommodation and food services [72],585.54
+2007,British Columbia,Accommodation and food services [72],668.23
+2008,British Columbia,Accommodation and food services [72],710.83
+2009,British Columbia,Accommodation and food services [72],727.6
+2010,British Columbia,Accommodation and food services [72],746.36
+2011,British Columbia,Accommodation and food services [72],735.99
+2012,British Columbia,Accommodation and food services [72],790.33
+2013,British Columbia,Accommodation and food services [72],865.47
+2014,British Columbia,Accommodation and food services [72],835.07
+2015,British Columbia,Accommodation and food services [72],921.16
+2016,British Columbia,Accommodation and food services [72],883.86
+2017,British Columbia,Accommodation and food services [72],867.1
+2018,British Columbia,Accommodation and food services [72],854.94
+2019,British Columbia,Accommodation and food services [72],932.95
+2020,British Columbia,Accommodation and food services [72],986.85
+1997,Manitoba,Accommodation and food services [72],640.03
+1998,Manitoba,Accommodation and food services [72],686.45
+1999,Manitoba,Accommodation and food services [72],698.73
+2000,Manitoba,Accommodation and food services [72],720.25
+2001,Manitoba,Accommodation and food services [72],794.16
+2002,Manitoba,Accommodation and food services [72],799.7
+2003,Manitoba,Accommodation and food services [72],809.72
+2004,Manitoba,Accommodation and food services [72],839.41
+2005,Manitoba,Accommodation and food services [72],887.49
+2006,Manitoba,Accommodation and food services [72],962.79
+2007,Manitoba,Accommodation and food services [72],1001.18
+2008,Manitoba,Accommodation and food services [72],1079.51
+2009,Manitoba,Accommodation and food services [72],1131.22
+2010,Manitoba,Accommodation and food services [72],1144.32
+2011,Manitoba,Accommodation and food services [72],1198.14
+2012,Manitoba,Accommodation and food services [72],1263.94
+2013,Manitoba,Accommodation and food services [72],1251.95
+2014,Manitoba,Accommodation and food services [72],1308.16
+2015,Manitoba,Accommodation and food services [72],1345.06
+2016,Manitoba,Accommodation and food services [72],1375.94
+2017,Manitoba,Accommodation and food services [72],1373.51
+2018,Manitoba,Accommodation and food services [72],1322.93
+2019,Manitoba,Accommodation and food services [72],1395.64
+2020,Manitoba,Accommodation and food services [72],1437.43
+1997,New Brunswick,Accommodation and food services [72],658.91
+1998,New Brunswick,Accommodation and food services [72],646.53
+1999,New Brunswick,Accommodation and food services [72],663.2
+2000,New Brunswick,Accommodation and food services [72],662.23
+2001,New Brunswick,Accommodation and food services [72],697.87
+2002,New Brunswick,Accommodation and food services [72],763.79
+2003,New Brunswick,Accommodation and food services [72],784.61
+2004,New Brunswick,Accommodation and food services [72],797.6
+2005,New Brunswick,Accommodation and food services [72],840.34
+2006,New Brunswick,Accommodation and food services [72],887.07
+2007,New Brunswick,Accommodation and food services [72],924.14
+2008,New Brunswick,Accommodation and food services [72],961.71
+2009,New Brunswick,Accommodation and food services [72],995.97
+2010,New Brunswick,Accommodation and food services [72],1028.46
+2011,New Brunswick,Accommodation and food services [72],1050.76
+2012,New Brunswick,Accommodation and food services [72],1103.74
+2013,New Brunswick,Accommodation and food services [72],1070.49
+2014,New Brunswick,Accommodation and food services [72],1093.36
+2015,New Brunswick,Accommodation and food services [72],1168.32
+2016,New Brunswick,Accommodation and food services [72],1164.89
+2017,New Brunswick,Accommodation and food services [72],1179.7
+2018,New Brunswick,Accommodation and food services [72],1197.09
+2019,New Brunswick,Accommodation and food services [72],1156.88
+2020,New Brunswick,Accommodation and food services [72],1298.22
+1997,Newfoundland and Labrador,Accommodation and food services [72],574.69
+1998,Newfoundland and Labrador,Accommodation and food services [72],557.83
+1999,Newfoundland and Labrador,Accommodation and food services [72],594.41
+2000,Newfoundland and Labrador,Accommodation and food services [72],574.33
+2001,Newfoundland and Labrador,Accommodation and food services [72],670.67
+2002,Newfoundland and Labrador,Accommodation and food services [72],654.31
+2003,Newfoundland and Labrador,Accommodation and food services [72],674.61
+2004,Newfoundland and Labrador,Accommodation and food services [72],686.65
+2005,Newfoundland and Labrador,Accommodation and food services [72],716.43
+2006,Newfoundland and Labrador,Accommodation and food services [72],799.6
+2007,Newfoundland and Labrador,Accommodation and food services [72],813.69
+2008,Newfoundland and Labrador,Accommodation and food services [72],930.54
+2009,Newfoundland and Labrador,Accommodation and food services [72],900.17
+2010,Newfoundland and Labrador,Accommodation and food services [72],893.79
+2011,Newfoundland and Labrador,Accommodation and food services [72],892.71
+2012,Newfoundland and Labrador,Accommodation and food services [72],1008.43
+2013,Newfoundland and Labrador,Accommodation and food services [72],1059.1
+2014,Newfoundland and Labrador,Accommodation and food services [72],1091.14
+2015,Newfoundland and Labrador,Accommodation and food services [72],1110.59
+2016,Newfoundland and Labrador,Accommodation and food services [72],1139.78
+2017,Newfoundland and Labrador,Accommodation and food services [72],1114.63
+2018,Newfoundland and Labrador,Accommodation and food services [72],1222.08
+2019,Newfoundland and Labrador,Accommodation and food services [72],1201.76
+2020,Newfoundland and Labrador,Accommodation and food services [72],1329.59
+1997,Nova Scotia,Accommodation and food services [72],501.33
+1998,Nova Scotia,Accommodation and food services [72],507.38
+1999,Nova Scotia,Accommodation and food services [72],515.41
+2000,Nova Scotia,Accommodation and food services [72],535.24
+2001,Nova Scotia,Accommodation and food services [72],575.61
+2002,Nova Scotia,Accommodation and food services [72],601.2
+2003,Nova Scotia,Accommodation and food services [72],617.91
+2004,Nova Scotia,Accommodation and food services [72],630.87
+2005,Nova Scotia,Accommodation and food services [72],670.69
+2006,Nova Scotia,Accommodation and food services [72],731.03
+2007,Nova Scotia,Accommodation and food services [72],782.2
+2008,Nova Scotia,Accommodation and food services [72],838.4
+2009,Nova Scotia,Accommodation and food services [72],862.87
+2010,Nova Scotia,Accommodation and food services [72],856.04
+2011,Nova Scotia,Accommodation and food services [72],895.25
+2012,Nova Scotia,Accommodation and food services [72],901.5
+2013,Nova Scotia,Accommodation and food services [72],1011.97
+2014,Nova Scotia,Accommodation and food services [72],1015.74
+2015,Nova Scotia,Accommodation and food services [72],1007.52
+2016,Nova Scotia,Accommodation and food services [72],1060.66
+2017,Nova Scotia,Accommodation and food services [72],1072.65
+2018,Nova Scotia,Accommodation and food services [72],1056.76
+2019,Nova Scotia,Accommodation and food services [72],1057.23
+2020,Nova Scotia,Accommodation and food services [72],1104.39
+1997,Ontario,Accommodation and food services [72],530.3
+1998,Ontario,Accommodation and food services [72],573.21
+1999,Ontario,Accommodation and food services [72],560
+2000,Ontario,Accommodation and food services [72],577.02
+2001,Ontario,Accommodation and food services [72],573.58
+2002,Ontario,Accommodation and food services [72],600.54
+2003,Ontario,Accommodation and food services [72],606.62
+2004,Ontario,Accommodation and food services [72],591.26
+2005,Ontario,Accommodation and food services [72],657.52
+2006,Ontario,Accommodation and food services [72],670.34
+2007,Ontario,Accommodation and food services [72],716.48
+2008,Ontario,Accommodation and food services [72],722.87
+2009,Ontario,Accommodation and food services [72],730.51
+2010,Ontario,Accommodation and food services [72],761.72
+2011,Ontario,Accommodation and food services [72],766.13
+2012,Ontario,Accommodation and food services [72],789.22
+2013,Ontario,Accommodation and food services [72],802.51
+2014,Ontario,Accommodation and food services [72],832.27
+2015,Ontario,Accommodation and food services [72],827.03
+2016,Ontario,Accommodation and food services [72],789.86
+2017,Ontario,Accommodation and food services [72],756.16
+2018,Ontario,Accommodation and food services [72],800.01
+2019,Ontario,Accommodation and food services [72],868.75
+2020,Ontario,Accommodation and food services [72],889.95
+1997,Prince Edward Island,Accommodation and food services [72],633.77
+1998,Prince Edward Island,Accommodation and food services [72],661.94
+1999,Prince Edward Island,Accommodation and food services [72],701.7
+2000,Prince Edward Island,Accommodation and food services [72],706.69
+2001,Prince Edward Island,Accommodation and food services [72],721.95
+2002,Prince Edward Island,Accommodation and food services [72],791.79
+2003,Prince Edward Island,Accommodation and food services [72],769.91
+2004,Prince Edward Island,Accommodation and food services [72],785.08
+2005,Prince Edward Island,Accommodation and food services [72],855.94
+2006,Prince Edward Island,Accommodation and food services [72],909.61
+2007,Prince Edward Island,Accommodation and food services [72],932.35
+2008,Prince Edward Island,Accommodation and food services [72],982.12
+2009,Prince Edward Island,Accommodation and food services [72],1023.5
+2010,Prince Edward Island,Accommodation and food services [72],1032.19
+2011,Prince Edward Island,Accommodation and food services [72],1030.51
+2012,Prince Edward Island,Accommodation and food services [72],1082.16
+2013,Prince Edward Island,Accommodation and food services [72],1141.4
+2014,Prince Edward Island,Accommodation and food services [72],1162.44
+2015,Prince Edward Island,Accommodation and food services [72],1167.98
+2016,Prince Edward Island,Accommodation and food services [72],1223.39
+2017,Prince Edward Island,Accommodation and food services [72],1250.85
+2018,Prince Edward Island,Accommodation and food services [72],1228.95
+2019,Prince Edward Island,Accommodation and food services [72],1275.32
+2020,Prince Edward Island,Accommodation and food services [72],1290.42
+1997,Quebec,Accommodation and food services [72],463.56
+1998,Quebec,Accommodation and food services [72],493.74
+1999,Quebec,Accommodation and food services [72],479.22
+2000,Quebec,Accommodation and food services [72],523.7
+2001,Quebec,Accommodation and food services [72],541.23
+2002,Quebec,Accommodation and food services [72],582.63
+2003,Quebec,Accommodation and food services [72],548.25
+2004,Quebec,Accommodation and food services [72],581.97
+2005,Quebec,Accommodation and food services [72],620.63
+2006,Quebec,Accommodation and food services [72],667.06
+2007,Quebec,Accommodation and food services [72],741.62
+2008,Quebec,Accommodation and food services [72],749.83
+2009,Quebec,Accommodation and food services [72],816.45
+2010,Quebec,Accommodation and food services [72],818.53
+2011,Quebec,Accommodation and food services [72],832.19
+2012,Quebec,Accommodation and food services [72],811.92
+2013,Quebec,Accommodation and food services [72],856.98
+2014,Quebec,Accommodation and food services [72],917.47
+2015,Quebec,Accommodation and food services [72],942.78
+2016,Quebec,Accommodation and food services [72],907.01
+2017,Quebec,Accommodation and food services [72],877.09
+2018,Quebec,Accommodation and food services [72],973.81
+2019,Quebec,Accommodation and food services [72],981.87
+2020,Quebec,Accommodation and food services [72],1063.65
+1997,Saskatchewan,Accommodation and food services [72],705.79
+1998,Saskatchewan,Accommodation and food services [72],757.26
+1999,Saskatchewan,Accommodation and food services [72],793.98
+2000,Saskatchewan,Accommodation and food services [72],821.35
+2001,Saskatchewan,Accommodation and food services [72],853.21
+2002,Saskatchewan,Accommodation and food services [72],850.6
+2003,Saskatchewan,Accommodation and food services [72],871.78
+2004,Saskatchewan,Accommodation and food services [72],904.53
+2005,Saskatchewan,Accommodation and food services [72],1010.19
+2006,Saskatchewan,Accommodation and food services [72],1048.27
+2007,Saskatchewan,Accommodation and food services [72],1086.92
+2008,Saskatchewan,Accommodation and food services [72],1121.85
+2009,Saskatchewan,Accommodation and food services [72],1195.14
+2010,Saskatchewan,Accommodation and food services [72],1202.62
+2011,Saskatchewan,Accommodation and food services [72],1258.96
+2012,Saskatchewan,Accommodation and food services [72],1292.57
+2013,Saskatchewan,Accommodation and food services [72],1381.43
+2014,Saskatchewan,Accommodation and food services [72],1350.13
+2015,Saskatchewan,Accommodation and food services [72],1426.31
+2016,Saskatchewan,Accommodation and food services [72],1434.02
+2017,Saskatchewan,Accommodation and food services [72],1336.67
+2018,Saskatchewan,Accommodation and food services [72],1421.86
+2019,Saskatchewan,Accommodation and food services [72],1487.04
+2020,Saskatchewan,Accommodation and food services [72],1490.65
+1997,Alberta,"Business, building and other support services [55-56]",660.04
+1998,Alberta,"Business, building and other support services [55-56]",664.95
+1999,Alberta,"Business, building and other support services [55-56]",674.68
+2000,Alberta,"Business, building and other support services [55-56]",757.8
+2001,Alberta,"Business, building and other support services [55-56]",735.16
+2002,Alberta,"Business, building and other support services [55-56]",755.95
+2003,Alberta,"Business, building and other support services [55-56]",794.6
+2004,Alberta,"Business, building and other support services [55-56]",804.15
+2005,Alberta,"Business, building and other support services [55-56]",805.53
+2006,Alberta,"Business, building and other support services [55-56]",894.44
+2007,Alberta,"Business, building and other support services [55-56]",937.19
+2008,Alberta,"Business, building and other support services [55-56]",963.6
+2009,Alberta,"Business, building and other support services [55-56]",1026.84
+2010,Alberta,"Business, building and other support services [55-56]",1006.3
+2011,Alberta,"Business, building and other support services [55-56]",1053.15
+2012,Alberta,"Business, building and other support services [55-56]",1108.67
+2013,Alberta,"Business, building and other support services [55-56]",1191.25
+2014,Alberta,"Business, building and other support services [55-56]",1159.59
+2015,Alberta,"Business, building and other support services [55-56]",1172.18
+2016,Alberta,"Business, building and other support services [55-56]",1129.86
+2017,Alberta,"Business, building and other support services [55-56]",1239.18
+2018,Alberta,"Business, building and other support services [55-56]",1305.27
+2019,Alberta,"Business, building and other support services [55-56]",1308.21
+2020,Alberta,"Business, building and other support services [55-56]",1318.08
+1997,British Columbia,"Business, building and other support services [55-56]",427.25
+1998,British Columbia,"Business, building and other support services [55-56]",434.36
+1999,British Columbia,"Business, building and other support services [55-56]",460.34
+2000,British Columbia,"Business, building and other support services [55-56]",481.48
+2001,British Columbia,"Business, building and other support services [55-56]",514.51
+2002,British Columbia,"Business, building and other support services [55-56]",513.08
+2003,British Columbia,"Business, building and other support services [55-56]",526.46
+2004,British Columbia,"Business, building and other support services [55-56]",541.28
+2005,British Columbia,"Business, building and other support services [55-56]",559.35
+2006,British Columbia,"Business, building and other support services [55-56]",596.49
+2007,British Columbia,"Business, building and other support services [55-56]",651.24
+2008,British Columbia,"Business, building and other support services [55-56]",674.09
+2009,British Columbia,"Business, building and other support services [55-56]",665.61
+2010,British Columbia,"Business, building and other support services [55-56]",689.42
+2011,British Columbia,"Business, building and other support services [55-56]",714.36
+2012,British Columbia,"Business, building and other support services [55-56]",727.36
+2013,British Columbia,"Business, building and other support services [55-56]",762.95
+2014,British Columbia,"Business, building and other support services [55-56]",776.83
+2015,British Columbia,"Business, building and other support services [55-56]",816.65
+2016,British Columbia,"Business, building and other support services [55-56]",800.77
+2017,British Columbia,"Business, building and other support services [55-56]",842.9
+2018,British Columbia,"Business, building and other support services [55-56]",857.92
+2019,British Columbia,"Business, building and other support services [55-56]",875.77
+2020,British Columbia,"Business, building and other support services [55-56]",898.6
+1997,Manitoba,"Business, building and other support services [55-56]",315.56
+1998,Manitoba,"Business, building and other support services [55-56]",328.34
+1999,Manitoba,"Business, building and other support services [55-56]",318.52
+2000,Manitoba,"Business, building and other support services [55-56]",338.88
+2001,Manitoba,"Business, building and other support services [55-56]",344.16
+2002,Manitoba,"Business, building and other support services [55-56]",334.87
+2003,Manitoba,"Business, building and other support services [55-56]",350.46
+2004,Manitoba,"Business, building and other support services [55-56]",362.46
+2005,Manitoba,"Business, building and other support services [55-56]",384.94
+2006,Manitoba,"Business, building and other support services [55-56]",373.08
+2007,Manitoba,"Business, building and other support services [55-56]",392.57
+2008,Manitoba,"Business, building and other support services [55-56]",391.18
+2009,Manitoba,"Business, building and other support services [55-56]",392.82
+2010,Manitoba,"Business, building and other support services [55-56]",396.27
+2011,Manitoba,"Business, building and other support services [55-56]",405.65
+2012,Manitoba,"Business, building and other support services [55-56]",442.61
+2013,Manitoba,"Business, building and other support services [55-56]",427.21
+2014,Manitoba,"Business, building and other support services [55-56]",462.09
+2015,Manitoba,"Business, building and other support services [55-56]",459.23
+2016,Manitoba,"Business, building and other support services [55-56]",456.22
+2017,Manitoba,"Business, building and other support services [55-56]",462.94
+2018,Manitoba,"Business, building and other support services [55-56]",482.29
+2019,Manitoba,"Business, building and other support services [55-56]",521.13
+2020,Manitoba,"Business, building and other support services [55-56]",561.24
+1997,New Brunswick,"Business, building and other support services [55-56]",414.94
+1998,New Brunswick,"Business, building and other support services [55-56]",420.84
+1999,New Brunswick,"Business, building and other support services [55-56]",441.95
+2000,New Brunswick,"Business, building and other support services [55-56]",451.92
+2001,New Brunswick,"Business, building and other support services [55-56]",508.48
+2002,New Brunswick,"Business, building and other support services [55-56]",497.85
+2003,New Brunswick,"Business, building and other support services [55-56]",494.47
+2004,New Brunswick,"Business, building and other support services [55-56]",537.65
+2005,New Brunswick,"Business, building and other support services [55-56]",555.79
+2006,New Brunswick,"Business, building and other support services [55-56]",543.36
+2007,New Brunswick,"Business, building and other support services [55-56]",582.96
+2008,New Brunswick,"Business, building and other support services [55-56]",617.96
+2009,New Brunswick,"Business, building and other support services [55-56]",663.37
+2010,New Brunswick,"Business, building and other support services [55-56]",652.13
+2011,New Brunswick,"Business, building and other support services [55-56]",646.89
+2012,New Brunswick,"Business, building and other support services [55-56]",650.84
+2013,New Brunswick,"Business, building and other support services [55-56]",659.94
+2014,New Brunswick,"Business, building and other support services [55-56]",677.91
+2015,New Brunswick,"Business, building and other support services [55-56]",720.58
+2016,New Brunswick,"Business, building and other support services [55-56]",643.76
+2017,New Brunswick,"Business, building and other support services [55-56]",737.15
+2018,New Brunswick,"Business, building and other support services [55-56]",776.65
+2019,New Brunswick,"Business, building and other support services [55-56]",760.95
+2020,New Brunswick,"Business, building and other support services [55-56]",858.71
+1997,Newfoundland and Labrador,"Business, building and other support services [55-56]",684.15
+1998,Newfoundland and Labrador,"Business, building and other support services [55-56]",728.45
+1999,Newfoundland and Labrador,"Business, building and other support services [55-56]",706.18
+2000,Newfoundland and Labrador,"Business, building and other support services [55-56]",737.7
+2001,Newfoundland and Labrador,"Business, building and other support services [55-56]",786.19
+2002,Newfoundland and Labrador,"Business, building and other support services [55-56]",777.83
+2003,Newfoundland and Labrador,"Business, building and other support services [55-56]",780.05
+2004,Newfoundland and Labrador,"Business, building and other support services [55-56]",785.53
+2005,Newfoundland and Labrador,"Business, building and other support services [55-56]",779.79
+2006,Newfoundland and Labrador,"Business, building and other support services [55-56]",824.05
+2007,Newfoundland and Labrador,"Business, building and other support services [55-56]",871.93
+2008,Newfoundland and Labrador,"Business, building and other support services [55-56]",908.66
+2009,Newfoundland and Labrador,"Business, building and other support services [55-56]",975.07
+2010,Newfoundland and Labrador,"Business, building and other support services [55-56]",982.76
+2011,Newfoundland and Labrador,"Business, building and other support services [55-56]",1008.67
+2012,Newfoundland and Labrador,"Business, building and other support services [55-56]",1014.96
+2013,Newfoundland and Labrador,"Business, building and other support services [55-56]",1075.36
+2014,Newfoundland and Labrador,"Business, building and other support services [55-56]",1087.27
+2015,Newfoundland and Labrador,"Business, building and other support services [55-56]",1081.03
+2016,Newfoundland and Labrador,"Business, building and other support services [55-56]",1099.04
+2017,Newfoundland and Labrador,"Business, building and other support services [55-56]",1144.83
+2018,Newfoundland and Labrador,"Business, building and other support services [55-56]",1141.56
+2019,Newfoundland and Labrador,"Business, building and other support services [55-56]",1197.83
+2020,Newfoundland and Labrador,"Business, building and other support services [55-56]",1197.45
+1997,Nova Scotia,"Business, building and other support services [55-56]",738.18
+1998,Nova Scotia,"Business, building and other support services [55-56]",724.93
+1999,Nova Scotia,"Business, building and other support services [55-56]",737.97
+2000,Nova Scotia,"Business, building and other support services [55-56]",766.19
+2001,Nova Scotia,"Business, building and other support services [55-56]",744.77
+2002,Nova Scotia,"Business, building and other support services [55-56]",777.01
+2003,Nova Scotia,"Business, building and other support services [55-56]",791.55
+2004,Nova Scotia,"Business, building and other support services [55-56]",826.2
+2005,Nova Scotia,"Business, building and other support services [55-56]",852.7
+2006,Nova Scotia,"Business, building and other support services [55-56]",849.65
+2007,Nova Scotia,"Business, building and other support services [55-56]",845.41
+2008,Nova Scotia,"Business, building and other support services [55-56]",900
+2009,Nova Scotia,"Business, building and other support services [55-56]",869.97
+2010,Nova Scotia,"Business, building and other support services [55-56]",927.3
+2011,Nova Scotia,"Business, building and other support services [55-56]",959.62
+2012,Nova Scotia,"Business, building and other support services [55-56]",972.66
+2013,Nova Scotia,"Business, building and other support services [55-56]",972.23
+2014,Nova Scotia,"Business, building and other support services [55-56]",969.38
+2015,Nova Scotia,"Business, building and other support services [55-56]",993.01
+2016,Nova Scotia,"Business, building and other support services [55-56]",1019.47
+2017,Nova Scotia,"Business, building and other support services [55-56]",1034.69
+2018,Nova Scotia,"Business, building and other support services [55-56]",1039.03
+2019,Nova Scotia,"Business, building and other support services [55-56]",1089.67
+2020,Nova Scotia,"Business, building and other support services [55-56]",1135.39
+1997,Ontario,"Business, building and other support services [55-56]",590.79
+1998,Ontario,"Business, building and other support services [55-56]",631.93
+1999,Ontario,"Business, building and other support services [55-56]",627.76
+2000,Ontario,"Business, building and other support services [55-56]",676.79
+2001,Ontario,"Business, building and other support services [55-56]",682.65
+2002,Ontario,"Business, building and other support services [55-56]",732.94
+2003,Ontario,"Business, building and other support services [55-56]",730.35
+2004,Ontario,"Business, building and other support services [55-56]",720.45
+2005,Ontario,"Business, building and other support services [55-56]",733.24
+2006,Ontario,"Business, building and other support services [55-56]",767.88
+2007,Ontario,"Business, building and other support services [55-56]",773.37
+2008,Ontario,"Business, building and other support services [55-56]",833.29
+2009,Ontario,"Business, building and other support services [55-56]",880.34
+2010,Ontario,"Business, building and other support services [55-56]",890.81
+2011,Ontario,"Business, building and other support services [55-56]",897.98
+2012,Ontario,"Business, building and other support services [55-56]",941.5
+2013,Ontario,"Business, building and other support services [55-56]",959.56
+2014,Ontario,"Business, building and other support services [55-56]",960.7
+2015,Ontario,"Business, building and other support services [55-56]",1014.31
+2016,Ontario,"Business, building and other support services [55-56]",1008.74
+2017,Ontario,"Business, building and other support services [55-56]",1052.21
+2018,Ontario,"Business, building and other support services [55-56]",1109.12
+2019,Ontario,"Business, building and other support services [55-56]",1130.02
+2020,Ontario,"Business, building and other support services [55-56]",1247.63
+1997,Prince Edward Island,"Business, building and other support services [55-56]",604.55
+1998,Prince Edward Island,"Business, building and other support services [55-56]",613.66
+1999,Prince Edward Island,"Business, building and other support services [55-56]",624.89
+2000,Prince Edward Island,"Business, building and other support services [55-56]",635.63
+2001,Prince Edward Island,"Business, building and other support services [55-56]",660.29
+2002,Prince Edward Island,"Business, building and other support services [55-56]",687.56
+2003,Prince Edward Island,"Business, building and other support services [55-56]",707.58
+2004,Prince Edward Island,"Business, building and other support services [55-56]",730.87
+2005,Prince Edward Island,"Business, building and other support services [55-56]",726.1
+2006,Prince Edward Island,"Business, building and other support services [55-56]",748.3
+2007,Prince Edward Island,"Business, building and other support services [55-56]",742.15
+2008,Prince Edward Island,"Business, building and other support services [55-56]",784.98
+2009,Prince Edward Island,"Business, building and other support services [55-56]",808.95
+2010,Prince Edward Island,"Business, building and other support services [55-56]",816.89
+2011,Prince Edward Island,"Business, building and other support services [55-56]",834.24
+2012,Prince Edward Island,"Business, building and other support services [55-56]",843.47
+2013,Prince Edward Island,"Business, building and other support services [55-56]",876.21
+2014,Prince Edward Island,"Business, building and other support services [55-56]",854.17
+2015,Prince Edward Island,"Business, building and other support services [55-56]",889.19
+2016,Prince Edward Island,"Business, building and other support services [55-56]",895.21
+2017,Prince Edward Island,"Business, building and other support services [55-56]",897.97
+2018,Prince Edward Island,"Business, building and other support services [55-56]",939.54
+2019,Prince Edward Island,"Business, building and other support services [55-56]",938.01
+2020,Prince Edward Island,"Business, building and other support services [55-56]",998.66
+1997,Quebec,"Business, building and other support services [55-56]",604.35
+1998,Quebec,"Business, building and other support services [55-56]",621.35
+1999,Quebec,"Business, building and other support services [55-56]",624.02
+2000,Quebec,"Business, building and other support services [55-56]",617.11
+2001,Quebec,"Business, building and other support services [55-56]",660.06
+2002,Quebec,"Business, building and other support services [55-56]",673.86
+2003,Quebec,"Business, building and other support services [55-56]",639.6
+2004,Quebec,"Business, building and other support services [55-56]",667.29
+2005,Quebec,"Business, building and other support services [55-56]",669.71
+2006,Quebec,"Business, building and other support services [55-56]",687.33
+2007,Quebec,"Business, building and other support services [55-56]",743.87
+2008,Quebec,"Business, building and other support services [55-56]",762.79
+2009,Quebec,"Business, building and other support services [55-56]",761.69
+2010,Quebec,"Business, building and other support services [55-56]",772.26
+2011,Quebec,"Business, building and other support services [55-56]",812.44
+2012,Quebec,"Business, building and other support services [55-56]",778.89
+2013,Quebec,"Business, building and other support services [55-56]",831.09
+2014,Quebec,"Business, building and other support services [55-56]",841.02
+2015,Quebec,"Business, building and other support services [55-56]",886.06
+2016,Quebec,"Business, building and other support services [55-56]",908.51
+2017,Quebec,"Business, building and other support services [55-56]",870.05
+2018,Quebec,"Business, building and other support services [55-56]",916.35
+2019,Quebec,"Business, building and other support services [55-56]",949.84
+2020,Quebec,"Business, building and other support services [55-56]",1127.92
+1997,Saskatchewan,"Business, building and other support services [55-56]",734.1
+1998,Saskatchewan,"Business, building and other support services [55-56]",747.98
+1999,Saskatchewan,"Business, building and other support services [55-56]",756.03
+2000,Saskatchewan,"Business, building and other support services [55-56]",750.01
+2001,Saskatchewan,"Business, building and other support services [55-56]",762.27
+2002,Saskatchewan,"Business, building and other support services [55-56]",785.21
+2003,Saskatchewan,"Business, building and other support services [55-56]",808.06
+2004,Saskatchewan,"Business, building and other support services [55-56]",791.59
+2005,Saskatchewan,"Business, building and other support services [55-56]",803.4
+2006,Saskatchewan,"Business, building and other support services [55-56]",827.31
+2007,Saskatchewan,"Business, building and other support services [55-56]",857.82
+2008,Saskatchewan,"Business, building and other support services [55-56]",890.16
+2009,Saskatchewan,"Business, building and other support services [55-56]",894.15
+2010,Saskatchewan,"Business, building and other support services [55-56]",964.1
+2011,Saskatchewan,"Business, building and other support services [55-56]",938.07
+2012,Saskatchewan,"Business, building and other support services [55-56]",996.65
+2013,Saskatchewan,"Business, building and other support services [55-56]",991.05
+2014,Saskatchewan,"Business, building and other support services [55-56]",1012.78
+2015,Saskatchewan,"Business, building and other support services [55-56]",1028.68
+2016,Saskatchewan,"Business, building and other support services [55-56]",1043.07
+2017,Saskatchewan,"Business, building and other support services [55-56]",1050.92
+2018,Saskatchewan,"Business, building and other support services [55-56]",1130.33
+2019,Saskatchewan,"Business, building and other support services [55-56]",1126.81
+2020,Saskatchewan,"Business, building and other support services [55-56]",1206.16
+1997,Alberta,Construction [23],514.06
+1998,Alberta,Construction [23],513.68
+1999,Alberta,Construction [23],489.48
+2000,Alberta,Construction [23],544.86
+2001,Alberta,Construction [23],534.25
+2002,Alberta,Construction [23],544.64
+2003,Alberta,Construction [23],568.85
+2004,Alberta,Construction [23],575.8
+2005,Alberta,Construction [23],601.73
+2006,Alberta,Construction [23],633.11
+2007,Alberta,Construction [23],666.44
+2008,Alberta,Construction [23],667.99
+2009,Alberta,Construction [23],660.72
+2010,Alberta,Construction [23],688.34
+2011,Alberta,Construction [23],709.1
+2012,Alberta,Construction [23],705.22
+2013,Alberta,Construction [23],715.73
+2014,Alberta,Construction [23],750.83
+2015,Alberta,Construction [23],751.93
+2016,Alberta,Construction [23],778.33
+2017,Alberta,Construction [23],805.43
+2018,Alberta,Construction [23],844.93
+2019,Alberta,Construction [23],843.32
+2020,Alberta,Construction [23],911.1
+1997,British Columbia,Construction [23],734.39
+1998,British Columbia,Construction [23],750.94
+1999,British Columbia,Construction [23],776.59
+2000,British Columbia,Construction [23],778.35
+2001,British Columbia,Construction [23],809.24
+2002,British Columbia,Construction [23],850.28
+2003,British Columbia,Construction [23],859.74
+2004,British Columbia,Construction [23],839.69
+2005,British Columbia,Construction [23],930.57
+2006,British Columbia,Construction [23],954.12
+2007,British Columbia,Construction [23],973.82
+2008,British Columbia,Construction [23],992.3
+2009,British Columbia,Construction [23],1094.31
+2010,British Columbia,Construction [23],1084.89
+2011,British Columbia,Construction [23],1103.68
+2012,British Columbia,Construction [23],1127.4
+2013,British Columbia,Construction [23],1205.26
+2014,British Columbia,Construction [23],1155.95
+2015,British Columbia,Construction [23],1202.23
+2016,British Columbia,Construction [23],1170.88
+2017,British Columbia,Construction [23],1184.05
+2018,British Columbia,Construction [23],1277.72
+2019,British Columbia,Construction [23],1318.94
+2020,British Columbia,Construction [23],1392.4
+1997,Manitoba,Construction [23],700.73
+1998,Manitoba,Construction [23],719.85
+1999,Manitoba,Construction [23],733.71
+2000,Manitoba,Construction [23],730.32
+2001,Manitoba,Construction [23],771.73
+2002,Manitoba,Construction [23],801.9
+2003,Manitoba,Construction [23],803.69
+2004,Manitoba,Construction [23],790.7
+2005,Manitoba,Construction [23],838.88
+2006,Manitoba,Construction [23],853.86
+2007,Manitoba,Construction [23],873.97
+2008,Manitoba,Construction [23],919.75
+2009,Manitoba,Construction [23],921.13
+2010,Manitoba,Construction [23],973.09
+2011,Manitoba,Construction [23],978.45
+2012,Manitoba,Construction [23],981.31
+2013,Manitoba,Construction [23],1057.95
+2014,Manitoba,Construction [23],1022.69
+2015,Manitoba,Construction [23],1078.58
+2016,Manitoba,Construction [23],1074.4
+2017,Manitoba,Construction [23],1094.54
+2018,Manitoba,Construction [23],1125.68
+2019,Manitoba,Construction [23],1098.9
+2020,Manitoba,Construction [23],1221.76
+1997,New Brunswick,Construction [23],489.7
+1998,New Brunswick,Construction [23],482.32
+1999,New Brunswick,Construction [23],503.56
+2000,New Brunswick,Construction [23],490.51
+2001,New Brunswick,Construction [23],488.67
+2002,New Brunswick,Construction [23],503.13
+2003,New Brunswick,Construction [23],524.31
+2004,New Brunswick,Construction [23],522.49
+2005,New Brunswick,Construction [23],522.13
+2006,New Brunswick,Construction [23],559.45
+2007,New Brunswick,Construction [23],575.76
+2008,New Brunswick,Construction [23],595.83
+2009,New Brunswick,Construction [23],611.6
+2010,New Brunswick,Construction [23],633.03
+2011,New Brunswick,Construction [23],633.09
+2012,New Brunswick,Construction [23],637.01
+2013,New Brunswick,Construction [23],663.39
+2014,New Brunswick,Construction [23],663.38
+2015,New Brunswick,Construction [23],705.96
+2016,New Brunswick,Construction [23],709.09
+2017,New Brunswick,Construction [23],718.73
+2018,New Brunswick,Construction [23],735.53
+2019,New Brunswick,Construction [23],789.68
+2020,New Brunswick,Construction [23],835.14
+1997,Newfoundland and Labrador,Construction [23],224.7
+1998,Newfoundland and Labrador,Construction [23],238.14
+1999,Newfoundland and Labrador,Construction [23],231.41
+2000,Newfoundland and Labrador,Construction [23],240.57
+2001,Newfoundland and Labrador,Construction [23],244.22
+2002,Newfoundland and Labrador,Construction [23],252.57
+2003,Newfoundland and Labrador,Construction [23],256.01
+2004,Newfoundland and Labrador,Construction [23],276.38
+2005,Newfoundland and Labrador,Construction [23],281.53
+2006,Newfoundland and Labrador,Construction [23],295.37
+2007,Newfoundland and Labrador,Construction [23],306.81
+2008,Newfoundland and Labrador,Construction [23],310.69
+2009,Newfoundland and Labrador,Construction [23],333.35
+2010,Newfoundland and Labrador,Construction [23],341.1
+2011,Newfoundland and Labrador,Construction [23],344.43
+2012,Newfoundland and Labrador,Construction [23],359.54
+2013,Newfoundland and Labrador,Construction [23],358.02
+2014,Newfoundland and Labrador,Construction [23],373.72
+2015,Newfoundland and Labrador,Construction [23],393.08
+2016,Newfoundland and Labrador,Construction [23],393.94
+2017,Newfoundland and Labrador,Construction [23],389.27
+2018,Newfoundland and Labrador,Construction [23],408.54
+2019,Newfoundland and Labrador,Construction [23],412.05
+2020,Newfoundland and Labrador,Construction [23],414.31
+1997,Nova Scotia,Construction [23],370.56
+1998,Nova Scotia,Construction [23],387.4
+1999,Nova Scotia,Construction [23],380.19
+2000,Nova Scotia,Construction [23],392.9
+2001,Nova Scotia,Construction [23],406.28
+2002,Nova Scotia,Construction [23],399.09
+2003,Nova Scotia,Construction [23],379.19
+2004,Nova Scotia,Construction [23],419.11
+2005,Nova Scotia,Construction [23],435.84
+2006,Nova Scotia,Construction [23],443.64
+2007,Nova Scotia,Construction [23],474.19
+2008,Nova Scotia,Construction [23],511.9
+2009,Nova Scotia,Construction [23],479.61
+2010,Nova Scotia,Construction [23],534.34
+2011,Nova Scotia,Construction [23],538.91
+2012,Nova Scotia,Construction [23],551.58
+2013,Nova Scotia,Construction [23],527.38
+2014,Nova Scotia,Construction [23],610.85
+2015,Nova Scotia,Construction [23],607.01
+2016,Nova Scotia,Construction [23],603.82
+2017,Nova Scotia,Construction [23],643.71
+2018,Nova Scotia,Construction [23],636.59
+2019,Nova Scotia,Construction [23],660.43
+2020,Nova Scotia,Construction [23],709.77
+1997,Ontario,Construction [23],581.65
+1998,Ontario,Construction [23],619.06
+1999,Ontario,Construction [23],624.16
+2000,Ontario,Construction [23],646.26
+2001,Ontario,Construction [23],656.81
+2002,Ontario,Construction [23],677.1
+2003,Ontario,Construction [23],672.28
+2004,Ontario,Construction [23],697.59
+2005,Ontario,Construction [23],729.82
+2006,Ontario,Construction [23],748.84
+2007,Ontario,Construction [23],776.01
+2008,Ontario,Construction [23],821.53
+2009,Ontario,Construction [23],834.16
+2010,Ontario,Construction [23],881.43
+2011,Ontario,Construction [23],899.69
+2012,Ontario,Construction [23],945.73
+2013,Ontario,Construction [23],961.64
+2014,Ontario,Construction [23],973.97
+2015,Ontario,Construction [23],1026.79
+2016,Ontario,Construction [23],1031.41
+2017,Ontario,Construction [23],1098.15
+2018,Ontario,Construction [23],1104.67
+2019,Ontario,Construction [23],1170.14
+2020,Ontario,Construction [23],1182.85
+1997,Prince Edward Island,Construction [23],645.23
+1998,Prince Edward Island,Construction [23],654.35
+1999,Prince Edward Island,Construction [23],658.49
+2000,Prince Edward Island,Construction [23],649.01
+2001,Prince Edward Island,Construction [23],687.58
+2002,Prince Edward Island,Construction [23],667.89
+2003,Prince Edward Island,Construction [23],701.49
+2004,Prince Edward Island,Construction [23],701.45
+2005,Prince Edward Island,Construction [23],730.43
+2006,Prince Edward Island,Construction [23],751.4
+2007,Prince Edward Island,Construction [23],772.82
+2008,Prince Edward Island,Construction [23],821.3
+2009,Prince Edward Island,Construction [23],875.13
+2010,Prince Edward Island,Construction [23],868.03
+2011,Prince Edward Island,Construction [23],905.52
+2012,Prince Edward Island,Construction [23],915.93
+2013,Prince Edward Island,Construction [23],936.99
+2014,Prince Edward Island,Construction [23],927.14
+2015,Prince Edward Island,Construction [23],973.67
+2016,Prince Edward Island,Construction [23],977.08
+2017,Prince Edward Island,Construction [23],1005.17
+2018,Prince Edward Island,Construction [23],1037.26
+2019,Prince Edward Island,Construction [23],1045.56
+2020,Prince Edward Island,Construction [23],1136.72
+1997,Quebec,Construction [23],516.75
+1998,Quebec,Construction [23],530.56
+1999,Quebec,Construction [23],591.85
+2000,Quebec,Construction [23],579.38
+2001,Quebec,Construction [23],564.33
+2002,Quebec,Construction [23],627.91
+2003,Quebec,Construction [23],617.84
+2004,Quebec,Construction [23],653.64
+2005,Quebec,Construction [23],655.69
+2006,Quebec,Construction [23],679.48
+2007,Quebec,Construction [23],740.28
+2008,Quebec,Construction [23],776.28
+2009,Quebec,Construction [23],800.62
+2010,Quebec,Construction [23],822.77
+2011,Quebec,Construction [23],859.94
+2012,Quebec,Construction [23],819.88
+2013,Quebec,Construction [23],827.35
+2014,Quebec,Construction [23],908.85
+2015,Quebec,Construction [23],914.26
+2016,Quebec,Construction [23],935.82
+2017,Quebec,Construction [23],970.66
+2018,Quebec,Construction [23],1014.61
+2019,Quebec,Construction [23],1053.47
+2020,Quebec,Construction [23],1141.55
+1997,Saskatchewan,Construction [23],468.29
+1998,Saskatchewan,Construction [23],471.28
+1999,Saskatchewan,Construction [23],476.24
+2000,Saskatchewan,Construction [23],526.07
+2001,Saskatchewan,Construction [23],523.09
+2002,Saskatchewan,Construction [23],534.15
+2003,Saskatchewan,Construction [23],561.84
+2004,Saskatchewan,Construction [23],588.23
+2005,Saskatchewan,Construction [23],605.48
+2006,Saskatchewan,Construction [23],633.56
+2007,Saskatchewan,Construction [23],660.47
+2008,Saskatchewan,Construction [23],701.84
+2009,Saskatchewan,Construction [23],724.99
+2010,Saskatchewan,Construction [23],747.59
+2011,Saskatchewan,Construction [23],750.05
+2012,Saskatchewan,Construction [23],762.61
+2013,Saskatchewan,Construction [23],768.17
+2014,Saskatchewan,Construction [23],803.92
+2015,Saskatchewan,Construction [23],828.79
+2016,Saskatchewan,Construction [23],860.54
+2017,Saskatchewan,Construction [23],857.61
+2018,Saskatchewan,Construction [23],875.42
+2019,Saskatchewan,Construction [23],902.27
+2020,Saskatchewan,Construction [23],916.51
+1997,Alberta,Educational services [61],498.19
+1998,Alberta,Educational services [61],518.97
+1999,Alberta,Educational services [61],513.19
+2000,Alberta,Educational services [61],521.21
+2001,Alberta,Educational services [61],529.85
+2002,Alberta,Educational services [61],560.36
+2003,Alberta,Educational services [61],605.45
+2004,Alberta,Educational services [61],626.8
+2005,Alberta,Educational services [61],615.48
+2006,Alberta,Educational services [61],614.71
+2007,Alberta,Educational services [61],660.81
+2008,Alberta,Educational services [61],692.66
+2009,Alberta,Educational services [61],651.72
+2010,Alberta,Educational services [61],704.09
+2011,Alberta,Educational services [61],706.26
+2012,Alberta,Educational services [61],764.06
+2013,Alberta,Educational services [61],785.46
+2014,Alberta,Educational services [61],743.1
+2015,Alberta,Educational services [61],761.43
+2016,Alberta,Educational services [61],754.24
+2017,Alberta,Educational services [61],730.59
+2018,Alberta,Educational services [61],711.05
+2019,Alberta,Educational services [61],801.2
+2020,Alberta,Educational services [61],889.31
+1997,British Columbia,Educational services [61],534.47
+1998,British Columbia,Educational services [61],537.24
+1999,British Columbia,Educational services [61],553.3
+2000,British Columbia,Educational services [61],578.51
+2001,British Columbia,Educational services [61],597.09
+2002,British Columbia,Educational services [61],610.73
+2003,British Columbia,Educational services [61],630.66
+2004,British Columbia,Educational services [61],632.41
+2005,British Columbia,Educational services [61],651.57
+2006,British Columbia,Educational services [61],667.73
+2007,British Columbia,Educational services [61],695.66
+2008,British Columbia,Educational services [61],714.61
+2009,British Columbia,Educational services [61],770.63
+2010,British Columbia,Educational services [61],767.38
+2011,British Columbia,Educational services [61],783.44
+2012,British Columbia,Educational services [61],803.82
+2013,British Columbia,Educational services [61],833.49
+2014,British Columbia,Educational services [61],842.67
+2015,British Columbia,Educational services [61],884.24
+2016,British Columbia,Educational services [61],883.17
+2017,British Columbia,Educational services [61],917.45
+2018,British Columbia,Educational services [61],928.86
+2019,British Columbia,Educational services [61],956.05
+2020,British Columbia,Educational services [61],994.08
+1997,Manitoba,Educational services [61],438.93
+1998,Manitoba,Educational services [61],448.11
+1999,Manitoba,Educational services [61],469.25
+2000,Manitoba,Educational services [61],467.51
+2001,Manitoba,Educational services [61],474.93
+2002,Manitoba,Educational services [61],470.05
+2003,Manitoba,Educational services [61],520.31
+2004,Manitoba,Educational services [61],549.99
+2005,Manitoba,Educational services [61],557.94
+2006,Manitoba,Educational services [61],563.68
+2007,Manitoba,Educational services [61],569.97
+2008,Manitoba,Educational services [61],617.61
+2009,Manitoba,Educational services [61],612.36
+2010,Manitoba,Educational services [61],642.27
+2011,Manitoba,Educational services [61],663.98
+2012,Manitoba,Educational services [61],660.64
+2013,Manitoba,Educational services [61],691.61
+2014,Manitoba,Educational services [61],682.94
+2015,Manitoba,Educational services [61],740.1
+2016,Manitoba,Educational services [61],773.23
+2017,Manitoba,Educational services [61],767.36
+2018,Manitoba,Educational services [61],750.5
+2019,Manitoba,Educational services [61],779.7
+2020,Manitoba,Educational services [61],833.14
+1997,New Brunswick,Educational services [61],555.7
+1998,New Brunswick,Educational services [61],581.59
+1999,New Brunswick,Educational services [61],601.88
+2000,New Brunswick,Educational services [61],630.43
+2001,New Brunswick,Educational services [61],655.74
+2002,New Brunswick,Educational services [61],675.51
+2003,New Brunswick,Educational services [61],686.5
+2004,New Brunswick,Educational services [61],759.44
+2005,New Brunswick,Educational services [61],721.71
+2006,New Brunswick,Educational services [61],767.89
+2007,New Brunswick,Educational services [61],832.74
+2008,New Brunswick,Educational services [61],836.17
+2009,New Brunswick,Educational services [61],828.29
+2010,New Brunswick,Educational services [61],900.56
+2011,New Brunswick,Educational services [61],944.47
+2012,New Brunswick,Educational services [61],987.83
+2013,New Brunswick,Educational services [61],1008.89
+2014,New Brunswick,Educational services [61],986.19
+2015,New Brunswick,Educational services [61],979.04
+2016,New Brunswick,Educational services [61],1077.51
+2017,New Brunswick,Educational services [61],1079.12
+2018,New Brunswick,Educational services [61],1052.45
+2019,New Brunswick,Educational services [61],1193.25
+2020,New Brunswick,Educational services [61],1106.5
+1997,Newfoundland and Labrador,Educational services [61],634.23
+1998,Newfoundland and Labrador,Educational services [61],658.28
+1999,Newfoundland and Labrador,Educational services [61],680.81
+2000,Newfoundland and Labrador,Educational services [61],705.19
+2001,Newfoundland and Labrador,Educational services [61],692.82
+2002,Newfoundland and Labrador,Educational services [61],738.2
+2003,Newfoundland and Labrador,Educational services [61],741.03
+2004,Newfoundland and Labrador,Educational services [61],774.72
+2005,Newfoundland and Labrador,Educational services [61],789.78
+2006,Newfoundland and Labrador,Educational services [61],821.77
+2007,Newfoundland and Labrador,Educational services [61],829.03
+2008,Newfoundland and Labrador,Educational services [61],855.32
+2009,Newfoundland and Labrador,Educational services [61],860.52
+2010,Newfoundland and Labrador,Educational services [61],902.34
+2011,Newfoundland and Labrador,Educational services [61],900.56
+2012,Newfoundland and Labrador,Educational services [61],899.55
+2013,Newfoundland and Labrador,Educational services [61],946.27
+2014,Newfoundland and Labrador,Educational services [61],953.81
+2015,Newfoundland and Labrador,Educational services [61],954.5
+2016,Newfoundland and Labrador,Educational services [61],974.48
+2017,Newfoundland and Labrador,Educational services [61],1010.15
+2018,Newfoundland and Labrador,Educational services [61],1045.57
+2019,Newfoundland and Labrador,Educational services [61],1014.63
+2020,Newfoundland and Labrador,Educational services [61],1056.01
+1997,Nova Scotia,Educational services [61],414.24
+1998,Nova Scotia,Educational services [61],405.68
+1999,Nova Scotia,Educational services [61],425.41
+2000,Nova Scotia,Educational services [61],442
+2001,Nova Scotia,Educational services [61],449
+2002,Nova Scotia,Educational services [61],461.31
+2003,Nova Scotia,Educational services [61],472.23
+2004,Nova Scotia,Educational services [61],483.75
+2005,Nova Scotia,Educational services [61],491.55
+2006,Nova Scotia,Educational services [61],499.48
+2007,Nova Scotia,Educational services [61],519.85
+2008,Nova Scotia,Educational services [61],540.89
+2009,Nova Scotia,Educational services [61],555.46
+2010,Nova Scotia,Educational services [61],561.65
+2011,Nova Scotia,Educational services [61],601.67
+2012,Nova Scotia,Educational services [61],623.3
+2013,Nova Scotia,Educational services [61],612.49
+2014,Nova Scotia,Educational services [61],632.92
+2015,Nova Scotia,Educational services [61],657.41
+2016,Nova Scotia,Educational services [61],645.46
+2017,Nova Scotia,Educational services [61],685.26
+2018,Nova Scotia,Educational services [61],672.8
+2019,Nova Scotia,Educational services [61],701.75
+2020,Nova Scotia,Educational services [61],723.92
+1997,Ontario,Educational services [61],231.49
+1998,Ontario,Educational services [61],228.28
+1999,Ontario,Educational services [61],251.06
+2000,Ontario,Educational services [61],239.14
+2001,Ontario,Educational services [61],262.56
+2002,Ontario,Educational services [61],253.87
+2003,Ontario,Educational services [61],279.4
+2004,Ontario,Educational services [61],285.91
+2005,Ontario,Educational services [61],288.07
+2006,Ontario,Educational services [61],303.91
+2007,Ontario,Educational services [61],295.28
+2008,Ontario,Educational services [61],309.43
+2009,Ontario,Educational services [61],335.1
+2010,Ontario,Educational services [61],335.69
+2011,Ontario,Educational services [61],372.93
+2012,Ontario,Educational services [61],403.09
+2013,Ontario,Educational services [61],395.39
+2014,Ontario,Educational services [61],395.01
+2015,Ontario,Educational services [61],410.6
+2016,Ontario,Educational services [61],406.46
+2017,Ontario,Educational services [61],432.41
+2018,Ontario,Educational services [61],444.82
+2019,Ontario,Educational services [61],432.25
+2020,Ontario,Educational services [61],438.91
+1997,Prince Edward Island,Educational services [61],309.75
+1998,Prince Edward Island,Educational services [61],324.61
+1999,Prince Edward Island,Educational services [61],353.91
+2000,Prince Edward Island,Educational services [61],379.81
+2001,Prince Edward Island,Educational services [61],406.93
+2002,Prince Edward Island,Educational services [61],441.14
+2003,Prince Edward Island,Educational services [61],427.09
+2004,Prince Edward Island,Educational services [61],436.82
+2005,Prince Edward Island,Educational services [61],434.7
+2006,Prince Edward Island,Educational services [61],459.7
+2007,Prince Edward Island,Educational services [61],463.47
+2008,Prince Edward Island,Educational services [61],486.88
+2009,Prince Edward Island,Educational services [61],514.76
+2010,Prince Edward Island,Educational services [61],521.28
+2011,Prince Edward Island,Educational services [61],587.39
+2012,Prince Edward Island,Educational services [61],565.61
+2013,Prince Edward Island,Educational services [61],618.52
+2014,Prince Edward Island,Educational services [61],633.06
+2015,Prince Edward Island,Educational services [61],638.75
+2016,Prince Edward Island,Educational services [61],590.19
+2017,Prince Edward Island,Educational services [61],640.95
+2018,Prince Edward Island,Educational services [61],652.71
+2019,Prince Edward Island,Educational services [61],663.6
+2020,Prince Edward Island,Educational services [61],733.72
+1997,Quebec,Educational services [61],572.4
+1998,Quebec,Educational services [61],562.05
+1999,Quebec,Educational services [61],578.18
+2000,Quebec,Educational services [61],629.94
+2001,Quebec,Educational services [61],618.25
+2002,Quebec,Educational services [61],616.94
+2003,Quebec,Educational services [61],635.91
+2004,Quebec,Educational services [61],655.92
+2005,Quebec,Educational services [61],653.46
+2006,Quebec,Educational services [61],684.65
+2007,Quebec,Educational services [61],742.71
+2008,Quebec,Educational services [61],796.55
+2009,Quebec,Educational services [61],812.17
+2010,Quebec,Educational services [61],841.57
+2011,Quebec,Educational services [61],827.21
+2012,Quebec,Educational services [61],892.51
+2013,Quebec,Educational services [61],975.65
+2014,Quebec,Educational services [61],1000.22
+2015,Quebec,Educational services [61],1006.53
+2016,Quebec,Educational services [61],983.34
+2017,Quebec,Educational services [61],989.81
+2018,Quebec,Educational services [61],1038.46
+2019,Quebec,Educational services [61],997.7
+2020,Quebec,Educational services [61],1105.68
+1997,Saskatchewan,Educational services [61],624.87
+1998,Saskatchewan,Educational services [61],651.82
+1999,Saskatchewan,Educational services [61],639.34
+2000,Saskatchewan,Educational services [61],644.88
+2001,Saskatchewan,Educational services [61],638.8
+2002,Saskatchewan,Educational services [61],662.69
+2003,Saskatchewan,Educational services [61],672.34
+2004,Saskatchewan,Educational services [61],696.7
+2005,Saskatchewan,Educational services [61],738.35
+2006,Saskatchewan,Educational services [61],767.9
+2007,Saskatchewan,Educational services [61],810.89
+2008,Saskatchewan,Educational services [61],785.6
+2009,Saskatchewan,Educational services [61],853.05
+2010,Saskatchewan,Educational services [61],882.47
+2011,Saskatchewan,Educational services [61],880.45
+2012,Saskatchewan,Educational services [61],916.64
+2013,Saskatchewan,Educational services [61],933.86
+2014,Saskatchewan,Educational services [61],950.23
+2015,Saskatchewan,Educational services [61],946.5
+2016,Saskatchewan,Educational services [61],1031.18
+2017,Saskatchewan,Educational services [61],1048.98
+2018,Saskatchewan,Educational services [61],1053.3
+2019,Saskatchewan,Educational services [61],1118.28
+2020,Saskatchewan,Educational services [61],1103.4
+1997,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",471
+1998,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",514.15
+1999,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",516.78
+2000,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",578.07
+2001,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",585.01
+2002,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",585.11
+2003,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",603.18
+2004,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",575.73
+2005,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",598.23
+2006,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",643.77
+2007,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",643
+2008,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",715.52
+2009,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",774.29
+2010,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",752.98
+2011,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",768.14
+2012,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",722.83
+2013,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",781.27
+2014,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",856.04
+2015,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",847.35
+2016,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",818.55
+2017,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",882.87
+2018,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",925.8
+2019,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",902.2
+2020,Alberta,"Finance, insurance, real estate, rental and leasing [52-53]",977.46
+1997,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",475.15
+1998,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",494.77
+1999,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",470.6
+2000,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",490.88
+2001,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",534.1
+2002,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",543.13
+2003,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",557.2
+2004,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",567.9
+2005,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",599.55
+2006,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",625.65
+2007,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",658.87
+2008,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",693.47
+2009,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",706.16
+2010,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",715.22
+2011,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",741.09
+2012,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",748.38
+2013,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",764.95
+2014,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",772.97
+2015,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",792.64
+2016,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",822.86
+2017,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",850.91
+2018,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",848.12
+2019,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",843.04
+2020,British Columbia,"Finance, insurance, real estate, rental and leasing [52-53]",872.24
+1997,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",503.96
+1998,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",513.87
+1999,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",530.8
+2000,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",570.09
+2001,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",527.72
+2002,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",517.51
+2003,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",521.39
+2004,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",537.22
+2005,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",522.11
+2006,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",579.94
+2007,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",666.92
+2008,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",660.1
+2009,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",655.48
+2010,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",661.52
+2011,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",662.33
+2012,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",715.53
+2013,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",707.43
+2014,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",768.13
+2015,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",770.06
+2016,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",761.15
+2017,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",766.79
+2018,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",736.46
+2019,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",826.88
+2020,Manitoba,"Finance, insurance, real estate, rental and leasing [52-53]",873.25
+1997,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",551.77
+1998,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",576.36
+1999,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",582.81
+2000,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",633.78
+2001,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",610.42
+2002,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",629.93
+2003,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",649.56
+2004,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",636.96
+2005,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",663.6
+2006,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",684.71
+2007,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",731.26
+2008,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",736.83
+2009,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",757.44
+2010,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",792.27
+2011,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",787.1
+2012,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",804.54
+2013,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",849.09
+2014,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",834.13
+2015,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",897.45
+2016,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",918.89
+2017,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",938.46
+2018,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",960.26
+2019,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",1011.47
+2020,New Brunswick,"Finance, insurance, real estate, rental and leasing [52-53]",1020.9
+1997,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",389.08
+1998,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",441.58
+1999,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",411.91
+2000,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",444.88
+2001,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",459.29
+2002,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",471.49
+2003,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",452.35
+2004,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",456.2
+2005,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",514.5
+2006,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",566.22
+2007,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",501.7
+2008,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",560.35
+2009,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",586.35
+2010,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",604.98
+2011,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",611.65
+2012,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",690.94
+2013,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",675.84
+2014,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",642.1
+2015,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",705.18
+2016,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",706.8
+2017,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",731.02
+2018,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",779.26
+2019,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",708.71
+2020,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing [52-53]",801.9
+1997,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",533.53
+1998,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",558.31
+1999,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",595.58
+2000,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",630.14
+2001,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",648.6
+2002,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",649.5
+2003,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",704.59
+2004,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",729.8
+2005,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",731.85
+2006,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",801.21
+2007,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",793.86
+2008,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",830.99
+2009,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",891.1
+2010,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",911.19
+2011,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",932.83
+2012,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",923.54
+2013,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",966.99
+2014,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",1005.51
+2015,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",1027.93
+2016,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",1119.19
+2017,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",1072.12
+2018,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",1073.09
+2019,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",1144.51
+2020,Nova Scotia,"Finance, insurance, real estate, rental and leasing [52-53]",1211.09
+1997,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",571.32
+1998,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",544.39
+1999,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",583.48
+2000,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",593.04
+2001,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",609.86
+2002,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",628.66
+2003,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",654.03
+2004,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",689.27
+2005,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",675.05
+2006,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",704.81
+2007,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",705.02
+2008,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",749.81
+2009,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",744.34
+2010,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",777.17
+2011,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",803.2
+2012,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",814.14
+2013,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",822.24
+2014,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",856.31
+2015,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",868.27
+2016,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",920.94
+2017,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",862.15
+2018,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",984.08
+2019,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",957.43
+2020,Ontario,"Finance, insurance, real estate, rental and leasing [52-53]",978.83
+1997,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",366.33
+1998,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",359.29
+1999,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",376.92
+2000,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",390.69
+2001,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",410.72
+2002,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",402.3
+2003,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",419.74
+2004,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",429.71
+2005,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",443.41
+2006,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",436.17
+2007,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",461.17
+2008,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",484.06
+2009,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",508.85
+2010,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",523.54
+2011,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",512.22
+2012,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",551.37
+2013,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",560.55
+2014,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",573.32
+2015,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",567.58
+2016,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",598.83
+2017,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",618.83
+2018,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",585.03
+2019,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",621.01
+2020,Prince Edward Island,"Finance, insurance, real estate, rental and leasing [52-53]",639.08
+1997,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",240.79
+1998,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",219.99
+1999,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",220.82
+2000,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",244.65
+2001,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",257.72
+2002,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",242.27
+2003,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",268.52
+2004,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",273.18
+2005,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",299.34
+2006,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",318.83
+2007,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",321.05
+2008,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",354.46
+2009,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",363.62
+2010,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",407.1
+2011,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",407.02
+2012,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",427.01
+2013,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",458.9
+2014,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",474.33
+2015,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",472.75
+2016,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",449.99
+2017,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",435.49
+2018,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",469.54
+2019,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",483.54
+2020,Quebec,"Finance, insurance, real estate, rental and leasing [52-53]",525.52
+1997,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",276.87
+1998,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",344.49
+1999,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",338.46
+2000,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",387.86
+2001,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",430.62
+2002,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",418.06
+2003,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",424.25
+2004,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",380.09
+2005,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",445.25
+2006,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",426.63
+2007,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",522.39
+2008,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",512.96
+2009,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",614.15
+2010,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",622.23
+2011,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",639.08
+2012,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",762.77
+2013,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",835.49
+2014,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",829.56
+2015,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",736.88
+2016,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",900.68
+2017,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",853.08
+2018,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",840.62
+2019,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",892.27
+2020,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52-53]",874.65
+1997,Alberta,Health care and social assistance [62],612.53
+1998,Alberta,Health care and social assistance [62],574.8
+1999,Alberta,Health care and social assistance [62],592.52
+2000,Alberta,Health care and social assistance [62],625.33
+2001,Alberta,Health care and social assistance [62],646.19
+2002,Alberta,Health care and social assistance [62],640.51
+2003,Alberta,Health care and social assistance [62],721.79
+2004,Alberta,Health care and social assistance [62],711.06
+2005,Alberta,Health care and social assistance [62],741.16
+2006,Alberta,Health care and social assistance [62],773.41
+2007,Alberta,Health care and social assistance [62],854.87
+2008,Alberta,Health care and social assistance [62],980.13
+2009,Alberta,Health care and social assistance [62],981.86
+2010,Alberta,Health care and social assistance [62],960.92
+2011,Alberta,Health care and social assistance [62],981.75
+2012,Alberta,Health care and social assistance [62],1099.94
+2013,Alberta,Health care and social assistance [62],1192.41
+2014,Alberta,Health care and social assistance [62],1299.5
+2015,Alberta,Health care and social assistance [62],1303.86
+2016,Alberta,Health care and social assistance [62],1395.12
+2017,Alberta,Health care and social assistance [62],1378.51
+2018,Alberta,Health care and social assistance [62],1304.47
+2019,Alberta,Health care and social assistance [62],1334
+2020,Alberta,Health care and social assistance [62],1401.13
+1997,British Columbia,Health care and social assistance [62],621.59
+1998,British Columbia,Health care and social assistance [62],642.95
+1999,British Columbia,Health care and social assistance [62],650.58
+2000,British Columbia,Health care and social assistance [62],676.82
+2001,British Columbia,Health care and social assistance [62],665.33
+2002,British Columbia,Health care and social assistance [62],700.15
+2003,British Columbia,Health care and social assistance [62],763.34
+2004,British Columbia,Health care and social assistance [62],799.93
+2005,British Columbia,Health care and social assistance [62],831.96
+2006,British Columbia,Health care and social assistance [62],850.57
+2007,British Columbia,Health care and social assistance [62],817.52
+2008,British Columbia,Health care and social assistance [62],893.29
+2009,British Columbia,Health care and social assistance [62],843
+2010,British Columbia,Health care and social assistance [62],979.34
+2011,British Columbia,Health care and social assistance [62],1010.96
+2012,British Columbia,Health care and social assistance [62],1157.64
+2013,British Columbia,Health care and social assistance [62],1113.77
+2014,British Columbia,Health care and social assistance [62],1134.14
+2015,British Columbia,Health care and social assistance [62],1098.82
+2016,British Columbia,Health care and social assistance [62],1151.07
+2017,British Columbia,Health care and social assistance [62],1223.35
+2018,British Columbia,Health care and social assistance [62],1187.04
+2019,British Columbia,Health care and social assistance [62],1167.54
+2020,British Columbia,Health care and social assistance [62],1276.73
+1997,Manitoba,Health care and social assistance [62],531.23
+1998,Manitoba,Health care and social assistance [62],494.58
+1999,Manitoba,Health care and social assistance [62],497.45
+2000,Manitoba,Health care and social assistance [62],595.41
+2001,Manitoba,Health care and social assistance [62],587.8
+2002,Manitoba,Health care and social assistance [62],627.3
+2003,Manitoba,Health care and social assistance [62],578.27
+2004,Manitoba,Health care and social assistance [62],575.38
+2005,Manitoba,Health care and social assistance [62],631.65
+2006,Manitoba,Health care and social assistance [62],629.54
+2007,Manitoba,Health care and social assistance [62],696.48
+2008,Manitoba,Health care and social assistance [62],720.02
+2009,Manitoba,Health care and social assistance [62],752.82
+2010,Manitoba,Health care and social assistance [62],829.65
+2011,Manitoba,Health care and social assistance [62],814.65
+2012,Manitoba,Health care and social assistance [62],887.22
+2013,Manitoba,Health care and social assistance [62],861.77
+2014,Manitoba,Health care and social assistance [62],1048.79
+2015,Manitoba,Health care and social assistance [62],955.16
+2016,Manitoba,Health care and social assistance [62],913.38
+2017,Manitoba,Health care and social assistance [62],920.45
+2018,Manitoba,Health care and social assistance [62],984.92
+2019,Manitoba,Health care and social assistance [62],1031.31
+2020,Manitoba,Health care and social assistance [62],1023.39
+1997,New Brunswick,Health care and social assistance [62],451.5
+1998,New Brunswick,Health care and social assistance [62],464
+1999,New Brunswick,Health care and social assistance [62],474.54
+2000,New Brunswick,Health care and social assistance [62],500.03
+2001,New Brunswick,Health care and social assistance [62],533.96
+2002,New Brunswick,Health care and social assistance [62],548.01
+2003,New Brunswick,Health care and social assistance [62],600.52
+2004,New Brunswick,Health care and social assistance [62],577.46
+2005,New Brunswick,Health care and social assistance [62],627.69
+2006,New Brunswick,Health care and social assistance [62],660.83
+2007,New Brunswick,Health care and social assistance [62],668.16
+2008,New Brunswick,Health care and social assistance [62],694.87
+2009,New Brunswick,Health care and social assistance [62],728.71
+2010,New Brunswick,Health care and social assistance [62],786.08
+2011,New Brunswick,Health care and social assistance [62],823.52
+2012,New Brunswick,Health care and social assistance [62],894.44
+2013,New Brunswick,Health care and social assistance [62],867.23
+2014,New Brunswick,Health care and social assistance [62],884.39
+2015,New Brunswick,Health care and social assistance [62],904.41
+2016,New Brunswick,Health care and social assistance [62],889.23
+2017,New Brunswick,Health care and social assistance [62],970.4
+2018,New Brunswick,Health care and social assistance [62],932.78
+2019,New Brunswick,Health care and social assistance [62],968.54
+2020,New Brunswick,Health care and social assistance [62],1020.44
+1997,Newfoundland and Labrador,Health care and social assistance [62],524.79
+1998,Newfoundland and Labrador,Health care and social assistance [62],486.85
+1999,Newfoundland and Labrador,Health care and social assistance [62],426.1
+2000,Newfoundland and Labrador,Health care and social assistance [62],471.86
+2001,Newfoundland and Labrador,Health care and social assistance [62],534.04
+2002,Newfoundland and Labrador,Health care and social assistance [62],515.53
+2003,Newfoundland and Labrador,Health care and social assistance [62],532.37
+2004,Newfoundland and Labrador,Health care and social assistance [62],531.71
+2005,Newfoundland and Labrador,Health care and social assistance [62],551.43
+2006,Newfoundland and Labrador,Health care and social assistance [62],575.98
+2007,Newfoundland and Labrador,Health care and social assistance [62],626.06
+2008,Newfoundland and Labrador,Health care and social assistance [62],703.96
+2009,Newfoundland and Labrador,Health care and social assistance [62],661.25
+2010,Newfoundland and Labrador,Health care and social assistance [62],713.93
+2011,Newfoundland and Labrador,Health care and social assistance [62],735.03
+2012,Newfoundland and Labrador,Health care and social assistance [62],818.59
+2013,Newfoundland and Labrador,Health care and social assistance [62],775.24
+2014,Newfoundland and Labrador,Health care and social assistance [62],878.54
+2015,Newfoundland and Labrador,Health care and social assistance [62],773.85
+2016,Newfoundland and Labrador,Health care and social assistance [62],682.76
+2017,Newfoundland and Labrador,Health care and social assistance [62],734.45
+2018,Newfoundland and Labrador,Health care and social assistance [62],788.26
+2019,Newfoundland and Labrador,Health care and social assistance [62],817.09
+2020,Newfoundland and Labrador,Health care and social assistance [62],859.45
+1997,Nova Scotia,Health care and social assistance [62],542.62
+1998,Nova Scotia,Health care and social assistance [62],568.74
+1999,Nova Scotia,Health care and social assistance [62],538.89
+2000,Nova Scotia,Health care and social assistance [62],593.51
+2001,Nova Scotia,Health care and social assistance [62],604.74
+2002,Nova Scotia,Health care and social assistance [62],634.81
+2003,Nova Scotia,Health care and social assistance [62],638.72
+2004,Nova Scotia,Health care and social assistance [62],635.97
+2005,Nova Scotia,Health care and social assistance [62],672.01
+2006,Nova Scotia,Health care and social assistance [62],672.56
+2007,Nova Scotia,Health care and social assistance [62],763.25
+2008,Nova Scotia,Health care and social assistance [62],784.23
+2009,Nova Scotia,Health care and social assistance [62],729.16
+2010,Nova Scotia,Health care and social assistance [62],803.22
+2011,Nova Scotia,Health care and social assistance [62],814.06
+2012,Nova Scotia,Health care and social assistance [62],824.82
+2013,Nova Scotia,Health care and social assistance [62],893.73
+2014,Nova Scotia,Health care and social assistance [62],1076.63
+2015,Nova Scotia,Health care and social assistance [62],1029.4
+2016,Nova Scotia,Health care and social assistance [62],947.11
+2017,Nova Scotia,Health care and social assistance [62],1005.26
+2018,Nova Scotia,Health care and social assistance [62],963.94
+2019,Nova Scotia,Health care and social assistance [62],1032.45
+2020,Nova Scotia,Health care and social assistance [62],1200.48
+1997,Ontario,Health care and social assistance [62],368.09
+1998,Ontario,Health care and social assistance [62],395
+1999,Ontario,Health care and social assistance [62],349.91
+2000,Ontario,Health care and social assistance [62],350.14
+2001,Ontario,Health care and social assistance [62],390.39
+2002,Ontario,Health care and social assistance [62],460.51
+2003,Ontario,Health care and social assistance [62],422.94
+2004,Ontario,Health care and social assistance [62],409.28
+2005,Ontario,Health care and social assistance [62],473.89
+2006,Ontario,Health care and social assistance [62],455.96
+2007,Ontario,Health care and social assistance [62],496.03
+2008,Ontario,Health care and social assistance [62],527.57
+2009,Ontario,Health care and social assistance [62],619.52
+2010,Ontario,Health care and social assistance [62],546.5
+2011,Ontario,Health care and social assistance [62],616.91
+2012,Ontario,Health care and social assistance [62],626.04
+2013,Ontario,Health care and social assistance [62],655.13
+2014,Ontario,Health care and social assistance [62],669.49
+2015,Ontario,Health care and social assistance [62],678.78
+2016,Ontario,Health care and social assistance [62],661.58
+2017,Ontario,Health care and social assistance [62],762.35
+2018,Ontario,Health care and social assistance [62],737.25
+2019,Ontario,Health care and social assistance [62],788.41
+2020,Ontario,Health care and social assistance [62],804.82
+1997,Prince Edward Island,Health care and social assistance [62],637.62
+1998,Prince Edward Island,Health care and social assistance [62],560.92
+1999,Prince Edward Island,Health care and social assistance [62],631.32
+2000,Prince Edward Island,Health care and social assistance [62],647.2
+2001,Prince Edward Island,Health care and social assistance [62],740.49
+2002,Prince Edward Island,Health care and social assistance [62],805.56
+2003,Prince Edward Island,Health care and social assistance [62],727.3
+2004,Prince Edward Island,Health care and social assistance [62],706.14
+2005,Prince Edward Island,Health care and social assistance [62],745.19
+2006,Prince Edward Island,Health care and social assistance [62],854.54
+2007,Prince Edward Island,Health care and social assistance [62],803.06
+2008,Prince Edward Island,Health care and social assistance [62],898.14
+2009,Prince Edward Island,Health care and social assistance [62],891.66
+2010,Prince Edward Island,Health care and social assistance [62],1019.61
+2011,Prince Edward Island,Health care and social assistance [62],1050.23
+2012,Prince Edward Island,Health care and social assistance [62],1148.15
+2013,Prince Edward Island,Health care and social assistance [62],1173.18
+2014,Prince Edward Island,Health care and social assistance [62],1244.09
+2015,Prince Edward Island,Health care and social assistance [62],1322.59
+2016,Prince Edward Island,Health care and social assistance [62],1217.22
+2017,Prince Edward Island,Health care and social assistance [62],1189.78
+2018,Prince Edward Island,Health care and social assistance [62],1282.08
+2019,Prince Edward Island,Health care and social assistance [62],1300.02
+2020,Prince Edward Island,Health care and social assistance [62],1436.39
+1997,Quebec,Health care and social assistance [62],557.5
+1998,Quebec,Health care and social assistance [62],554.18
+1999,Quebec,Health care and social assistance [62],596.05
+2000,Quebec,Health care and social assistance [62],665.81
+2001,Quebec,Health care and social assistance [62],673.66
+2002,Quebec,Health care and social assistance [62],665.29
+2003,Quebec,Health care and social assistance [62],714.86
+2004,Quebec,Health care and social assistance [62],703.59
+2005,Quebec,Health care and social assistance [62],753.09
+2006,Quebec,Health care and social assistance [62],812.17
+2007,Quebec,Health care and social assistance [62],758.06
+2008,Quebec,Health care and social assistance [62],808.26
+2009,Quebec,Health care and social assistance [62],901.32
+2010,Quebec,Health care and social assistance [62],938.5
+2011,Quebec,Health care and social assistance [62],988.09
+2012,Quebec,Health care and social assistance [62],1014.96
+2013,Quebec,Health care and social assistance [62],998.4
+2014,Quebec,Health care and social assistance [62],1012.24
+2015,Quebec,Health care and social assistance [62],1086.59
+2016,Quebec,Health care and social assistance [62],1063.21
+2017,Quebec,Health care and social assistance [62],1119.74
+2018,Quebec,Health care and social assistance [62],1097.9
+2019,Quebec,Health care and social assistance [62],1158.8
+2020,Quebec,Health care and social assistance [62],1287.89
+1997,Saskatchewan,Health care and social assistance [62],313.31
+1998,Saskatchewan,Health care and social assistance [62],333.15
+1999,Saskatchewan,Health care and social assistance [62],343.04
+2000,Saskatchewan,Health care and social assistance [62],335.21
+2001,Saskatchewan,Health care and social assistance [62],362.47
+2002,Saskatchewan,Health care and social assistance [62],371.75
+2003,Saskatchewan,Health care and social assistance [62],401.31
+2004,Saskatchewan,Health care and social assistance [62],400.66
+2005,Saskatchewan,Health care and social assistance [62],395.18
+2006,Saskatchewan,Health care and social assistance [62],416.25
+2007,Saskatchewan,Health care and social assistance [62],445.16
+2008,Saskatchewan,Health care and social assistance [62],468.36
+2009,Saskatchewan,Health care and social assistance [62],499.85
+2010,Saskatchewan,Health care and social assistance [62],486.34
+2011,Saskatchewan,Health care and social assistance [62],514.07
+2012,Saskatchewan,Health care and social assistance [62],544.32
+2013,Saskatchewan,Health care and social assistance [62],588.71
+2014,Saskatchewan,Health care and social assistance [62],595.9
+2015,Saskatchewan,Health care and social assistance [62],578.88
+2016,Saskatchewan,Health care and social assistance [62],579.47
+2017,Saskatchewan,Health care and social assistance [62],599.62
+2018,Saskatchewan,Health care and social assistance [62],613.38
+2019,Saskatchewan,Health care and social assistance [62],643.09
+2020,Saskatchewan,Health care and social assistance [62],645.2
+1997,Alberta,"Information, culture and recreation [51, 71]",247.27
+1998,Alberta,"Information, culture and recreation [51, 71]",241.08
+1999,Alberta,"Information, culture and recreation [51, 71]",241.49
+2000,Alberta,"Information, culture and recreation [51, 71]",258.59
+2001,Alberta,"Information, culture and recreation [51, 71]",274.01
+2002,Alberta,"Information, culture and recreation [51, 71]",271.34
+2003,Alberta,"Information, culture and recreation [51, 71]",294.22
+2004,Alberta,"Information, culture and recreation [51, 71]",276.79
+2005,Alberta,"Information, culture and recreation [51, 71]",304.73
+2006,Alberta,"Information, culture and recreation [51, 71]",302.54
+2007,Alberta,"Information, culture and recreation [51, 71]",323.28
+2008,Alberta,"Information, culture and recreation [51, 71]",320.81
+2009,Alberta,"Information, culture and recreation [51, 71]",360.9
+2010,Alberta,"Information, culture and recreation [51, 71]",374.36
+2011,Alberta,"Information, culture and recreation [51, 71]",380.03
+2012,Alberta,"Information, culture and recreation [51, 71]",378.18
+2013,Alberta,"Information, culture and recreation [51, 71]",421.83
+2014,Alberta,"Information, culture and recreation [51, 71]",398.61
+2015,Alberta,"Information, culture and recreation [51, 71]",411.1
+2016,Alberta,"Information, culture and recreation [51, 71]",389.98
+2017,Alberta,"Information, culture and recreation [51, 71]",412
+2018,Alberta,"Information, culture and recreation [51, 71]",430.19
+2019,Alberta,"Information, culture and recreation [51, 71]",416.44
+2020,Alberta,"Information, culture and recreation [51, 71]",450.69
+1997,British Columbia,"Information, culture and recreation [51, 71]",330.8
+1998,British Columbia,"Information, culture and recreation [51, 71]",355.66
+1999,British Columbia,"Information, culture and recreation [51, 71]",325.09
+2000,British Columbia,"Information, culture and recreation [51, 71]",380.79
+2001,British Columbia,"Information, culture and recreation [51, 71]",402.35
+2002,British Columbia,"Information, culture and recreation [51, 71]",433.04
+2003,British Columbia,"Information, culture and recreation [51, 71]",414.89
+2004,British Columbia,"Information, culture and recreation [51, 71]",432.78
+2005,British Columbia,"Information, culture and recreation [51, 71]",435.83
+2006,British Columbia,"Information, culture and recreation [51, 71]",458.42
+2007,British Columbia,"Information, culture and recreation [51, 71]",480.28
+2008,British Columbia,"Information, culture and recreation [51, 71]",476.7
+2009,British Columbia,"Information, culture and recreation [51, 71]",503.74
+2010,British Columbia,"Information, culture and recreation [51, 71]",521.7
+2011,British Columbia,"Information, culture and recreation [51, 71]",563.58
+2012,British Columbia,"Information, culture and recreation [51, 71]",585.24
+2013,British Columbia,"Information, culture and recreation [51, 71]",608.78
+2014,British Columbia,"Information, culture and recreation [51, 71]",615.68
+2015,British Columbia,"Information, culture and recreation [51, 71]",606.7
+2016,British Columbia,"Information, culture and recreation [51, 71]",608.04
+2017,British Columbia,"Information, culture and recreation [51, 71]",612.83
+2018,British Columbia,"Information, culture and recreation [51, 71]",639.18
+2019,British Columbia,"Information, culture and recreation [51, 71]",628.58
+2020,British Columbia,"Information, culture and recreation [51, 71]",687.52
+1997,Manitoba,"Information, culture and recreation [51, 71]",578.44
+1998,Manitoba,"Information, culture and recreation [51, 71]",585.2
+1999,Manitoba,"Information, culture and recreation [51, 71]",606.65
+2000,Manitoba,"Information, culture and recreation [51, 71]",603.77
+2001,Manitoba,"Information, culture and recreation [51, 71]",628
+2002,Manitoba,"Information, culture and recreation [51, 71]",630.04
+2003,Manitoba,"Information, culture and recreation [51, 71]",664.99
+2004,Manitoba,"Information, culture and recreation [51, 71]",663.16
+2005,Manitoba,"Information, culture and recreation [51, 71]",695.25
+2006,Manitoba,"Information, culture and recreation [51, 71]",738.28
+2007,Manitoba,"Information, culture and recreation [51, 71]",766.1
+2008,Manitoba,"Information, culture and recreation [51, 71]",779.57
+2009,Manitoba,"Information, culture and recreation [51, 71]",819.06
+2010,Manitoba,"Information, culture and recreation [51, 71]",833.53
+2011,Manitoba,"Information, culture and recreation [51, 71]",921.19
+2012,Manitoba,"Information, culture and recreation [51, 71]",930.1
+2013,Manitoba,"Information, culture and recreation [51, 71]",929.71
+2014,Manitoba,"Information, culture and recreation [51, 71]",966.26
+2015,Manitoba,"Information, culture and recreation [51, 71]",949.32
+2016,Manitoba,"Information, culture and recreation [51, 71]",962.1
+2017,Manitoba,"Information, culture and recreation [51, 71]",1003.74
+2018,Manitoba,"Information, culture and recreation [51, 71]",989.41
+2019,Manitoba,"Information, culture and recreation [51, 71]",1039.62
+2020,Manitoba,"Information, culture and recreation [51, 71]",1081.06
+1997,New Brunswick,"Information, culture and recreation [51, 71]",615.76
+1998,New Brunswick,"Information, culture and recreation [51, 71]",638.94
+1999,New Brunswick,"Information, culture and recreation [51, 71]",610.87
+2000,New Brunswick,"Information, culture and recreation [51, 71]",641.16
+2001,New Brunswick,"Information, culture and recreation [51, 71]",664.15
+2002,New Brunswick,"Information, culture and recreation [51, 71]",689.21
+2003,New Brunswick,"Information, culture and recreation [51, 71]",701
+2004,New Brunswick,"Information, culture and recreation [51, 71]",733.08
+2005,New Brunswick,"Information, culture and recreation [51, 71]",747.3
+2006,New Brunswick,"Information, culture and recreation [51, 71]",701.19
+2007,New Brunswick,"Information, culture and recreation [51, 71]",757.77
+2008,New Brunswick,"Information, culture and recreation [51, 71]",838.34
+2009,New Brunswick,"Information, culture and recreation [51, 71]",849.52
+2010,New Brunswick,"Information, culture and recreation [51, 71]",892.82
+2011,New Brunswick,"Information, culture and recreation [51, 71]",874.84
+2012,New Brunswick,"Information, culture and recreation [51, 71]",911.22
+2013,New Brunswick,"Information, culture and recreation [51, 71]",934.79
+2014,New Brunswick,"Information, culture and recreation [51, 71]",926.46
+2015,New Brunswick,"Information, culture and recreation [51, 71]",951.87
+2016,New Brunswick,"Information, culture and recreation [51, 71]",1025.71
+2017,New Brunswick,"Information, culture and recreation [51, 71]",1027.86
+2018,New Brunswick,"Information, culture and recreation [51, 71]",1055.98
+2019,New Brunswick,"Information, culture and recreation [51, 71]",1001.48
+2020,New Brunswick,"Information, culture and recreation [51, 71]",1082.35
+1997,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",527.57
+1998,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",532.54
+1999,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",535.99
+2000,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",567.86
+2001,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",584.17
+2002,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",593.75
+2003,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",637.18
+2004,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",630.74
+2005,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",641.73
+2006,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",656.01
+2007,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",667.46
+2008,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",735.02
+2009,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",787.42
+2010,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",807.1
+2011,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",807.57
+2012,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",836.63
+2013,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",848.08
+2014,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",857.59
+2015,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",881.45
+2016,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",835.57
+2017,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",935.3
+2018,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",866.69
+2019,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",926.35
+2020,Newfoundland and Labrador,"Information, culture and recreation [51, 71]",1058.92
+1997,Nova Scotia,"Information, culture and recreation [51, 71]",450.91
+1998,Nova Scotia,"Information, culture and recreation [51, 71]",464.71
+1999,Nova Scotia,"Information, culture and recreation [51, 71]",490.92
+2000,Nova Scotia,"Information, culture and recreation [51, 71]",507.39
+2001,Nova Scotia,"Information, culture and recreation [51, 71]",539.4
+2002,Nova Scotia,"Information, culture and recreation [51, 71]",562.32
+2003,Nova Scotia,"Information, culture and recreation [51, 71]",571.35
+2004,Nova Scotia,"Information, culture and recreation [51, 71]",624.53
+2005,Nova Scotia,"Information, culture and recreation [51, 71]",635.52
+2006,Nova Scotia,"Information, culture and recreation [51, 71]",668.65
+2007,Nova Scotia,"Information, culture and recreation [51, 71]",681.36
+2008,Nova Scotia,"Information, culture and recreation [51, 71]",696.4
+2009,Nova Scotia,"Information, culture and recreation [51, 71]",746.93
+2010,Nova Scotia,"Information, culture and recreation [51, 71]",747.99
+2011,Nova Scotia,"Information, culture and recreation [51, 71]",784.41
+2012,Nova Scotia,"Information, culture and recreation [51, 71]",808.83
+2013,Nova Scotia,"Information, culture and recreation [51, 71]",801.49
+2014,Nova Scotia,"Information, culture and recreation [51, 71]",833.47
+2015,Nova Scotia,"Information, culture and recreation [51, 71]",856.42
+2016,Nova Scotia,"Information, culture and recreation [51, 71]",875.44
+2017,Nova Scotia,"Information, culture and recreation [51, 71]",889.51
+2018,Nova Scotia,"Information, culture and recreation [51, 71]",910.78
+2019,Nova Scotia,"Information, culture and recreation [51, 71]",915.7
+2020,Nova Scotia,"Information, culture and recreation [51, 71]",971.26
+1997,Ontario,"Information, culture and recreation [51, 71]",435.81
+1998,Ontario,"Information, culture and recreation [51, 71]",463.4
+1999,Ontario,"Information, culture and recreation [51, 71]",512.91
+2000,Ontario,"Information, culture and recreation [51, 71]",572.91
+2001,Ontario,"Information, culture and recreation [51, 71]",524.23
+2002,Ontario,"Information, culture and recreation [51, 71]",523.77
+2003,Ontario,"Information, culture and recreation [51, 71]",549.46
+2004,Ontario,"Information, culture and recreation [51, 71]",539.22
+2005,Ontario,"Information, culture and recreation [51, 71]",540.31
+2006,Ontario,"Information, culture and recreation [51, 71]",592.7
+2007,Ontario,"Information, culture and recreation [51, 71]",638.72
+2008,Ontario,"Information, culture and recreation [51, 71]",624.18
+2009,Ontario,"Information, culture and recreation [51, 71]",706.17
+2010,Ontario,"Information, culture and recreation [51, 71]",692.2
+2011,Ontario,"Information, culture and recreation [51, 71]",684.86
+2012,Ontario,"Information, culture and recreation [51, 71]",634.47
+2013,Ontario,"Information, culture and recreation [51, 71]",673.98
+2014,Ontario,"Information, culture and recreation [51, 71]",772.17
+2015,Ontario,"Information, culture and recreation [51, 71]",746.96
+2016,Ontario,"Information, culture and recreation [51, 71]",782.65
+2017,Ontario,"Information, culture and recreation [51, 71]",725.33
+2018,Ontario,"Information, culture and recreation [51, 71]",772.59
+2019,Ontario,"Information, culture and recreation [51, 71]",764.28
+2020,Ontario,"Information, culture and recreation [51, 71]",884.48
+1997,Prince Edward Island,"Information, culture and recreation [51, 71]",570.88
+1998,Prince Edward Island,"Information, culture and recreation [51, 71]",566.96
+1999,Prince Edward Island,"Information, culture and recreation [51, 71]",595.39
+2000,Prince Edward Island,"Information, culture and recreation [51, 71]",597.58
+2001,Prince Edward Island,"Information, culture and recreation [51, 71]",634.46
+2002,Prince Edward Island,"Information, culture and recreation [51, 71]",646.01
+2003,Prince Edward Island,"Information, culture and recreation [51, 71]",641.79
+2004,Prince Edward Island,"Information, culture and recreation [51, 71]",667.98
+2005,Prince Edward Island,"Information, culture and recreation [51, 71]",675.85
+2006,Prince Edward Island,"Information, culture and recreation [51, 71]",715.26
+2007,Prince Edward Island,"Information, culture and recreation [51, 71]",759.41
+2008,Prince Edward Island,"Information, culture and recreation [51, 71]",773.38
+2009,Prince Edward Island,"Information, culture and recreation [51, 71]",768.53
+2010,Prince Edward Island,"Information, culture and recreation [51, 71]",809.59
+2011,Prince Edward Island,"Information, culture and recreation [51, 71]",786.11
+2012,Prince Edward Island,"Information, culture and recreation [51, 71]",834.33
+2013,Prince Edward Island,"Information, culture and recreation [51, 71]",882.6
+2014,Prince Edward Island,"Information, culture and recreation [51, 71]",913.87
+2015,Prince Edward Island,"Information, culture and recreation [51, 71]",890.71
+2016,Prince Edward Island,"Information, culture and recreation [51, 71]",928.78
+2017,Prince Edward Island,"Information, culture and recreation [51, 71]",931.93
+2018,Prince Edward Island,"Information, culture and recreation [51, 71]",1015.5
+2019,Prince Edward Island,"Information, culture and recreation [51, 71]",1012
+2020,Prince Edward Island,"Information, culture and recreation [51, 71]",980.01
+1997,Quebec,"Information, culture and recreation [51, 71]",391.83
+1998,Quebec,"Information, culture and recreation [51, 71]",414.32
+1999,Quebec,"Information, culture and recreation [51, 71]",430.53
+2000,Quebec,"Information, culture and recreation [51, 71]",467.34
+2001,Quebec,"Information, culture and recreation [51, 71]",428.71
+2002,Quebec,"Information, culture and recreation [51, 71]",444.1
+2003,Quebec,"Information, culture and recreation [51, 71]",453.81
+2004,Quebec,"Information, culture and recreation [51, 71]",520.1
+2005,Quebec,"Information, culture and recreation [51, 71]",455.21
+2006,Quebec,"Information, culture and recreation [51, 71]",504.6
+2007,Quebec,"Information, culture and recreation [51, 71]",542.82
+2008,Quebec,"Information, culture and recreation [51, 71]",595.33
+2009,Quebec,"Information, culture and recreation [51, 71]",604.04
+2010,Quebec,"Information, culture and recreation [51, 71]",614.87
+2011,Quebec,"Information, culture and recreation [51, 71]",641.89
+2012,Quebec,"Information, culture and recreation [51, 71]",683.02
+2013,Quebec,"Information, culture and recreation [51, 71]",653.92
+2014,Quebec,"Information, culture and recreation [51, 71]",680.25
+2015,Quebec,"Information, culture and recreation [51, 71]",723.24
+2016,Quebec,"Information, culture and recreation [51, 71]",724.23
+2017,Quebec,"Information, culture and recreation [51, 71]",699.08
+2018,Quebec,"Information, culture and recreation [51, 71]",707.85
+2019,Quebec,"Information, culture and recreation [51, 71]",727.44
+2020,Quebec,"Information, culture and recreation [51, 71]",824.95
+1997,Saskatchewan,"Information, culture and recreation [51, 71]",547.71
+1998,Saskatchewan,"Information, culture and recreation [51, 71]",627.83
+1999,Saskatchewan,"Information, culture and recreation [51, 71]",623.01
+2000,Saskatchewan,"Information, culture and recreation [51, 71]",667.14
+2001,Saskatchewan,"Information, culture and recreation [51, 71]",711.37
+2002,Saskatchewan,"Information, culture and recreation [51, 71]",768.33
+2003,Saskatchewan,"Information, culture and recreation [51, 71]",818.5
+2004,Saskatchewan,"Information, culture and recreation [51, 71]",746.85
+2005,Saskatchewan,"Information, culture and recreation [51, 71]",830.54
+2006,Saskatchewan,"Information, culture and recreation [51, 71]",821.32
+2007,Saskatchewan,"Information, culture and recreation [51, 71]",876.68
+2008,Saskatchewan,"Information, culture and recreation [51, 71]",855.26
+2009,Saskatchewan,"Information, culture and recreation [51, 71]",933.87
+2010,Saskatchewan,"Information, culture and recreation [51, 71]",993.96
+2011,Saskatchewan,"Information, culture and recreation [51, 71]",904.78
+2012,Saskatchewan,"Information, culture and recreation [51, 71]",960.35
+2013,Saskatchewan,"Information, culture and recreation [51, 71]",958.45
+2014,Saskatchewan,"Information, culture and recreation [51, 71]",1093.88
+2015,Saskatchewan,"Information, culture and recreation [51, 71]",1002.92
+2016,Saskatchewan,"Information, culture and recreation [51, 71]",1105.21
+2017,Saskatchewan,"Information, culture and recreation [51, 71]",1133.88
+2018,Saskatchewan,"Information, culture and recreation [51, 71]",1145.44
+2019,Saskatchewan,"Information, culture and recreation [51, 71]",1149.3
+2020,Saskatchewan,"Information, culture and recreation [51, 71]",1236.56
+1997,Alberta,Manufacturing [31-33],561.62
+1998,Alberta,Manufacturing [31-33],596.21
+1999,Alberta,Manufacturing [31-33],650.91
+2000,Alberta,Manufacturing [31-33],626.76
+2001,Alberta,Manufacturing [31-33],660.47
+2002,Alberta,Manufacturing [31-33],701.21
+2003,Alberta,Manufacturing [31-33],666.53
+2004,Alberta,Manufacturing [31-33],702.01
+2005,Alberta,Manufacturing [31-33],753.01
+2006,Alberta,Manufacturing [31-33],734.53
+2007,Alberta,Manufacturing [31-33],775.01
+2008,Alberta,Manufacturing [31-33],729.63
+2009,Alberta,Manufacturing [31-33],794.51
+2010,Alberta,Manufacturing [31-33],803.98
+2011,Alberta,Manufacturing [31-33],822.75
+2012,Alberta,Manufacturing [31-33],884.14
+2013,Alberta,Manufacturing [31-33],885.43
+2014,Alberta,Manufacturing [31-33],900.66
+2015,Alberta,Manufacturing [31-33],982.65
+2016,Alberta,Manufacturing [31-33],993.7
+2017,Alberta,Manufacturing [31-33],972.73
+2018,Alberta,Manufacturing [31-33],987.31
+2019,Alberta,Manufacturing [31-33],1021.17
+2020,Alberta,Manufacturing [31-33],1010.36
+1997,British Columbia,Manufacturing [31-33],341.07
+1998,British Columbia,Manufacturing [31-33],354.11
+1999,British Columbia,Manufacturing [31-33],361.25
+2000,British Columbia,Manufacturing [31-33],372.65
+2001,British Columbia,Manufacturing [31-33],386.73
+2002,British Columbia,Manufacturing [31-33],399.47
+2003,British Columbia,Manufacturing [31-33],415.89
+2004,British Columbia,Manufacturing [31-33],425.52
+2005,British Columbia,Manufacturing [31-33],453.33
+2006,British Columbia,Manufacturing [31-33],451.49
+2007,British Columbia,Manufacturing [31-33],490.03
+2008,British Columbia,Manufacturing [31-33],488.35
+2009,British Columbia,Manufacturing [31-33],499.78
+2010,British Columbia,Manufacturing [31-33],528.53
+2011,British Columbia,Manufacturing [31-33],531.3
+2012,British Columbia,Manufacturing [31-33],547.63
+2013,British Columbia,Manufacturing [31-33],559.83
+2014,British Columbia,Manufacturing [31-33],598.71
+2015,British Columbia,Manufacturing [31-33],584.92
+2016,British Columbia,Manufacturing [31-33],585.36
+2017,British Columbia,Manufacturing [31-33],599.71
+2018,British Columbia,Manufacturing [31-33],652.54
+2019,British Columbia,Manufacturing [31-33],619.72
+2020,British Columbia,Manufacturing [31-33],660.51
+1997,Manitoba,Manufacturing [31-33],270.16
+1998,Manitoba,Manufacturing [31-33],292.56
+1999,Manitoba,Manufacturing [31-33],292.62
+2000,Manitoba,Manufacturing [31-33],294.89
+2001,Manitoba,Manufacturing [31-33],300.27
+2002,Manitoba,Manufacturing [31-33],307.76
+2003,Manitoba,Manufacturing [31-33],324.79
+2004,Manitoba,Manufacturing [31-33],322.06
+2005,Manitoba,Manufacturing [31-33],339.26
+2006,Manitoba,Manufacturing [31-33],341.25
+2007,Manitoba,Manufacturing [31-33],348.39
+2008,Manitoba,Manufacturing [31-33],355.66
+2009,Manitoba,Manufacturing [31-33],371.22
+2010,Manitoba,Manufacturing [31-33],373.47
+2011,Manitoba,Manufacturing [31-33],384.07
+2012,Manitoba,Manufacturing [31-33],408.99
+2013,Manitoba,Manufacturing [31-33],405.1
+2014,Manitoba,Manufacturing [31-33],420.73
+2015,Manitoba,Manufacturing [31-33],416.5
+2016,Manitoba,Manufacturing [31-33],411.73
+2017,Manitoba,Manufacturing [31-33],445.44
+2018,Manitoba,Manufacturing [31-33],481.64
+2019,Manitoba,Manufacturing [31-33],489.4
+2020,Manitoba,Manufacturing [31-33],498.94
+1997,New Brunswick,Manufacturing [31-33],429.62
+1998,New Brunswick,Manufacturing [31-33],446.28
+1999,New Brunswick,Manufacturing [31-33],452.17
+2000,New Brunswick,Manufacturing [31-33],456.26
+2001,New Brunswick,Manufacturing [31-33],489.23
+2002,New Brunswick,Manufacturing [31-33],510.28
+2003,New Brunswick,Manufacturing [31-33],522.9
+2004,New Brunswick,Manufacturing [31-33],530.17
+2005,New Brunswick,Manufacturing [31-33],515.63
+2006,New Brunswick,Manufacturing [31-33],547.46
+2007,New Brunswick,Manufacturing [31-33],576.9
+2008,New Brunswick,Manufacturing [31-33],598.28
+2009,New Brunswick,Manufacturing [31-33],614.64
+2010,New Brunswick,Manufacturing [31-33],605.16
+2011,New Brunswick,Manufacturing [31-33],620.04
+2012,New Brunswick,Manufacturing [31-33],658.56
+2013,New Brunswick,Manufacturing [31-33],645.07
+2014,New Brunswick,Manufacturing [31-33],687.4
+2015,New Brunswick,Manufacturing [31-33],675.06
+2016,New Brunswick,Manufacturing [31-33],677.52
+2017,New Brunswick,Manufacturing [31-33],699.85
+2018,New Brunswick,Manufacturing [31-33],785.72
+2019,New Brunswick,Manufacturing [31-33],800.51
+2020,New Brunswick,Manufacturing [31-33],830.04
+1997,Newfoundland and Labrador,Manufacturing [31-33],703.11
+1998,Newfoundland and Labrador,Manufacturing [31-33],720.86
+1999,Newfoundland and Labrador,Manufacturing [31-33],732.6
+2000,Newfoundland and Labrador,Manufacturing [31-33],761.9
+2001,Newfoundland and Labrador,Manufacturing [31-33],780.7
+2002,Newfoundland and Labrador,Manufacturing [31-33],799.59
+2003,Newfoundland and Labrador,Manufacturing [31-33],812.35
+2004,Newfoundland and Labrador,Manufacturing [31-33],825.65
+2005,Newfoundland and Labrador,Manufacturing [31-33],861.85
+2006,Newfoundland and Labrador,Manufacturing [31-33],870.9
+2007,Newfoundland and Labrador,Manufacturing [31-33],891.66
+2008,Newfoundland and Labrador,Manufacturing [31-33],931.36
+2009,Newfoundland and Labrador,Manufacturing [31-33],949.13
+2010,Newfoundland and Labrador,Manufacturing [31-33],955.59
+2011,Newfoundland and Labrador,Manufacturing [31-33],980.67
+2012,Newfoundland and Labrador,Manufacturing [31-33],986.93
+2013,Newfoundland and Labrador,Manufacturing [31-33],1015.96
+2014,Newfoundland and Labrador,Manufacturing [31-33],1036.58
+2015,Newfoundland and Labrador,Manufacturing [31-33],1107.32
+2016,Newfoundland and Labrador,Manufacturing [31-33],1107.39
+2017,Newfoundland and Labrador,Manufacturing [31-33],1098.92
+2018,Newfoundland and Labrador,Manufacturing [31-33],1143.69
+2019,Newfoundland and Labrador,Manufacturing [31-33],1199.27
+2020,Newfoundland and Labrador,Manufacturing [31-33],1232.31
+1997,Nova Scotia,Manufacturing [31-33],780.98
+1998,Nova Scotia,Manufacturing [31-33],764.43
+1999,Nova Scotia,Manufacturing [31-33],779.66
+2000,Nova Scotia,Manufacturing [31-33],792.98
+2001,Nova Scotia,Manufacturing [31-33],781.96
+2002,Nova Scotia,Manufacturing [31-33],799.28
+2003,Nova Scotia,Manufacturing [31-33],821.85
+2004,Nova Scotia,Manufacturing [31-33],834.17
+2005,Nova Scotia,Manufacturing [31-33],875.62
+2006,Nova Scotia,Manufacturing [31-33],885.84
+2007,Nova Scotia,Manufacturing [31-33],906.34
+2008,Nova Scotia,Manufacturing [31-33],947.54
+2009,Nova Scotia,Manufacturing [31-33],966.1
+2010,Nova Scotia,Manufacturing [31-33],1023.5
+2011,Nova Scotia,Manufacturing [31-33],1034.7
+2012,Nova Scotia,Manufacturing [31-33],1080.43
+2013,Nova Scotia,Manufacturing [31-33],1092.94
+2014,Nova Scotia,Manufacturing [31-33],1090.21
+2015,Nova Scotia,Manufacturing [31-33],1114.86
+2016,Nova Scotia,Manufacturing [31-33],1152.03
+2017,Nova Scotia,Manufacturing [31-33],1130.62
+2018,Nova Scotia,Manufacturing [31-33],1146.89
+2019,Nova Scotia,Manufacturing [31-33],1176.9
+2020,Nova Scotia,Manufacturing [31-33],1273.13
+1997,Ontario,Manufacturing [31-33],670.43
+1998,Ontario,Manufacturing [31-33],680.78
+1999,Ontario,Manufacturing [31-33],728.02
+2000,Ontario,Manufacturing [31-33],746.77
+2001,Ontario,Manufacturing [31-33],779.97
+2002,Ontario,Manufacturing [31-33],805.72
+2003,Ontario,Manufacturing [31-33],801.83
+2004,Ontario,Manufacturing [31-33],829.76
+2005,Ontario,Manufacturing [31-33],859.53
+2006,Ontario,Manufacturing [31-33],900.1
+2007,Ontario,Manufacturing [31-33],932.82
+2008,Ontario,Manufacturing [31-33],980.25
+2009,Ontario,Manufacturing [31-33],969.6
+2010,Ontario,Manufacturing [31-33],964.1
+2011,Ontario,Manufacturing [31-33],1012.04
+2012,Ontario,Manufacturing [31-33],1069.23
+2013,Ontario,Manufacturing [31-33],1050.66
+2014,Ontario,Manufacturing [31-33],1115.12
+2015,Ontario,Manufacturing [31-33],1144.54
+2016,Ontario,Manufacturing [31-33],1190.21
+2017,Ontario,Manufacturing [31-33],1194.37
+2018,Ontario,Manufacturing [31-33],1235.61
+2019,Ontario,Manufacturing [31-33],1274.92
+2020,Ontario,Manufacturing [31-33],1365.44
+1997,Prince Edward Island,Manufacturing [31-33],569.37
+1998,Prince Edward Island,Manufacturing [31-33],564.74
+1999,Prince Edward Island,Manufacturing [31-33],578.94
+2000,Prince Edward Island,Manufacturing [31-33],593.51
+2001,Prince Edward Island,Manufacturing [31-33],626.47
+2002,Prince Edward Island,Manufacturing [31-33],650.51
+2003,Prince Edward Island,Manufacturing [31-33],652.22
+2004,Prince Edward Island,Manufacturing [31-33],689.03
+2005,Prince Edward Island,Manufacturing [31-33],712.24
+2006,Prince Edward Island,Manufacturing [31-33],732.42
+2007,Prince Edward Island,Manufacturing [31-33],761.12
+2008,Prince Edward Island,Manufacturing [31-33],795.42
+2009,Prince Edward Island,Manufacturing [31-33],820.69
+2010,Prince Edward Island,Manufacturing [31-33],832.03
+2011,Prince Edward Island,Manufacturing [31-33],861.16
+2012,Prince Edward Island,Manufacturing [31-33],868.23
+2013,Prince Edward Island,Manufacturing [31-33],884.41
+2014,Prince Edward Island,Manufacturing [31-33],872.44
+2015,Prince Edward Island,Manufacturing [31-33],897.42
+2016,Prince Edward Island,Manufacturing [31-33],920.75
+2017,Prince Edward Island,Manufacturing [31-33],945.97
+2018,Prince Edward Island,Manufacturing [31-33],984.21
+2019,Prince Edward Island,Manufacturing [31-33],984.04
+2020,Prince Edward Island,Manufacturing [31-33],1045
+1997,Quebec,Manufacturing [31-33],611.08
+1998,Quebec,Manufacturing [31-33],633.91
+1999,Quebec,Manufacturing [31-33],651.16
+2000,Quebec,Manufacturing [31-33],637.3
+2001,Quebec,Manufacturing [31-33],694.74
+2002,Quebec,Manufacturing [31-33],640.18
+2003,Quebec,Manufacturing [31-33],647.03
+2004,Quebec,Manufacturing [31-33],676.28
+2005,Quebec,Manufacturing [31-33],703.26
+2006,Quebec,Manufacturing [31-33],719.39
+2007,Quebec,Manufacturing [31-33],749.96
+2008,Quebec,Manufacturing [31-33],766.73
+2009,Quebec,Manufacturing [31-33],766.74
+2010,Quebec,Manufacturing [31-33],784.15
+2011,Quebec,Manufacturing [31-33],817.53
+2012,Quebec,Manufacturing [31-33],808.71
+2013,Quebec,Manufacturing [31-33],835.87
+2014,Quebec,Manufacturing [31-33],810.25
+2015,Quebec,Manufacturing [31-33],882.31
+2016,Quebec,Manufacturing [31-33],844.07
+2017,Quebec,Manufacturing [31-33],827.02
+2018,Quebec,Manufacturing [31-33],859.87
+2019,Quebec,Manufacturing [31-33],894.63
+2020,Quebec,Manufacturing [31-33],1104.24
+1997,Saskatchewan,Manufacturing [31-33],692.29
+1998,Saskatchewan,Manufacturing [31-33],693.83
+1999,Saskatchewan,Manufacturing [31-33],712.31
+2000,Saskatchewan,Manufacturing [31-33],750.33
+2001,Saskatchewan,Manufacturing [31-33],771.94
+2002,Saskatchewan,Manufacturing [31-33],777.92
+2003,Saskatchewan,Manufacturing [31-33],797.69
+2004,Saskatchewan,Manufacturing [31-33],814.44
+2005,Saskatchewan,Manufacturing [31-33],835.15
+2006,Saskatchewan,Manufacturing [31-33],881.09
+2007,Saskatchewan,Manufacturing [31-33],888.68
+2008,Saskatchewan,Manufacturing [31-33],921.24
+2009,Saskatchewan,Manufacturing [31-33],930.14
+2010,Saskatchewan,Manufacturing [31-33],952.44
+2011,Saskatchewan,Manufacturing [31-33],948.29
+2012,Saskatchewan,Manufacturing [31-33],952.72
+2013,Saskatchewan,Manufacturing [31-33],976.9
+2014,Saskatchewan,Manufacturing [31-33],992.01
+2015,Saskatchewan,Manufacturing [31-33],1006.69
+2016,Saskatchewan,Manufacturing [31-33],1005.54
+2017,Saskatchewan,Manufacturing [31-33],999.36
+2018,Saskatchewan,Manufacturing [31-33],1039.9
+2019,Saskatchewan,Manufacturing [31-33],1097.4
+2020,Saskatchewan,Manufacturing [31-33],1133.6
+1997,Alberta,Other services (except public administration) [81],485.47
+1998,Alberta,Other services (except public administration) [81],506.1
+1999,Alberta,Other services (except public administration) [81],512.38
+2000,Alberta,Other services (except public administration) [81],547.32
+2001,Alberta,Other services (except public administration) [81],559.65
+2002,Alberta,Other services (except public administration) [81],566.2
+2003,Alberta,Other services (except public administration) [81],583.8
+2004,Alberta,Other services (except public administration) [81],584.48
+2005,Alberta,Other services (except public administration) [81],632.11
+2006,Alberta,Other services (except public administration) [81],622.02
+2007,Alberta,Other services (except public administration) [81],637.37
+2008,Alberta,Other services (except public administration) [81],626.71
+2009,Alberta,Other services (except public administration) [81],689.76
+2010,Alberta,Other services (except public administration) [81],653
+2011,Alberta,Other services (except public administration) [81],711.42
+2012,Alberta,Other services (except public administration) [81],755.62
+2013,Alberta,Other services (except public administration) [81],791.68
+2014,Alberta,Other services (except public administration) [81],774.38
+2015,Alberta,Other services (except public administration) [81],782.34
+2016,Alberta,Other services (except public administration) [81],795.05
+2017,Alberta,Other services (except public administration) [81],809.12
+2018,Alberta,Other services (except public administration) [81],857.28
+2019,Alberta,Other services (except public administration) [81],882.4
+2020,Alberta,Other services (except public administration) [81],986
+1997,British Columbia,Other services (except public administration) [81],742.52
+1998,British Columbia,Other services (except public administration) [81],743.9
+1999,British Columbia,Other services (except public administration) [81],835.05
+2000,British Columbia,Other services (except public administration) [81],883.61
+2001,British Columbia,Other services (except public administration) [81],901.7
+2002,British Columbia,Other services (except public administration) [81],934.72
+2003,British Columbia,Other services (except public administration) [81],926.08
+2004,British Columbia,Other services (except public administration) [81],966.75
+2005,British Columbia,Other services (except public administration) [81],998.5
+2006,British Columbia,Other services (except public administration) [81],1019.7
+2007,British Columbia,Other services (except public administration) [81],1074.53
+2008,British Columbia,Other services (except public administration) [81],1112.71
+2009,British Columbia,Other services (except public administration) [81],1103.6
+2010,British Columbia,Other services (except public administration) [81],1094.9
+2011,British Columbia,Other services (except public administration) [81],1133.96
+2012,British Columbia,Other services (except public administration) [81],1195.9
+2013,British Columbia,Other services (except public administration) [81],1226.22
+2014,British Columbia,Other services (except public administration) [81],1208.19
+2015,British Columbia,Other services (except public administration) [81],1243.94
+2016,British Columbia,Other services (except public administration) [81],1322.97
+2017,British Columbia,Other services (except public administration) [81],1334.25
+2018,British Columbia,Other services (except public administration) [81],1300.62
+2019,British Columbia,Other services (except public administration) [81],1392.13
+2020,British Columbia,Other services (except public administration) [81],1475.35
+1997,Manitoba,Other services (except public administration) [81],629.93
+1998,Manitoba,Other services (except public administration) [81],645.97
+1999,Manitoba,Other services (except public administration) [81],659.96
+2000,Manitoba,Other services (except public administration) [81],685.15
+2001,Manitoba,Other services (except public administration) [81],716.43
+2002,Manitoba,Other services (except public administration) [81],721.73
+2003,Manitoba,Other services (except public administration) [81],733.49
+2004,Manitoba,Other services (except public administration) [81],745.47
+2005,Manitoba,Other services (except public administration) [81],756.45
+2006,Manitoba,Other services (except public administration) [81],776.47
+2007,Manitoba,Other services (except public administration) [81],809.04
+2008,Manitoba,Other services (except public administration) [81],823.68
+2009,Manitoba,Other services (except public administration) [81],833.59
+2010,Manitoba,Other services (except public administration) [81],878.47
+2011,Manitoba,Other services (except public administration) [81],877.23
+2012,Manitoba,Other services (except public administration) [81],893.07
+2013,Manitoba,Other services (except public administration) [81],880.08
+2014,Manitoba,Other services (except public administration) [81],887.47
+2015,Manitoba,Other services (except public administration) [81],924.4
+2016,Manitoba,Other services (except public administration) [81],952.2
+2017,Manitoba,Other services (except public administration) [81],966.3
+2018,Manitoba,Other services (except public administration) [81],955.48
+2019,Manitoba,Other services (except public administration) [81],988.16
+2020,Manitoba,Other services (except public administration) [81],1034.02
+1997,New Brunswick,Other services (except public administration) [81],436.86
+1998,New Brunswick,Other services (except public administration) [81],451.45
+1999,New Brunswick,Other services (except public administration) [81],458.11
+2000,New Brunswick,Other services (except public administration) [81],482.64
+2001,New Brunswick,Other services (except public administration) [81],495.43
+2002,New Brunswick,Other services (except public administration) [81],499.71
+2003,New Brunswick,Other services (except public administration) [81],503.08
+2004,New Brunswick,Other services (except public administration) [81],523.24
+2005,New Brunswick,Other services (except public administration) [81],538.43
+2006,New Brunswick,Other services (except public administration) [81],549.05
+2007,New Brunswick,Other services (except public administration) [81],552.4
+2008,New Brunswick,Other services (except public administration) [81],566.02
+2009,New Brunswick,Other services (except public administration) [81],593.4
+2010,New Brunswick,Other services (except public administration) [81],605.22
+2011,New Brunswick,Other services (except public administration) [81],609.1
+2012,New Brunswick,Other services (except public administration) [81],618.99
+2013,New Brunswick,Other services (except public administration) [81],629.56
+2014,New Brunswick,Other services (except public administration) [81],656.32
+2015,New Brunswick,Other services (except public administration) [81],695.18
+2016,New Brunswick,Other services (except public administration) [81],712.93
+2017,New Brunswick,Other services (except public administration) [81],710.15
+2018,New Brunswick,Other services (except public administration) [81],739.93
+2019,New Brunswick,Other services (except public administration) [81],757.39
+2020,New Brunswick,Other services (except public administration) [81],806.22
+1997,Newfoundland and Labrador,Other services (except public administration) [81],219.92
+1998,Newfoundland and Labrador,Other services (except public administration) [81],224.66
+1999,Newfoundland and Labrador,Other services (except public administration) [81],246.93
+2000,Newfoundland and Labrador,Other services (except public administration) [81],253.63
+2001,Newfoundland and Labrador,Other services (except public administration) [81],259.35
+2002,Newfoundland and Labrador,Other services (except public administration) [81],266.38
+2003,Newfoundland and Labrador,Other services (except public administration) [81],283.59
+2004,Newfoundland and Labrador,Other services (except public administration) [81],277.31
+2005,Newfoundland and Labrador,Other services (except public administration) [81],289.01
+2006,Newfoundland and Labrador,Other services (except public administration) [81],302.74
+2007,Newfoundland and Labrador,Other services (except public administration) [81],296.34
+2008,Newfoundland and Labrador,Other services (except public administration) [81],331.22
+2009,Newfoundland and Labrador,Other services (except public administration) [81],326.56
+2010,Newfoundland and Labrador,Other services (except public administration) [81],326.11
+2011,Newfoundland and Labrador,Other services (except public administration) [81],356.87
+2012,Newfoundland and Labrador,Other services (except public administration) [81],360.44
+2013,Newfoundland and Labrador,Other services (except public administration) [81],369.95
+2014,Newfoundland and Labrador,Other services (except public administration) [81],385.26
+2015,Newfoundland and Labrador,Other services (except public administration) [81],392.83
+2016,Newfoundland and Labrador,Other services (except public administration) [81],395.98
+2017,Newfoundland and Labrador,Other services (except public administration) [81],407.85
+2018,Newfoundland and Labrador,Other services (except public administration) [81],423.44
+2019,Newfoundland and Labrador,Other services (except public administration) [81],455.92
+2020,Newfoundland and Labrador,Other services (except public administration) [81],488.09
+1997,Nova Scotia,Other services (except public administration) [81],298.97
+1998,Nova Scotia,Other services (except public administration) [81],305.57
+1999,Nova Scotia,Other services (except public administration) [81],321.53
+2000,Nova Scotia,Other services (except public administration) [81],354.62
+2001,Nova Scotia,Other services (except public administration) [81],383.42
+2002,Nova Scotia,Other services (except public administration) [81],355.49
+2003,Nova Scotia,Other services (except public administration) [81],372.34
+2004,Nova Scotia,Other services (except public administration) [81],409.8
+2005,Nova Scotia,Other services (except public administration) [81],434.19
+2006,Nova Scotia,Other services (except public administration) [81],456.92
+2007,Nova Scotia,Other services (except public administration) [81],440.01
+2008,Nova Scotia,Other services (except public administration) [81],471.09
+2009,Nova Scotia,Other services (except public administration) [81],467.87
+2010,Nova Scotia,Other services (except public administration) [81],497.95
+2011,Nova Scotia,Other services (except public administration) [81],573.21
+2012,Nova Scotia,Other services (except public administration) [81],537.43
+2013,Nova Scotia,Other services (except public administration) [81],532.12
+2014,Nova Scotia,Other services (except public administration) [81],586.23
+2015,Nova Scotia,Other services (except public administration) [81],587.08
+2016,Nova Scotia,Other services (except public administration) [81],571.77
+2017,Nova Scotia,Other services (except public administration) [81],567.46
+2018,Nova Scotia,Other services (except public administration) [81],572.87
+2019,Nova Scotia,Other services (except public administration) [81],595.62
+2020,Nova Scotia,Other services (except public administration) [81],596.67
+1997,Ontario,Other services (except public administration) [81],486.63
+1998,Ontario,Other services (except public administration) [81],497.71
+1999,Ontario,Other services (except public administration) [81],514.81
+2000,Ontario,Other services (except public administration) [81],527.93
+2001,Ontario,Other services (except public administration) [81],556.56
+2002,Ontario,Other services (except public administration) [81],556.23
+2003,Ontario,Other services (except public administration) [81],577.53
+2004,Ontario,Other services (except public administration) [81],611.79
+2005,Ontario,Other services (except public administration) [81],598.7
+2006,Ontario,Other services (except public administration) [81],602.13
+2007,Ontario,Other services (except public administration) [81],660.59
+2008,Ontario,Other services (except public administration) [81],708.25
+2009,Ontario,Other services (except public administration) [81],686.07
+2010,Ontario,Other services (except public administration) [81],741.44
+2011,Ontario,Other services (except public administration) [81],749.31
+2012,Ontario,Other services (except public administration) [81],771.59
+2013,Ontario,Other services (except public administration) [81],824.28
+2014,Ontario,Other services (except public administration) [81],915.44
+2015,Ontario,Other services (except public administration) [81],897.12
+2016,Ontario,Other services (except public administration) [81],877.76
+2017,Ontario,Other services (except public administration) [81],871
+2018,Ontario,Other services (except public administration) [81],895.58
+2019,Ontario,Other services (except public administration) [81],887.02
+2020,Ontario,Other services (except public administration) [81],925.28
+1997,Prince Edward Island,Other services (except public administration) [81],640.17
+1998,Prince Edward Island,Other services (except public administration) [81],623.47
+1999,Prince Edward Island,Other services (except public administration) [81],615.5
+2000,Prince Edward Island,Other services (except public administration) [81],624.53
+2001,Prince Edward Island,Other services (except public administration) [81],636.22
+2002,Prince Edward Island,Other services (except public administration) [81],669.99
+2003,Prince Edward Island,Other services (except public administration) [81],672.16
+2004,Prince Edward Island,Other services (except public administration) [81],704.06
+2005,Prince Edward Island,Other services (except public administration) [81],719.26
+2006,Prince Edward Island,Other services (except public administration) [81],770.49
+2007,Prince Edward Island,Other services (except public administration) [81],737.05
+2008,Prince Edward Island,Other services (except public administration) [81],792.95
+2009,Prince Edward Island,Other services (except public administration) [81],826.08
+2010,Prince Edward Island,Other services (except public administration) [81],875.25
+2011,Prince Edward Island,Other services (except public administration) [81],908.54
+2012,Prince Edward Island,Other services (except public administration) [81],926.07
+2013,Prince Edward Island,Other services (except public administration) [81],938.1
+2014,Prince Edward Island,Other services (except public administration) [81],985.2
+2015,Prince Edward Island,Other services (except public administration) [81],995.93
+2016,Prince Edward Island,Other services (except public administration) [81],992.83
+2017,Prince Edward Island,Other services (except public administration) [81],1073.01
+2018,Prince Edward Island,Other services (except public administration) [81],1058.76
+2019,Prince Edward Island,Other services (except public administration) [81],1042.29
+2020,Prince Edward Island,Other services (except public administration) [81],1106.44
+1997,Quebec,Other services (except public administration) [81],466.31
+1998,Quebec,Other services (except public administration) [81],479.83
+1999,Quebec,Other services (except public administration) [81],507.58
+2000,Quebec,Other services (except public administration) [81],525.6
+2001,Quebec,Other services (except public administration) [81],555.7
+2002,Quebec,Other services (except public administration) [81],554.29
+2003,Quebec,Other services (except public administration) [81],577.4
+2004,Quebec,Other services (except public administration) [81],549.76
+2005,Quebec,Other services (except public administration) [81],567.78
+2006,Quebec,Other services (except public administration) [81],655.58
+2007,Quebec,Other services (except public administration) [81],626.66
+2008,Quebec,Other services (except public administration) [81],705.18
+2009,Quebec,Other services (except public administration) [81],707.79
+2010,Quebec,Other services (except public administration) [81],693.62
+2011,Quebec,Other services (except public administration) [81],724.63
+2012,Quebec,Other services (except public administration) [81],757.98
+2013,Quebec,Other services (except public administration) [81],707.49
+2014,Quebec,Other services (except public administration) [81],762.48
+2015,Quebec,Other services (except public administration) [81],808.1
+2016,Quebec,Other services (except public administration) [81],807.26
+2017,Quebec,Other services (except public administration) [81],909.65
+2018,Quebec,Other services (except public administration) [81],869.39
+2019,Quebec,Other services (except public administration) [81],897.95
+2020,Quebec,Other services (except public administration) [81],889.55
+1997,Saskatchewan,Other services (except public administration) [81],447.4
+1998,Saskatchewan,Other services (except public administration) [81],481.62
+1999,Saskatchewan,Other services (except public administration) [81],482.04
+2000,Saskatchewan,Other services (except public administration) [81],492.93
+2001,Saskatchewan,Other services (except public administration) [81],497.04
+2002,Saskatchewan,Other services (except public administration) [81],540.37
+2003,Saskatchewan,Other services (except public administration) [81],580.74
+2004,Saskatchewan,Other services (except public administration) [81],611.67
+2005,Saskatchewan,Other services (except public administration) [81],598.02
+2006,Saskatchewan,Other services (except public administration) [81],636.43
+2007,Saskatchewan,Other services (except public administration) [81],657.5
+2008,Saskatchewan,Other services (except public administration) [81],661.45
+2009,Saskatchewan,Other services (except public administration) [81],664.16
+2010,Saskatchewan,Other services (except public administration) [81],731.44
+2011,Saskatchewan,Other services (except public administration) [81],751.14
+2012,Saskatchewan,Other services (except public administration) [81],779.08
+2013,Saskatchewan,Other services (except public administration) [81],792.33
+2014,Saskatchewan,Other services (except public administration) [81],794.22
+2015,Saskatchewan,Other services (except public administration) [81],841.28
+2016,Saskatchewan,Other services (except public administration) [81],851.22
+2017,Saskatchewan,Other services (except public administration) [81],854.9
+2018,Saskatchewan,Other services (except public administration) [81],887.94
+2019,Saskatchewan,Other services (except public administration) [81],927.28
+2020,Saskatchewan,Other services (except public administration) [81],943.45
+1997,Alberta,"Professional, scientific and technical services [54]",396.65
+1998,Alberta,"Professional, scientific and technical services [54]",441.94
+1999,Alberta,"Professional, scientific and technical services [54]",467.91
+2000,Alberta,"Professional, scientific and technical services [54]",462.01
+2001,Alberta,"Professional, scientific and technical services [54]",486.26
+2002,Alberta,"Professional, scientific and technical services [54]",458.32
+2003,Alberta,"Professional, scientific and technical services [54]",452.05
+2004,Alberta,"Professional, scientific and technical services [54]",536.67
+2005,Alberta,"Professional, scientific and technical services [54]",475.59
+2006,Alberta,"Professional, scientific and technical services [54]",559.15
+2007,Alberta,"Professional, scientific and technical services [54]",546.07
+2008,Alberta,"Professional, scientific and technical services [54]",550.3
+2009,Alberta,"Professional, scientific and technical services [54]",620.51
+2010,Alberta,"Professional, scientific and technical services [54]",571.34
+2011,Alberta,"Professional, scientific and technical services [54]",650.44
+2012,Alberta,"Professional, scientific and technical services [54]",635.96
+2013,Alberta,"Professional, scientific and technical services [54]",610.16
+2014,Alberta,"Professional, scientific and technical services [54]",628.94
+2015,Alberta,"Professional, scientific and technical services [54]",682.36
+2016,Alberta,"Professional, scientific and technical services [54]",686.31
+2017,Alberta,"Professional, scientific and technical services [54]",729.89
+2018,Alberta,"Professional, scientific and technical services [54]",730.74
+2019,Alberta,"Professional, scientific and technical services [54]",626.51
+2020,Alberta,"Professional, scientific and technical services [54]",730.27
+1997,British Columbia,"Professional, scientific and technical services [54]",430.87
+1998,British Columbia,"Professional, scientific and technical services [54]",446.34
+1999,British Columbia,"Professional, scientific and technical services [54]",452.91
+2000,British Columbia,"Professional, scientific and technical services [54]",482.48
+2001,British Columbia,"Professional, scientific and technical services [54]",524.42
+2002,British Columbia,"Professional, scientific and technical services [54]",528.7
+2003,British Columbia,"Professional, scientific and technical services [54]",546.11
+2004,British Columbia,"Professional, scientific and technical services [54]",594.88
+2005,British Columbia,"Professional, scientific and technical services [54]",591.34
+2006,British Columbia,"Professional, scientific and technical services [54]",603.56
+2007,British Columbia,"Professional, scientific and technical services [54]",651.96
+2008,British Columbia,"Professional, scientific and technical services [54]",650.47
+2009,British Columbia,"Professional, scientific and technical services [54]",707.76
+2010,British Columbia,"Professional, scientific and technical services [54]",701.64
+2011,British Columbia,"Professional, scientific and technical services [54]",710.04
+2012,British Columbia,"Professional, scientific and technical services [54]",763.29
+2013,British Columbia,"Professional, scientific and technical services [54]",775.62
+2014,British Columbia,"Professional, scientific and technical services [54]",788.49
+2015,British Columbia,"Professional, scientific and technical services [54]",799.23
+2016,British Columbia,"Professional, scientific and technical services [54]",816.43
+2017,British Columbia,"Professional, scientific and technical services [54]",834.65
+2018,British Columbia,"Professional, scientific and technical services [54]",840.93
+2019,British Columbia,"Professional, scientific and technical services [54]",901.83
+2020,British Columbia,"Professional, scientific and technical services [54]",954.17
+1997,Manitoba,"Professional, scientific and technical services [54]",351.27
+1998,Manitoba,"Professional, scientific and technical services [54]",382.89
+1999,Manitoba,"Professional, scientific and technical services [54]",394.93
+2000,Manitoba,"Professional, scientific and technical services [54]",395.16
+2001,Manitoba,"Professional, scientific and technical services [54]",402.39
+2002,Manitoba,"Professional, scientific and technical services [54]",430.53
+2003,Manitoba,"Professional, scientific and technical services [54]",474.14
+2004,Manitoba,"Professional, scientific and technical services [54]",499.32
+2005,Manitoba,"Professional, scientific and technical services [54]",481.81
+2006,Manitoba,"Professional, scientific and technical services [54]",529.28
+2007,Manitoba,"Professional, scientific and technical services [54]",545.31
+2008,Manitoba,"Professional, scientific and technical services [54]",517.79
+2009,Manitoba,"Professional, scientific and technical services [54]",560.5
+2010,Manitoba,"Professional, scientific and technical services [54]",539.82
+2011,Manitoba,"Professional, scientific and technical services [54]",579.47
+2012,Manitoba,"Professional, scientific and technical services [54]",571.39
+2013,Manitoba,"Professional, scientific and technical services [54]",632.69
+2014,Manitoba,"Professional, scientific and technical services [54]",654.64
+2015,Manitoba,"Professional, scientific and technical services [54]",760.22
+2016,Manitoba,"Professional, scientific and technical services [54]",659.83
+2017,Manitoba,"Professional, scientific and technical services [54]",611.31
+2018,Manitoba,"Professional, scientific and technical services [54]",774.98
+2019,Manitoba,"Professional, scientific and technical services [54]",678.86
+2020,Manitoba,"Professional, scientific and technical services [54]",757.92
+1997,New Brunswick,"Professional, scientific and technical services [54]",546.96
+1998,New Brunswick,"Professional, scientific and technical services [54]",487.71
+1999,New Brunswick,"Professional, scientific and technical services [54]",492.56
+2000,New Brunswick,"Professional, scientific and technical services [54]",535.29
+2001,New Brunswick,"Professional, scientific and technical services [54]",592.75
+2002,New Brunswick,"Professional, scientific and technical services [54]",532.43
+2003,New Brunswick,"Professional, scientific and technical services [54]",617.4
+2004,New Brunswick,"Professional, scientific and technical services [54]",661.19
+2005,New Brunswick,"Professional, scientific and technical services [54]",691.69
+2006,New Brunswick,"Professional, scientific and technical services [54]",631.19
+2007,New Brunswick,"Professional, scientific and technical services [54]",729.15
+2008,New Brunswick,"Professional, scientific and technical services [54]",810.88
+2009,New Brunswick,"Professional, scientific and technical services [54]",769.68
+2010,New Brunswick,"Professional, scientific and technical services [54]",824.32
+2011,New Brunswick,"Professional, scientific and technical services [54]",889.11
+2012,New Brunswick,"Professional, scientific and technical services [54]",928.75
+2013,New Brunswick,"Professional, scientific and technical services [54]",809.41
+2014,New Brunswick,"Professional, scientific and technical services [54]",890.77
+2015,New Brunswick,"Professional, scientific and technical services [54]",941.32
+2016,New Brunswick,"Professional, scientific and technical services [54]",991.29
+2017,New Brunswick,"Professional, scientific and technical services [54]",982.33
+2018,New Brunswick,"Professional, scientific and technical services [54]",1076.22
+2019,New Brunswick,"Professional, scientific and technical services [54]",1090.57
+2020,New Brunswick,"Professional, scientific and technical services [54]",1105.49
+1997,Newfoundland and Labrador,"Professional, scientific and technical services [54]",530.91
+1998,Newfoundland and Labrador,"Professional, scientific and technical services [54]",541.8
+1999,Newfoundland and Labrador,"Professional, scientific and technical services [54]",536.4
+2000,Newfoundland and Labrador,"Professional, scientific and technical services [54]",580.18
+2001,Newfoundland and Labrador,"Professional, scientific and technical services [54]",580.8
+2002,Newfoundland and Labrador,"Professional, scientific and technical services [54]",583.67
+2003,Newfoundland and Labrador,"Professional, scientific and technical services [54]",660.82
+2004,Newfoundland and Labrador,"Professional, scientific and technical services [54]",627.96
+2005,Newfoundland and Labrador,"Professional, scientific and technical services [54]",617.67
+2006,Newfoundland and Labrador,"Professional, scientific and technical services [54]",694.93
+2007,Newfoundland and Labrador,"Professional, scientific and technical services [54]",643.25
+2008,Newfoundland and Labrador,"Professional, scientific and technical services [54]",704.18
+2009,Newfoundland and Labrador,"Professional, scientific and technical services [54]",718.53
+2010,Newfoundland and Labrador,"Professional, scientific and technical services [54]",785.99
+2011,Newfoundland and Labrador,"Professional, scientific and technical services [54]",796.03
+2012,Newfoundland and Labrador,"Professional, scientific and technical services [54]",777.71
+2013,Newfoundland and Labrador,"Professional, scientific and technical services [54]",792.9
+2014,Newfoundland and Labrador,"Professional, scientific and technical services [54]",797.76
+2015,Newfoundland and Labrador,"Professional, scientific and technical services [54]",826.51
+2016,Newfoundland and Labrador,"Professional, scientific and technical services [54]",864.06
+2017,Newfoundland and Labrador,"Professional, scientific and technical services [54]",920.85
+2018,Newfoundland and Labrador,"Professional, scientific and technical services [54]",899.05
+2019,Newfoundland and Labrador,"Professional, scientific and technical services [54]",900.61
+2020,Newfoundland and Labrador,"Professional, scientific and technical services [54]",996.59
+1997,Nova Scotia,"Professional, scientific and technical services [54]",326.26
+1998,Nova Scotia,"Professional, scientific and technical services [54]",323.02
+1999,Nova Scotia,"Professional, scientific and technical services [54]",343.43
+2000,Nova Scotia,"Professional, scientific and technical services [54]",337.28
+2001,Nova Scotia,"Professional, scientific and technical services [54]",360.25
+2002,Nova Scotia,"Professional, scientific and technical services [54]",367
+2003,Nova Scotia,"Professional, scientific and technical services [54]",377.59
+2004,Nova Scotia,"Professional, scientific and technical services [54]",411.49
+2005,Nova Scotia,"Professional, scientific and technical services [54]",397.27
+2006,Nova Scotia,"Professional, scientific and technical services [54]",405.55
+2007,Nova Scotia,"Professional, scientific and technical services [54]",413.85
+2008,Nova Scotia,"Professional, scientific and technical services [54]",451.47
+2009,Nova Scotia,"Professional, scientific and technical services [54]",452.18
+2010,Nova Scotia,"Professional, scientific and technical services [54]",486.32
+2011,Nova Scotia,"Professional, scientific and technical services [54]",480.47
+2012,Nova Scotia,"Professional, scientific and technical services [54]",511.56
+2013,Nova Scotia,"Professional, scientific and technical services [54]",524.86
+2014,Nova Scotia,"Professional, scientific and technical services [54]",528.13
+2015,Nova Scotia,"Professional, scientific and technical services [54]",538.02
+2016,Nova Scotia,"Professional, scientific and technical services [54]",545.18
+2017,Nova Scotia,"Professional, scientific and technical services [54]",562.1
+2018,Nova Scotia,"Professional, scientific and technical services [54]",576.8
+2019,Nova Scotia,"Professional, scientific and technical services [54]",589.32
+2020,Nova Scotia,"Professional, scientific and technical services [54]",621.66
+1997,Ontario,"Professional, scientific and technical services [54]",284.73
+1998,Ontario,"Professional, scientific and technical services [54]",280.23
+1999,Ontario,"Professional, scientific and technical services [54]",284.37
+2000,Ontario,"Professional, scientific and technical services [54]",281.94
+2001,Ontario,"Professional, scientific and technical services [54]",295.5
+2002,Ontario,"Professional, scientific and technical services [54]",293.69
+2003,Ontario,"Professional, scientific and technical services [54]",307.93
+2004,Ontario,"Professional, scientific and technical services [54]",314.47
+2005,Ontario,"Professional, scientific and technical services [54]",328.71
+2006,Ontario,"Professional, scientific and technical services [54]",335.08
+2007,Ontario,"Professional, scientific and technical services [54]",338.6
+2008,Ontario,"Professional, scientific and technical services [54]",350.46
+2009,Ontario,"Professional, scientific and technical services [54]",360.02
+2010,Ontario,"Professional, scientific and technical services [54]",360.66
+2011,Ontario,"Professional, scientific and technical services [54]",387.6
+2012,Ontario,"Professional, scientific and technical services [54]",374.24
+2013,Ontario,"Professional, scientific and technical services [54]",382.45
+2014,Ontario,"Professional, scientific and technical services [54]",399.02
+2015,Ontario,"Professional, scientific and technical services [54]",403.29
+2016,Ontario,"Professional, scientific and technical services [54]",419.4
+2017,Ontario,"Professional, scientific and technical services [54]",441.11
+2018,Ontario,"Professional, scientific and technical services [54]",447.22
+2019,Ontario,"Professional, scientific and technical services [54]",460.17
+2020,Ontario,"Professional, scientific and technical services [54]",469.44
+1997,Prince Edward Island,"Professional, scientific and technical services [54]",427.57
+1998,Prince Edward Island,"Professional, scientific and technical services [54]",433.82
+1999,Prince Edward Island,"Professional, scientific and technical services [54]",413.23
+2000,Prince Edward Island,"Professional, scientific and technical services [54]",438.4
+2001,Prince Edward Island,"Professional, scientific and technical services [54]",442.36
+2002,Prince Edward Island,"Professional, scientific and technical services [54]",437.82
+2003,Prince Edward Island,"Professional, scientific and technical services [54]",473.42
+2004,Prince Edward Island,"Professional, scientific and technical services [54]",499.42
+2005,Prince Edward Island,"Professional, scientific and technical services [54]",498.78
+2006,Prince Edward Island,"Professional, scientific and technical services [54]",527.85
+2007,Prince Edward Island,"Professional, scientific and technical services [54]",527.28
+2008,Prince Edward Island,"Professional, scientific and technical services [54]",538.24
+2009,Prince Edward Island,"Professional, scientific and technical services [54]",548.39
+2010,Prince Edward Island,"Professional, scientific and technical services [54]",579.38
+2011,Prince Edward Island,"Professional, scientific and technical services [54]",601.08
+2012,Prince Edward Island,"Professional, scientific and technical services [54]",610.92
+2013,Prince Edward Island,"Professional, scientific and technical services [54]",616.88
+2014,Prince Edward Island,"Professional, scientific and technical services [54]",603.52
+2015,Prince Edward Island,"Professional, scientific and technical services [54]",624.29
+2016,Prince Edward Island,"Professional, scientific and technical services [54]",670.65
+2017,Prince Edward Island,"Professional, scientific and technical services [54]",668.89
+2018,Prince Edward Island,"Professional, scientific and technical services [54]",721.8
+2019,Prince Edward Island,"Professional, scientific and technical services [54]",718.68
+2020,Prince Edward Island,"Professional, scientific and technical services [54]",775.24
+1997,Quebec,"Professional, scientific and technical services [54]",664.57
+1998,Quebec,"Professional, scientific and technical services [54]",677.72
+1999,Quebec,"Professional, scientific and technical services [54]",682.38
+2000,Quebec,"Professional, scientific and technical services [54]",697.21
+2001,Quebec,"Professional, scientific and technical services [54]",722.19
+2002,Quebec,"Professional, scientific and technical services [54]",758.95
+2003,Quebec,"Professional, scientific and technical services [54]",747.47
+2004,Quebec,"Professional, scientific and technical services [54]",767.9
+2005,Quebec,"Professional, scientific and technical services [54]",763.17
+2006,Quebec,"Professional, scientific and technical services [54]",823.6
+2007,Quebec,"Professional, scientific and technical services [54]",845.42
+2008,Quebec,"Professional, scientific and technical services [54]",869.09
+2009,Quebec,"Professional, scientific and technical services [54]",910.5
+2010,Quebec,"Professional, scientific and technical services [54]",928.83
+2011,Quebec,"Professional, scientific and technical services [54]",960.97
+2012,Quebec,"Professional, scientific and technical services [54]",992.62
+2013,Quebec,"Professional, scientific and technical services [54]",1017.7
+2014,Quebec,"Professional, scientific and technical services [54]",1035.04
+2015,Quebec,"Professional, scientific and technical services [54]",1042.53
+2016,Quebec,"Professional, scientific and technical services [54]",1090.63
+2017,Quebec,"Professional, scientific and technical services [54]",1141.56
+2018,Quebec,"Professional, scientific and technical services [54]",1152.46
+2019,Quebec,"Professional, scientific and technical services [54]",1211.43
+2020,Quebec,"Professional, scientific and technical services [54]",1224.7
+1997,Saskatchewan,"Professional, scientific and technical services [54]",662.74
+1998,Saskatchewan,"Professional, scientific and technical services [54]",688.16
+1999,Saskatchewan,"Professional, scientific and technical services [54]",711.51
+2000,Saskatchewan,"Professional, scientific and technical services [54]",706.42
+2001,Saskatchewan,"Professional, scientific and technical services [54]",714.23
+2002,Saskatchewan,"Professional, scientific and technical services [54]",740
+2003,Saskatchewan,"Professional, scientific and technical services [54]",744.64
+2004,Saskatchewan,"Professional, scientific and technical services [54]",774.58
+2005,Saskatchewan,"Professional, scientific and technical services [54]",753.35
+2006,Saskatchewan,"Professional, scientific and technical services [54]",813
+2007,Saskatchewan,"Professional, scientific and technical services [54]",800.51
+2008,Saskatchewan,"Professional, scientific and technical services [54]",851.27
+2009,Saskatchewan,"Professional, scientific and technical services [54]",879.91
+2010,Saskatchewan,"Professional, scientific and technical services [54]",879.1
+2011,Saskatchewan,"Professional, scientific and technical services [54]",914.85
+2012,Saskatchewan,"Professional, scientific and technical services [54]",909.02
+2013,Saskatchewan,"Professional, scientific and technical services [54]",946.43
+2014,Saskatchewan,"Professional, scientific and technical services [54]",970.24
+2015,Saskatchewan,"Professional, scientific and technical services [54]",995.42
+2016,Saskatchewan,"Professional, scientific and technical services [54]",1014.35
+2017,Saskatchewan,"Professional, scientific and technical services [54]",1011.94
+2018,Saskatchewan,"Professional, scientific and technical services [54]",1020.47
+2019,Saskatchewan,"Professional, scientific and technical services [54]",1108.55
+2020,Saskatchewan,"Professional, scientific and technical services [54]",1117.84
+1997,Alberta,Transportation and warehousing [48-49],577.12
+1998,Alberta,Transportation and warehousing [48-49],597.76
+1999,Alberta,Transportation and warehousing [48-49],588.6
+2000,Alberta,Transportation and warehousing [48-49],618.12
+2001,Alberta,Transportation and warehousing [48-49],632.8
+2002,Alberta,Transportation and warehousing [48-49],673.59
+2003,Alberta,Transportation and warehousing [48-49],661.83
+2004,Alberta,Transportation and warehousing [48-49],706.25
+2005,Alberta,Transportation and warehousing [48-49],720.43
+2006,Alberta,Transportation and warehousing [48-49],735.97
+2007,Alberta,Transportation and warehousing [48-49],776.96
+2008,Alberta,Transportation and warehousing [48-49],812.31
+2009,Alberta,Transportation and warehousing [48-49],810.25
+2010,Alberta,Transportation and warehousing [48-49],831.25
+2011,Alberta,Transportation and warehousing [48-49],847.49
+2012,Alberta,Transportation and warehousing [48-49],883.03
+2013,Alberta,Transportation and warehousing [48-49],922.98
+2014,Alberta,Transportation and warehousing [48-49],956.91
+2015,Alberta,Transportation and warehousing [48-49],1000.16
+2016,Alberta,Transportation and warehousing [48-49],1047.42
+2017,Alberta,Transportation and warehousing [48-49],1038.92
+2018,Alberta,Transportation and warehousing [48-49],1052.83
+2019,Alberta,Transportation and warehousing [48-49],1138.96
+2020,Alberta,Transportation and warehousing [48-49],1190.56
+1997,British Columbia,Transportation and warehousing [48-49],535.85
+1998,British Columbia,Transportation and warehousing [48-49],530.2
+1999,British Columbia,Transportation and warehousing [48-49],535.29
+2000,British Columbia,Transportation and warehousing [48-49],549.25
+2001,British Columbia,Transportation and warehousing [48-49],562.49
+2002,British Columbia,Transportation and warehousing [48-49],588.89
+2003,British Columbia,Transportation and warehousing [48-49],583.46
+2004,British Columbia,Transportation and warehousing [48-49],605.36
+2005,British Columbia,Transportation and warehousing [48-49],629.96
+2006,British Columbia,Transportation and warehousing [48-49],630.38
+2007,British Columbia,Transportation and warehousing [48-49],662.32
+2008,British Columbia,Transportation and warehousing [48-49],663.04
+2009,British Columbia,Transportation and warehousing [48-49],705.56
+2010,British Columbia,Transportation and warehousing [48-49],703.2
+2011,British Columbia,Transportation and warehousing [48-49],714.62
+2012,British Columbia,Transportation and warehousing [48-49],746.98
+2013,British Columbia,Transportation and warehousing [48-49],742.11
+2014,British Columbia,Transportation and warehousing [48-49],770.43
+2015,British Columbia,Transportation and warehousing [48-49],781.74
+2016,British Columbia,Transportation and warehousing [48-49],801.04
+2017,British Columbia,Transportation and warehousing [48-49],839.94
+2018,British Columbia,Transportation and warehousing [48-49],837.68
+2019,British Columbia,Transportation and warehousing [48-49],872.61
+2020,British Columbia,Transportation and warehousing [48-49],915.87
+1997,Manitoba,Transportation and warehousing [48-49],599.12
+1998,Manitoba,Transportation and warehousing [48-49],602.87
+1999,Manitoba,Transportation and warehousing [48-49],635.34
+2000,Manitoba,Transportation and warehousing [48-49],621.34
+2001,Manitoba,Transportation and warehousing [48-49],616.05
+2002,Manitoba,Transportation and warehousing [48-49],593.12
+2003,Manitoba,Transportation and warehousing [48-49],650.36
+2004,Manitoba,Transportation and warehousing [48-49],654.39
+2005,Manitoba,Transportation and warehousing [48-49],689.14
+2006,Manitoba,Transportation and warehousing [48-49],670.41
+2007,Manitoba,Transportation and warehousing [48-49],706.94
+2008,Manitoba,Transportation and warehousing [48-49],696.83
+2009,Manitoba,Transportation and warehousing [48-49],733.76
+2010,Manitoba,Transportation and warehousing [48-49],777.36
+2011,Manitoba,Transportation and warehousing [48-49],724.07
+2012,Manitoba,Transportation and warehousing [48-49],764.53
+2013,Manitoba,Transportation and warehousing [48-49],780.45
+2014,Manitoba,Transportation and warehousing [48-49],769.72
+2015,Manitoba,Transportation and warehousing [48-49],784.06
+2016,Manitoba,Transportation and warehousing [48-49],813.45
+2017,Manitoba,Transportation and warehousing [48-49],851.81
+2018,Manitoba,Transportation and warehousing [48-49],831.14
+2019,Manitoba,Transportation and warehousing [48-49],883.32
+2020,Manitoba,Transportation and warehousing [48-49],1039.19
+1997,New Brunswick,Transportation and warehousing [48-49],595.7
+1998,New Brunswick,Transportation and warehousing [48-49],603.39
+1999,New Brunswick,Transportation and warehousing [48-49],607.12
+2000,New Brunswick,Transportation and warehousing [48-49],626.79
+2001,New Brunswick,Transportation and warehousing [48-49],645.86
+2002,New Brunswick,Transportation and warehousing [48-49],655.43
+2003,New Brunswick,Transportation and warehousing [48-49],681.28
+2004,New Brunswick,Transportation and warehousing [48-49],715.87
+2005,New Brunswick,Transportation and warehousing [48-49],728.04
+2006,New Brunswick,Transportation and warehousing [48-49],743.46
+2007,New Brunswick,Transportation and warehousing [48-49],762.09
+2008,New Brunswick,Transportation and warehousing [48-49],787.01
+2009,New Brunswick,Transportation and warehousing [48-49],825.11
+2010,New Brunswick,Transportation and warehousing [48-49],832.14
+2011,New Brunswick,Transportation and warehousing [48-49],834.92
+2012,New Brunswick,Transportation and warehousing [48-49],869.08
+2013,New Brunswick,Transportation and warehousing [48-49],879.98
+2014,New Brunswick,Transportation and warehousing [48-49],917.44
+2015,New Brunswick,Transportation and warehousing [48-49],925.47
+2016,New Brunswick,Transportation and warehousing [48-49],944.42
+2017,New Brunswick,Transportation and warehousing [48-49],966.38
+2018,New Brunswick,Transportation and warehousing [48-49],991.18
+2019,New Brunswick,Transportation and warehousing [48-49],1032.8
+2020,New Brunswick,Transportation and warehousing [48-49],1097.9
+1997,Newfoundland and Labrador,Transportation and warehousing [48-49],441.85
+1998,Newfoundland and Labrador,Transportation and warehousing [48-49],446.3
+1999,Newfoundland and Labrador,Transportation and warehousing [48-49],451.03
+2000,Newfoundland and Labrador,Transportation and warehousing [48-49],478.69
+2001,Newfoundland and Labrador,Transportation and warehousing [48-49],501.37
+2002,Newfoundland and Labrador,Transportation and warehousing [48-49],488.05
+2003,Newfoundland and Labrador,Transportation and warehousing [48-49],493.92
+2004,Newfoundland and Labrador,Transportation and warehousing [48-49],518.77
+2005,Newfoundland and Labrador,Transportation and warehousing [48-49],537.93
+2006,Newfoundland and Labrador,Transportation and warehousing [48-49],567.37
+2007,Newfoundland and Labrador,Transportation and warehousing [48-49],560.19
+2008,Newfoundland and Labrador,Transportation and warehousing [48-49],592.86
+2009,Newfoundland and Labrador,Transportation and warehousing [48-49],580.63
+2010,Newfoundland and Labrador,Transportation and warehousing [48-49],602.46
+2011,Newfoundland and Labrador,Transportation and warehousing [48-49],644.72
+2012,Newfoundland and Labrador,Transportation and warehousing [48-49],668.96
+2013,Newfoundland and Labrador,Transportation and warehousing [48-49],679.28
+2014,Newfoundland and Labrador,Transportation and warehousing [48-49],705.88
+2015,Newfoundland and Labrador,Transportation and warehousing [48-49],698.37
+2016,Newfoundland and Labrador,Transportation and warehousing [48-49],743.28
+2017,Newfoundland and Labrador,Transportation and warehousing [48-49],732.32
+2018,Newfoundland and Labrador,Transportation and warehousing [48-49],760.06
+2019,Newfoundland and Labrador,Transportation and warehousing [48-49],742.13
+2020,Newfoundland and Labrador,Transportation and warehousing [48-49],860.37
+1997,Nova Scotia,Transportation and warehousing [48-49],655.3
+1998,Nova Scotia,Transportation and warehousing [48-49],639.07
+1999,Nova Scotia,Transportation and warehousing [48-49],672.07
+2000,Nova Scotia,Transportation and warehousing [48-49],717.9
+2001,Nova Scotia,Transportation and warehousing [48-49],768.24
+2002,Nova Scotia,Transportation and warehousing [48-49],769.6
+2003,Nova Scotia,Transportation and warehousing [48-49],797.11
+2004,Nova Scotia,Transportation and warehousing [48-49],819.55
+2005,Nova Scotia,Transportation and warehousing [48-49],844.87
+2006,Nova Scotia,Transportation and warehousing [48-49],878.73
+2007,Nova Scotia,Transportation and warehousing [48-49],882.66
+2008,Nova Scotia,Transportation and warehousing [48-49],929.11
+2009,Nova Scotia,Transportation and warehousing [48-49],930.82
+2010,Nova Scotia,Transportation and warehousing [48-49],942.2
+2011,Nova Scotia,Transportation and warehousing [48-49],988.47
+2012,Nova Scotia,Transportation and warehousing [48-49],1024.42
+2013,Nova Scotia,Transportation and warehousing [48-49],998.88
+2014,Nova Scotia,Transportation and warehousing [48-49],1067.59
+2015,Nova Scotia,Transportation and warehousing [48-49],1058.68
+2016,Nova Scotia,Transportation and warehousing [48-49],1130.54
+2017,Nova Scotia,Transportation and warehousing [48-49],1132.99
+2018,Nova Scotia,Transportation and warehousing [48-49],1183.66
+2019,Nova Scotia,Transportation and warehousing [48-49],1230.49
+2020,Nova Scotia,Transportation and warehousing [48-49],1329.04
+1997,Ontario,Transportation and warehousing [48-49],596.76
+1998,Ontario,Transportation and warehousing [48-49],615.09
+1999,Ontario,Transportation and warehousing [48-49],618.19
+2000,Ontario,Transportation and warehousing [48-49],660.84
+2001,Ontario,Transportation and warehousing [48-49],671.01
+2002,Ontario,Transportation and warehousing [48-49],678.69
+2003,Ontario,Transportation and warehousing [48-49],690.39
+2004,Ontario,Transportation and warehousing [48-49],708.29
+2005,Ontario,Transportation and warehousing [48-49],725.22
+2006,Ontario,Transportation and warehousing [48-49],732.25
+2007,Ontario,Transportation and warehousing [48-49],757.02
+2008,Ontario,Transportation and warehousing [48-49],769.86
+2009,Ontario,Transportation and warehousing [48-49],800.13
+2010,Ontario,Transportation and warehousing [48-49],814.22
+2011,Ontario,Transportation and warehousing [48-49],813.78
+2012,Ontario,Transportation and warehousing [48-49],821.47
+2013,Ontario,Transportation and warehousing [48-49],835.57
+2014,Ontario,Transportation and warehousing [48-49],867.27
+2015,Ontario,Transportation and warehousing [48-49],887.11
+2016,Ontario,Transportation and warehousing [48-49],924.32
+2017,Ontario,Transportation and warehousing [48-49],896.81
+2018,Ontario,Transportation and warehousing [48-49],965.32
+2019,Ontario,Transportation and warehousing [48-49],1009.29
+2020,Ontario,Transportation and warehousing [48-49],1026.71
+1997,Prince Edward Island,Transportation and warehousing [48-49],411.38
+1998,Prince Edward Island,Transportation and warehousing [48-49],423.08
+1999,Prince Edward Island,Transportation and warehousing [48-49],431.15
+2000,Prince Edward Island,Transportation and warehousing [48-49],435.79
+2001,Prince Edward Island,Transportation and warehousing [48-49],442.75
+2002,Prince Edward Island,Transportation and warehousing [48-49],444.99
+2003,Prince Edward Island,Transportation and warehousing [48-49],453.19
+2004,Prince Edward Island,Transportation and warehousing [48-49],468.75
+2005,Prince Edward Island,Transportation and warehousing [48-49],495.86
+2006,Prince Edward Island,Transportation and warehousing [48-49],493.45
+2007,Prince Edward Island,Transportation and warehousing [48-49],503.59
+2008,Prince Edward Island,Transportation and warehousing [48-49],526.58
+2009,Prince Edward Island,Transportation and warehousing [48-49],539.82
+2010,Prince Edward Island,Transportation and warehousing [48-49],541.76
+2011,Prince Edward Island,Transportation and warehousing [48-49],556.91
+2012,Prince Edward Island,Transportation and warehousing [48-49],571.3
+2013,Prince Edward Island,Transportation and warehousing [48-49],582.58
+2014,Prince Edward Island,Transportation and warehousing [48-49],597.51
+2015,Prince Edward Island,Transportation and warehousing [48-49],612.43
+2016,Prince Edward Island,Transportation and warehousing [48-49],627.13
+2017,Prince Edward Island,Transportation and warehousing [48-49],672.1
+2018,Prince Edward Island,Transportation and warehousing [48-49],673.23
+2019,Prince Edward Island,Transportation and warehousing [48-49],660.76
+2020,Prince Edward Island,Transportation and warehousing [48-49],719.83
+1997,Quebec,Transportation and warehousing [48-49],218.86
+1998,Quebec,Transportation and warehousing [48-49],220.77
+1999,Quebec,Transportation and warehousing [48-49],227.88
+2000,Quebec,Transportation and warehousing [48-49],238.27
+2001,Quebec,Transportation and warehousing [48-49],253.08
+2002,Quebec,Transportation and warehousing [48-49],246.37
+2003,Quebec,Transportation and warehousing [48-49],264.46
+2004,Quebec,Transportation and warehousing [48-49],274.08
+2005,Quebec,Transportation and warehousing [48-49],278.85
+2006,Quebec,Transportation and warehousing [48-49],291.8
+2007,Quebec,Transportation and warehousing [48-49],319.23
+2008,Quebec,Transportation and warehousing [48-49],343.84
+2009,Quebec,Transportation and warehousing [48-49],371.29
+2010,Quebec,Transportation and warehousing [48-49],387.98
+2011,Quebec,Transportation and warehousing [48-49],396.59
+2012,Quebec,Transportation and warehousing [48-49],415.81
+2013,Quebec,Transportation and warehousing [48-49],413.53
+2014,Quebec,Transportation and warehousing [48-49],420.78
+2015,Quebec,Transportation and warehousing [48-49],438.74
+2016,Quebec,Transportation and warehousing [48-49],450.64
+2017,Quebec,Transportation and warehousing [48-49],454.23
+2018,Quebec,Transportation and warehousing [48-49],435.62
+2019,Quebec,Transportation and warehousing [48-49],450.98
+2020,Quebec,Transportation and warehousing [48-49],424.15
+1997,Saskatchewan,Transportation and warehousing [48-49],330.53
+1998,Saskatchewan,Transportation and warehousing [48-49],344.6
+1999,Saskatchewan,Transportation and warehousing [48-49],351.94
+2000,Saskatchewan,Transportation and warehousing [48-49],358.61
+2001,Saskatchewan,Transportation and warehousing [48-49],347.45
+2002,Saskatchewan,Transportation and warehousing [48-49],394.24
+2003,Saskatchewan,Transportation and warehousing [48-49],389.61
+2004,Saskatchewan,Transportation and warehousing [48-49],421.9
+2005,Saskatchewan,Transportation and warehousing [48-49],433.28
+2006,Saskatchewan,Transportation and warehousing [48-49],441.68
+2007,Saskatchewan,Transportation and warehousing [48-49],488.52
+2008,Saskatchewan,Transportation and warehousing [48-49],522.39
+2009,Saskatchewan,Transportation and warehousing [48-49],578.81
+2010,Saskatchewan,Transportation and warehousing [48-49],554.8
+2011,Saskatchewan,Transportation and warehousing [48-49],587.07
+2012,Saskatchewan,Transportation and warehousing [48-49],676.34
+2013,Saskatchewan,Transportation and warehousing [48-49],685.82
+2014,Saskatchewan,Transportation and warehousing [48-49],701.98
+2015,Saskatchewan,Transportation and warehousing [48-49],659.16
+2016,Saskatchewan,Transportation and warehousing [48-49],726.23
+2017,Saskatchewan,Transportation and warehousing [48-49],681.46
+2018,Saskatchewan,Transportation and warehousing [48-49],771.5
+2019,Saskatchewan,Transportation and warehousing [48-49],748.55
+2020,Saskatchewan,Transportation and warehousing [48-49],785.38
+1997,Alberta,"Wholesale and retail trade [41, 44-45]",575.01
+1998,Alberta,"Wholesale and retail trade [41, 44-45]",559.54
+1999,Alberta,"Wholesale and retail trade [41, 44-45]",607.87
+2000,Alberta,"Wholesale and retail trade [41, 44-45]",647.71
+2001,Alberta,"Wholesale and retail trade [41, 44-45]",649.36
+2002,Alberta,"Wholesale and retail trade [41, 44-45]",659.5
+2003,Alberta,"Wholesale and retail trade [41, 44-45]",676.97
+2004,Alberta,"Wholesale and retail trade [41, 44-45]",685.32
+2005,Alberta,"Wholesale and retail trade [41, 44-45]",700.92
+2006,Alberta,"Wholesale and retail trade [41, 44-45]",738.3
+2007,Alberta,"Wholesale and retail trade [41, 44-45]",806.15
+2008,Alberta,"Wholesale and retail trade [41, 44-45]",858.73
+2009,Alberta,"Wholesale and retail trade [41, 44-45]",918.36
+2010,Alberta,"Wholesale and retail trade [41, 44-45]",951.22
+2011,Alberta,"Wholesale and retail trade [41, 44-45]",986.78
+2012,Alberta,"Wholesale and retail trade [41, 44-45]",1081.11
+2013,Alberta,"Wholesale and retail trade [41, 44-45]",1067.38
+2014,Alberta,"Wholesale and retail trade [41, 44-45]",1121.56
+2015,Alberta,"Wholesale and retail trade [41, 44-45]",1149.04
+2016,Alberta,"Wholesale and retail trade [41, 44-45]",1224.59
+2017,Alberta,"Wholesale and retail trade [41, 44-45]",1164.08
+2018,Alberta,"Wholesale and retail trade [41, 44-45]",1210.22
+2019,Alberta,"Wholesale and retail trade [41, 44-45]",1213.21
+2020,Alberta,"Wholesale and retail trade [41, 44-45]",1297.2
+1997,British Columbia,"Wholesale and retail trade [41, 44-45]",626.49
+1998,British Columbia,"Wholesale and retail trade [41, 44-45]",612.54
+1999,British Columbia,"Wholesale and retail trade [41, 44-45]",631.26
+2000,British Columbia,"Wholesale and retail trade [41, 44-45]",654.66
+2001,British Columbia,"Wholesale and retail trade [41, 44-45]",695.09
+2002,British Columbia,"Wholesale and retail trade [41, 44-45]",695.02
+2003,British Columbia,"Wholesale and retail trade [41, 44-45]",703.11
+2004,British Columbia,"Wholesale and retail trade [41, 44-45]",758.41
+2005,British Columbia,"Wholesale and retail trade [41, 44-45]",763.24
+2006,British Columbia,"Wholesale and retail trade [41, 44-45]",791.1
+2007,British Columbia,"Wholesale and retail trade [41, 44-45]",808.28
+2008,British Columbia,"Wholesale and retail trade [41, 44-45]",879.41
+2009,British Columbia,"Wholesale and retail trade [41, 44-45]",855.23
+2010,British Columbia,"Wholesale and retail trade [41, 44-45]",947.11
+2011,British Columbia,"Wholesale and retail trade [41, 44-45]",951.06
+2012,British Columbia,"Wholesale and retail trade [41, 44-45]",1012.45
+2013,British Columbia,"Wholesale and retail trade [41, 44-45]",1022.62
+2014,British Columbia,"Wholesale and retail trade [41, 44-45]",1024.53
+2015,British Columbia,"Wholesale and retail trade [41, 44-45]",1056.28
+2016,British Columbia,"Wholesale and retail trade [41, 44-45]",1114.47
+2017,British Columbia,"Wholesale and retail trade [41, 44-45]",1071.29
+2018,British Columbia,"Wholesale and retail trade [41, 44-45]",1143.91
+2019,British Columbia,"Wholesale and retail trade [41, 44-45]",1126.34
+2020,British Columbia,"Wholesale and retail trade [41, 44-45]",1239.03
+1997,Manitoba,"Wholesale and retail trade [41, 44-45]",542.57
+1998,Manitoba,"Wholesale and retail trade [41, 44-45]",535.46
+1999,Manitoba,"Wholesale and retail trade [41, 44-45]",556.58
+2000,Manitoba,"Wholesale and retail trade [41, 44-45]",581.11
+2001,Manitoba,"Wholesale and retail trade [41, 44-45]",626.21
+2002,Manitoba,"Wholesale and retail trade [41, 44-45]",654.05
+2003,Manitoba,"Wholesale and retail trade [41, 44-45]",651.99
+2004,Manitoba,"Wholesale and retail trade [41, 44-45]",664.58
+2005,Manitoba,"Wholesale and retail trade [41, 44-45]",679.56
+2006,Manitoba,"Wholesale and retail trade [41, 44-45]",688.5
+2007,Manitoba,"Wholesale and retail trade [41, 44-45]",743.4
+2008,Manitoba,"Wholesale and retail trade [41, 44-45]",768.8
+2009,Manitoba,"Wholesale and retail trade [41, 44-45]",820.54
+2010,Manitoba,"Wholesale and retail trade [41, 44-45]",878.3
+2011,Manitoba,"Wholesale and retail trade [41, 44-45]",891.46
+2012,Manitoba,"Wholesale and retail trade [41, 44-45]",973.85
+2013,Manitoba,"Wholesale and retail trade [41, 44-45]",980.47
+2014,Manitoba,"Wholesale and retail trade [41, 44-45]",1017.48
+2015,Manitoba,"Wholesale and retail trade [41, 44-45]",1038.02
+2016,Manitoba,"Wholesale and retail trade [41, 44-45]",1054.44
+2017,Manitoba,"Wholesale and retail trade [41, 44-45]",1036.7
+2018,Manitoba,"Wholesale and retail trade [41, 44-45]",1053.32
+2019,Manitoba,"Wholesale and retail trade [41, 44-45]",1161.77
+2020,Manitoba,"Wholesale and retail trade [41, 44-45]",1238.61
+1997,New Brunswick,"Wholesale and retail trade [41, 44-45]",479.07
+1998,New Brunswick,"Wholesale and retail trade [41, 44-45]",502.31
+1999,New Brunswick,"Wholesale and retail trade [41, 44-45]",496.79
+2000,New Brunswick,"Wholesale and retail trade [41, 44-45]",518.91
+2001,New Brunswick,"Wholesale and retail trade [41, 44-45]",554.89
+2002,New Brunswick,"Wholesale and retail trade [41, 44-45]",567.05
+2003,New Brunswick,"Wholesale and retail trade [41, 44-45]",607.53
+2004,New Brunswick,"Wholesale and retail trade [41, 44-45]",626.99
+2005,New Brunswick,"Wholesale and retail trade [41, 44-45]",667.68
+2006,New Brunswick,"Wholesale and retail trade [41, 44-45]",690.61
+2007,New Brunswick,"Wholesale and retail trade [41, 44-45]",724.28
+2008,New Brunswick,"Wholesale and retail trade [41, 44-45]",759.61
+2009,New Brunswick,"Wholesale and retail trade [41, 44-45]",804.98
+2010,New Brunswick,"Wholesale and retail trade [41, 44-45]",829.04
+2011,New Brunswick,"Wholesale and retail trade [41, 44-45]",871.02
+2012,New Brunswick,"Wholesale and retail trade [41, 44-45]",887.98
+2013,New Brunswick,"Wholesale and retail trade [41, 44-45]",912.76
+2014,New Brunswick,"Wholesale and retail trade [41, 44-45]",920.15
+2015,New Brunswick,"Wholesale and retail trade [41, 44-45]",948.12
+2016,New Brunswick,"Wholesale and retail trade [41, 44-45]",998.41
+2017,New Brunswick,"Wholesale and retail trade [41, 44-45]",994.48
+2018,New Brunswick,"Wholesale and retail trade [41, 44-45]",985
+2019,New Brunswick,"Wholesale and retail trade [41, 44-45]",1002.14
+2020,New Brunswick,"Wholesale and retail trade [41, 44-45]",1060.43
+1997,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",474.34
+1998,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",498.78
+1999,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",496.16
+2000,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",475.16
+2001,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",536.63
+2002,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",561.11
+2003,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",593
+2004,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",613.3
+2005,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",590.46
+2006,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",647.75
+2007,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",617.22
+2008,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",715.75
+2009,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",724.13
+2010,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",730.8
+2011,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",758.82
+2012,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",771.22
+2013,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",739.97
+2014,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",802.94
+2015,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",843.39
+2016,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",830.08
+2017,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",852.62
+2018,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",886.27
+2019,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",829.52
+2020,Newfoundland and Labrador,"Wholesale and retail trade [41, 44-45]",942.95
+1997,Nova Scotia,"Wholesale and retail trade [41, 44-45]",575.79
+1998,Nova Scotia,"Wholesale and retail trade [41, 44-45]",589.94
+1999,Nova Scotia,"Wholesale and retail trade [41, 44-45]",619.78
+2000,Nova Scotia,"Wholesale and retail trade [41, 44-45]",645.75
+2001,Nova Scotia,"Wholesale and retail trade [41, 44-45]",658.58
+2002,Nova Scotia,"Wholesale and retail trade [41, 44-45]",682.03
+2003,Nova Scotia,"Wholesale and retail trade [41, 44-45]",705.69
+2004,Nova Scotia,"Wholesale and retail trade [41, 44-45]",701.58
+2005,Nova Scotia,"Wholesale and retail trade [41, 44-45]",716.9
+2006,Nova Scotia,"Wholesale and retail trade [41, 44-45]",750.22
+2007,Nova Scotia,"Wholesale and retail trade [41, 44-45]",753.9
+2008,Nova Scotia,"Wholesale and retail trade [41, 44-45]",864.42
+2009,Nova Scotia,"Wholesale and retail trade [41, 44-45]",925.55
+2010,Nova Scotia,"Wholesale and retail trade [41, 44-45]",911.96
+2011,Nova Scotia,"Wholesale and retail trade [41, 44-45]",940.02
+2012,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1013.64
+2013,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1018.68
+2014,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1040.25
+2015,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1050.25
+2016,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1112.21
+2017,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1102.44
+2018,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1108.72
+2019,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1160.06
+2020,Nova Scotia,"Wholesale and retail trade [41, 44-45]",1216.93
+1997,Ontario,"Wholesale and retail trade [41, 44-45]",445.73
+1998,Ontario,"Wholesale and retail trade [41, 44-45]",455.51
+1999,Ontario,"Wholesale and retail trade [41, 44-45]",469.63
+2000,Ontario,"Wholesale and retail trade [41, 44-45]",478.53
+2001,Ontario,"Wholesale and retail trade [41, 44-45]",504.82
+2002,Ontario,"Wholesale and retail trade [41, 44-45]",496.55
+2003,Ontario,"Wholesale and retail trade [41, 44-45]",520.26
+2004,Ontario,"Wholesale and retail trade [41, 44-45]",523.78
+2005,Ontario,"Wholesale and retail trade [41, 44-45]",529.29
+2006,Ontario,"Wholesale and retail trade [41, 44-45]",576.07
+2007,Ontario,"Wholesale and retail trade [41, 44-45]",586.61
+2008,Ontario,"Wholesale and retail trade [41, 44-45]",622.54
+2009,Ontario,"Wholesale and retail trade [41, 44-45]",664.25
+2010,Ontario,"Wholesale and retail trade [41, 44-45]",685.44
+2011,Ontario,"Wholesale and retail trade [41, 44-45]",728.83
+2012,Ontario,"Wholesale and retail trade [41, 44-45]",759.63
+2013,Ontario,"Wholesale and retail trade [41, 44-45]",756.8
+2014,Ontario,"Wholesale and retail trade [41, 44-45]",824.67
+2015,Ontario,"Wholesale and retail trade [41, 44-45]",811.9
+2016,Ontario,"Wholesale and retail trade [41, 44-45]",828.22
+2017,Ontario,"Wholesale and retail trade [41, 44-45]",838.26
+2018,Ontario,"Wholesale and retail trade [41, 44-45]",867.88
+2019,Ontario,"Wholesale and retail trade [41, 44-45]",846.37
+2020,Ontario,"Wholesale and retail trade [41, 44-45]",877.11
+1997,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",570.31
+1998,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",543.72
+1999,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",642.78
+2000,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",653.52
+2001,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",676.07
+2002,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",694.05
+2003,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",693.38
+2004,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",706.2
+2005,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",736.96
+2006,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",788.18
+2007,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",850.26
+2008,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",891.47
+2009,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",930.52
+2010,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",980.87
+2011,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",990.44
+2012,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1055.29
+2013,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1102.93
+2014,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1098.68
+2015,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1239.24
+2016,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1224.13
+2017,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1161.88
+2018,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1228.44
+2019,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1269.91
+2020,Prince Edward Island,"Wholesale and retail trade [41, 44-45]",1257.56
+1997,Quebec,"Wholesale and retail trade [41, 44-45]",626.1
+1998,Quebec,"Wholesale and retail trade [41, 44-45]",623.04
+1999,Quebec,"Wholesale and retail trade [41, 44-45]",664.96
+2000,Quebec,"Wholesale and retail trade [41, 44-45]",679.18
+2001,Quebec,"Wholesale and retail trade [41, 44-45]",682.57
+2002,Quebec,"Wholesale and retail trade [41, 44-45]",709.51
+2003,Quebec,"Wholesale and retail trade [41, 44-45]",719.37
+2004,Quebec,"Wholesale and retail trade [41, 44-45]",713.78
+2005,Quebec,"Wholesale and retail trade [41, 44-45]",772.63
+2006,Quebec,"Wholesale and retail trade [41, 44-45]",774.34
+2007,Quebec,"Wholesale and retail trade [41, 44-45]",831.05
+2008,Quebec,"Wholesale and retail trade [41, 44-45]",871.91
+2009,Quebec,"Wholesale and retail trade [41, 44-45]",919.61
+2010,Quebec,"Wholesale and retail trade [41, 44-45]",954.79
+2011,Quebec,"Wholesale and retail trade [41, 44-45]",953.56
+2012,Quebec,"Wholesale and retail trade [41, 44-45]",961.58
+2013,Quebec,"Wholesale and retail trade [41, 44-45]",1052.7
+2014,Quebec,"Wholesale and retail trade [41, 44-45]",1023.88
+2015,Quebec,"Wholesale and retail trade [41, 44-45]",1043.06
+2016,Quebec,"Wholesale and retail trade [41, 44-45]",1066.56
+2017,Quebec,"Wholesale and retail trade [41, 44-45]",1085.63
+2018,Quebec,"Wholesale and retail trade [41, 44-45]",1080.88
+2019,Quebec,"Wholesale and retail trade [41, 44-45]",1105.13
+2020,Quebec,"Wholesale and retail trade [41, 44-45]",1174.08
+1997,Saskatchewan,"Wholesale and retail trade [41, 44-45]",382.1
+1998,Saskatchewan,"Wholesale and retail trade [41, 44-45]",389.52
+1999,Saskatchewan,"Wholesale and retail trade [41, 44-45]",400.13
+2000,Saskatchewan,"Wholesale and retail trade [41, 44-45]",413.46
+2001,Saskatchewan,"Wholesale and retail trade [41, 44-45]",431.05
+2002,Saskatchewan,"Wholesale and retail trade [41, 44-45]",445
+2003,Saskatchewan,"Wholesale and retail trade [41, 44-45]",460.12
+2004,Saskatchewan,"Wholesale and retail trade [41, 44-45]",479.31
+2005,Saskatchewan,"Wholesale and retail trade [41, 44-45]",463.84
+2006,Saskatchewan,"Wholesale and retail trade [41, 44-45]",493.73
+2007,Saskatchewan,"Wholesale and retail trade [41, 44-45]",513.96
+2008,Saskatchewan,"Wholesale and retail trade [41, 44-45]",565.59
+2009,Saskatchewan,"Wholesale and retail trade [41, 44-45]",590.14
+2010,Saskatchewan,"Wholesale and retail trade [41, 44-45]",598.99
+2011,Saskatchewan,"Wholesale and retail trade [41, 44-45]",653.98
+2012,Saskatchewan,"Wholesale and retail trade [41, 44-45]",661.03
+2013,Saskatchewan,"Wholesale and retail trade [41, 44-45]",696.01
+2014,Saskatchewan,"Wholesale and retail trade [41, 44-45]",705.84
+2015,Saskatchewan,"Wholesale and retail trade [41, 44-45]",730.83
+2016,Saskatchewan,"Wholesale and retail trade [41, 44-45]",734.78
+2017,Saskatchewan,"Wholesale and retail trade [41, 44-45]",758.12
+2018,Saskatchewan,"Wholesale and retail trade [41, 44-45]",790.06
+2019,Saskatchewan,"Wholesale and retail trade [41, 44-45]",792.97
+2020,Saskatchewan,"Wholesale and retail trade [41, 44-45]",802.29
