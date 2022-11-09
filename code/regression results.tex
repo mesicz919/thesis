@@ -1,0 +1,340 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage[utf8]{inputenc}
+\usepackage{url}
+\usepackage{color}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs,caption}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[flushleft]{threeparttable}
+\usepackage[margin=0.1in]{geometry}
+\usepackage{pdflscape}
+
+\DeclareCaptionLabelFormat{blank}{}
+
+\begin{document}
+
+\begin{table}[!htbp] \centering 
+Table 3: Estimating Routine-Biased Technological Change (Dependent variable: \textit{Hours worked})
+  \label{} 
+\tiny
+\begin{tabular}{@{\extracolsep{5pt}}lcccc} 
+\hline
+\hline \\[-1.8ex] 
+\\[-1.8ex] Model 1: \textit{Pooled OLS Regression Model} & (1) & (2) & (3) & (4) \\ 
+\hline \\[-1.8ex] 
+Wage rate & 0.011$^{***}$ & --- & --- & 0.011$^{***}$ \\ 
+  & (0.0002) & & & (0.0002) \\ 
+  & & & & \\ 
+ RTI & --- & $-$1.152$^{***}$ & --- & $-$0.423$^{***}$ \\ 
+  & & & & (0.076) \\ 
+  & & & & \\ 
+ Offshorability & --- & --- & 0.439$^{***}$ & 0.491$^{***}$ \\ 
+  & & & (0.079) & (0.075) \\ 
+  & & & & \\ 
+ Constant & 29.128$^{***}$ & 35.611$^{***}$ & 35.797$^{***}$ &29.501$^{***}$ \\ 
+  & (0.143) & (0.064) & (0.067) & (0.153) \\ 
+ & & & & \\
+\hline \\[-1.8ex] 
+Observations & 5,934 & 5,934 & 5,934 & 5,934 \\ 
+R$^{2}$ & 0.293 & 0.038 & 0.005 & 0.299 \\ 
+Adjusted R$^{2}$ & 0.293 & 0.037 & 0.005 & 0.299 \\
+F Statistic & 2,461.246$^{***}$ (df = 1; 5932) & 231.953$^{***}$ (df = 1; 5932) & 30.895$^{***}$ (df = 1; 5932) & 844.144$^{***}$ (df = 3; 5930) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\\[-1.8ex] Model 2: \textit{Least-Squares Dummy Variable Model} & (5) & (6) & (7) & (8) \\
+\hline \\[-1.8ex] 
+Wage rate & 0.015$^{***}$ & --- & --- & 0.015$^{***}$ \\ 
+  & (0.0002) & & & (0.0002) \\ 
+  & & & & \\ 
+ RTI & --- & $-$1.150$^{***}$ & --- & 0.133$^{*}$ \\ 
+  & & (0.075) & & (0.069) \\ 
+  & & & & \\ 
+ Offshorability & --- & ---- & 0.445$^{***}$ & 0.190$^{***}$ \\ 
+  & & & (0.078) & (0.066) \\ 
+  & & & & \\ 
+ Constant & 28.879$^{***}$ & 36.661$^{***}$ & 36.851$^{***}$ & 28.856$^{***}$ \\ 
+  & (0.291) & (0.350) & (0.357) & (0.296) \\ 
+ & & & & \\
+\hline \\[-1.8ex] 
+Observations & 5,934 & 5,934 & 5,934 & 5,934 \\ 
+R$^{2}$ & 0.457 & 0.067 & 0.035 & 0.459 \\ 
+Adjusted R$^{2}$ & 0.454 & 0.062 & 0.030 & 0.456 \\
+Residual Std.  Error & 3.692 (df = 5902) & 4.841 (df = 5902) & 4.924 (df = 5902) & 3.686 (df = 5900) \\
+F Statistic & 160.404$^{***}$ (df = 31; 5902) & 13.639$^{***}$ (df = 31; 5902) & 6.824$^{***}$ (df = 31; 5902) & 151.868$^{***}$ (df = 33; 5900) \\
+\hline 
+\hline \\[-1.8ex]  
+\\[-1.8ex] Model 3: \textit{Two-Ways ``Within" Model} & (9) & (10) & (11) & (12) \\
+\hline \\[-1.8ex]
+Wage rate & $-$0.0001 & --- & --- & $-$0.0001 \\ 
+  & (0.0002) & & & (0.0002) \\ 
+  & & & & \\ 
+ RTI & --- & 0.361$^{***}$ & --- & $-$0.022 \\ 
+  & & (0.127) & & (0.153) \\ 
+  & & & & \\ 
+ Offshorability & --- & --- & 0.615$^{***}$ & 0.627$^{***}$ \\ 
+  & & & (0.116) & (0.139) \\ 
+  & & & & \\ 
+ Constant & --- & --- & --- & --- \\ 
+  & & & & \\ 
+ & & & & \\
+\hline \\[-1.8ex] 
+Observations & 5,934 & 5,934 & 5,934 & 5,934 \\ 
+R$^{2}$ & 0.00003 & 0.001 & 0.005 & 0.005 \\ 
+Adjusted R$^{2}$ & $-$0.038 & $-$0.037 & $-$0.033 & $-$0.034 \\
+F Statistic & 0.172 (df = 1; 5713) & 8.096$^{***}$ (df = 1; 5713) & (df = 1; 5713) & 9.517$^{***}$ (df = 3; 5711) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:} $^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01 & & & \\ 
+\end{tabular} 
+\end{table}
+
+\newpage
+
+\begin{table}[!htbp] \centering 
+Table 2: Estimating Routine-Biased Technological Change \textit{(Pooled OLS Regression Model)}
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & Hours worked \\ 
+\hline \\[-1.8ex] 
+Wage rate & 0.011$^{***}$ \\ 
+  & (0.0002) \\ 
+  & \\ 
+ RTI & $-$0.423$^{***}$ \\ 
+  & (0.076) \\ 
+  & \\ 
+ Offshorability & 0.491$^{***}$ \\ 
+  & (0.075) \\ 
+  & \\ 
+ Constant & 29.501$^{***}$ \\ 
+  & (0.153) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 5,934 \\ 
+R$^{2}$ & 0.299 \\ 
+Adjusted R$^{2}$ & 0.299 \\ 
+F Statistic & 844.144$^{***}$ (df = 3; 5930) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table}
+
+\newpage
+
+\begin{table}[!htbp] \centering 
+Table 3: Estimating Routine-Biased Technological Change \textit{(Least-Squares Dummy Variable Model)} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & Hours worked \\ 
+\hline \\[-1.8ex] 
+ Wage rate & 0.015$^{***}$ \\ 
+  & (0.0002) \\ 
+& \\ 
+ RTI & 0.133$^{*}$ \\ 
+  & (0.069) \\ 
+& \\ 
+ Offshorability & 0.190$^{***}$ \\ 
+  & (0.066) \\ 
+& \\ 
+ Constant & 28.856$^{***}$ \\ 
+  & (0.296) \\  
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 5,934 \\ 
+R$^{2}$ & 0.459 \\ 
+Adjusted R$^{2}$ & 0.456 \\ 
+Residual Std. Error & 3.686 (df = 5900) \\ 
+F Statistic & 151.868$^{***}$ (df = 33; 5900) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
+
+\newpage
+
+
+\begin{table}[!htbp] \centering 
+Table 4: Estimating Routine-Biased Technological Change \textit{(Two-Ways ``Within'' Model)}
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] & Hours worked \\ 
+\hline \\[-1.8ex] 
+ Wage rate & 0.005$^{***}$ \\ 
+  & (0.0003) \\ 
+  & \\ 
+ RTI & 0.361$^{**}$ \\ 
+  & (0.148) \\ 
+  & \\ 
+ Offshorability & 0.437$^{***}$ \\ 
+  & (0.134) \\ 
+  & \\ 
+ Time trend & $-$0.123$^{***}$ \\ 
+  & (0.006) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+Observations & 5,934 \\ 
+R$^{2}$ & 0.079 \\ 
+Adjusted R$^{2}$ & 0.039 \\ 
+F Statistic & 122.424$^{***}$ (df = 4; 5684) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
+
+\newpage
+
+
+\begin{table}[!htbp] \centering 
+Table 2: Horse Race Regression Results (Dependent variables: \textit{Hours worked},  \textit{Employment share})
+  \label{} 
+\small
+\begin{tabular}{@{\extracolsep{5pt}}lccc} 
+\hline
+\hline \\[-1.8ex] 
+ & & \multicolumn{1}{c} {\underline{Dependent variable: \textit{Hours worked}}} \\
+\\
+& (1) & (2) & (3) \\
+\hline \\[-1.8ex] 
+RTI & $-$0.905 & --- & $-$0.873 \\ 
+  & (1.431) & & (1.698) \\ 
+Offshorability & --- & $-$0.492 &  $-$0.061 \\ 
+  & & (1.399) & (1.650) \\ 
+ Constant & $-$2.459 & $-$2.136 & $-$2.452 \\ 
+  & (2.084) & (2.014) & (2.137) \\ 
+  & & & \\ 
+\hline \\[-1.8ex] 
+Observations & 27 & 27 & 27 \\ 
+R$^{2}$ & 0.038 & 0.027 & 0.038 \\ 
+Adjusted R$^{2}$ & $-$0.042 & $-$0.054 & $-$0.087 \\ 
+Residual Std. Error & 5.994 (df = 24) & 6.028 (df = 24) & 6.122 (df = 23)  \\ 
+F Statistic & 0.474 (df = 2; 24) & 0.333 (df = 2; 24) & 0.304 (df = 3; 23) \\ 
+\hline 
+\hline \\[-1.8ex] 
+ & & \multicolumn{1}{c}{\underline{Dependent variable: \textit{Employment share}}}\\
+\\
+& (4) & (5) & (6)  \\
+\hline \\[-1.8ex] 
+RTI & $-$0.901 & --- & $-$0.293 \\ 
+  & (0.901) & & (1.040) \\ 
+Offshorability & --- & $-$1.305 & $-$1.160 \\ 
+  & & (0.853) & (1.011) \\ 
+ Constant & 0.014 & 0.252 & 0.145 \\ 
+  &  (1.312) & (1.229) & (1.309) \\ 
+  & & &  \\ 
+\hline \\[-1.8ex] 
+Observations & 27 & 27 & 27 \\ 
+R$^{2}$ & 0.043 & 0.091 & 0.095 \\ 
+Adjusted R$^{2}$ & $-$0.037 & 0.016 & $-$0.023 \\ 
+Residual Std. Error & 3.775 (df = 24) & 3.677 (df = 24) & 3.750 (df = 23) \\ 
+F Statistic & 0.536 (df = 2; 24) & 1.209 (df = 2; 24) & 0.801 (df = 3; 23) \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
+
+
+\begin{landscape}
+\begin{table}[!htbp] \centering 
+\small
+Measures and Change in Employment Shares at the NOC Level, 1997-2018
+  \label{} 
+\begin{tabular}{p{0.35\textwidth}p{0.1\textwidth}p{0.1\textwidth}p{0.1\textwidth}p{0.1\textwidth}p{0.1\textwidth}}
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ NOC & Mean Occupational Wage, 1997-2018 (1) & Average employment share, 1997 (in \%) (2)	& Percentage point change, 1997-2018 (3) & RTI (4) & Offshorability (5) \\
+\hline \\[-1.8ex] 
+\textit{High-paying occupations}	& &	\textbf{36.54}	& \textbf{-0.05}	& &  \\
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Professional occupations in natural and applied sciences [21]	& 1034.78 &	4.18	& -3.73 &	-0.61 &	0.47 \\
+Occupations in front-line public protection services [43]	& 993.61	& 4.24 &	4.77	& -0.60	& -0.94 \\
+Professional occupations in business and finance [11]	& 905.25	& 4.06	& -3.65 & -0.73 &	0.21 \\
+Professional occupations in health (except nursing) [31]	& 887.51	& 4.13	& -1.77	& -0.67	& -0.76 \\
+Professional occupations in law and social, community and government services [41]	& 884.79	& 4.07	& -5.70 &	-0.44	& 0.10 \\
+Processing, manufacturing and utilities supervisors and central control operators [92]	& 840.75	& 4.35 & 	2.53 &	0.39	& 0.47 \\
+Professional occupations in nursing [30]	& 811.54	& 3.28 &	8.79	& -0.67	& -0.76 \\
+Technical occupations related to natural and applied sciences [22]	& 807.91	& 4.05	& -0.81	& -0.61	& 0.47 \\
+Industrial, electrical and construction trades [72]	& 773.54 &	4.19	& 0.55	& 0.85	& 0.35 \\
+\hline \\[-1.8ex] 
+\textit{Middle-paying occupations}	& &	\textbf{34.42} &	\textbf{0.22}	 & &	 \\
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Transport and heavy equipment operation and related maintenance occupations [75]	& 640.09	& 4.41 &	-0.57 &	-1.50	& -1.00 \\
+Technical occupations in health [32]	& 632.48	& 3.43	& -1.63	& -0.67	& -0.76 \\
+Retail sales supervisors and specialized sales occupations [62]	& 628.39	& 4.22	& -6.66	& 0.05	& -0.89 \\
+Administrative and financial supervisors and administrative occupations [12]	& 611.33	& 3.65	& 0.32	& -1.13 &	-0.48 \\
+Assemblers in manufacturing [95]	& 583.05	& 4.14	& -1.00	& 0.49	& 2.35 \\
+Trades helpers, construction labourers and related occupations [76]	& 579.49	& 3.99	& 2.31	& -0.19	& -0.93 \\
+Finance, insurance and related business administrative occupations [13]	& 559.67	& 3.22	& 3.03	& -0.73 &	0.21 \\
+Processing and manufacturing machine operators and related production workers [94]	& 552.07	& 4.05	& 3.09 &	0.39 	& 0.47 \\
+Paraprofessional occupations in legal, social, community and education services [42]	& 492.53	& 3.32	& 4.59 &	-0.44	& 0.10 \\
+\hline \\[-1.8ex] 
+\textit{Low-paying occupations}	& &	\textbf{29.03}	& \textbf{-0.19} & & \\
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Office support occupations [14]	& 488.59	& 3.40 &	0.50	& 2.24	& 0.40 \\
+Labourers in processing, manufacturing and utilities [96]	& 468.66	& 3.93	& 0.71	& 0.39	& 0.47 \\
+Technical occupations in art, culture, recreation and sport [52]	& 468.59	& 3.42	& -8.40	& 1.59	& 1.66 \\
+Assisting occupations in support of health services [34]	& 458.30	& 3.29	& 3.97	& -0.67	& -0.76 \\
+Care providers and educational, legal and public protection support occupations [44]	 & 415.12	& 3.08	& 2.39 &	-0.60 &	-0.94 \\
+Sales representatives and salespersons - wholesale and retail trade [64]	& 404.38	& 3.24	& 0.43	& 0.05 &	-0.89 \\
+Service representatives and other customer and personal services occupations [65]	& 371.85	& 3.17	& -0.27 &	1.41	& -0.25 \\
+Service support and other service occupations, n.e.c. [67]	& 308.62	& 2.90	& -0.85	& 0.03	& -0.81 \\
+Sales support occupations [66]	& 230.85	& 2.60	& 0.02	& 0.05	& -0.89 \\
+\hline 
+\hline \\[-1.8ex]  
+\end{tabular} 
+\end{table} 
+\end{landscape}
+
+
+\begin{table}[!htbp] \centering 
+\tiny
+\caption{Measures and Change in Employment Shares at the Provincial Level, 1997-2018}
+  \label{} 
+\begin{tabular}{p{0.2\textwidth}p{0.09\textwidth}p{0.09\textwidth}p{0.09\textwidth}p{0.09\textwidth}p{0.09\textwidth}p{0.09\textwidth}}
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+& \multicolumn{2}{c}{\textbf{Low-paying occupations}} & \multicolumn{2}{c}{\textbf{Middle-paying occupations}} & \multicolumn{2}{c}{\textbf{High-paying occupations}}\\
+\hline \\[-1.8ex] 
+Province &	Employment Share in 1997 (in \%)	& \% point change (1997-2018) &	Employment Share in 1997 (in \%) & 	\% point change (1997-2018)	& Employment Share in 1997 (in \%)	& \% point change (1997-2018) \\
+\hline \\[-1.8ex] 
+Alberta	& 28.76	& 0.50	& 34.58	& -0.42	& 36.66	& 0.00 \\
+British Columbia & 	29.57	& -0.03	& 33.56	& 1.47	& 36.87	& -1.32 \\
+Manitoba	& 28.64 & 	0.29	& 34.05	& 2.67	& 37.31	& -2.67 \\
+New Brunswick	& 29.59	& -1.27	& 34.26	& 2.65	& 36.15	& -1.47 \\
+Newfoundland and Labrador	& 30.25	& -6.72	& 31.35	& 13.03	& 38.39 & 	-4.63 \\
+Nova Scotia	& 28.94	& -0.10	& 34.53	& -0.17	& 36.53 & 	-0.52 \\
+Ontario	& 28.65	& 0.56 & 	34.52	& -0.50	& 36.84	& 0.03 \\
+Prince Edward Island	& 28.79	& 2.95	& 34.17	& 2.78	& 37.04	& -4.86 \\
+Saskatchewan	& 28.75	& 0.05	& 34.81	& -0.17	& 36.44	& 0.12 \\
+Quebec	& 29.46	& -1.22	& 34.82	& 0.05	& 35.72	& 0.96 \\
+\hline 
+\hline \\[-1.8ex]  
+\end{tabular} 
+\end{table} 
+
+
+
+
+
+\end{document}
