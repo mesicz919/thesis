@@ -1,0 +1,30 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Approval}{ii}{section*.1}% 
+\contentsline {chapter}{Agreement}{iii}{section*.3}% 
+\contentsline {chapter}{Abstract}{iv}{section*.5}% 
+\contentsline {chapter}{Table of Contents}{v}{section*.7}% 
+\contentsline {chapter}{List of Tables}{vii}{section*.8}% 
+\contentsline {chapter}{List of Figures}{viii}{section*.9}% 
+\contentsline {chapter}{\numberline {1}Motivation}{1}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}Background Information}{4}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Skill-Biased Technological Change}{4}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Routine-Biased Technological Change}{5}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Evidence of Polarization in Canada}{7}{section.2.3}% 
+\contentsline {chapter}{\numberline {3}Data}{11}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Employment and Wages}{11}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Routine Task Intensity (RTI) and Offshorability}{12}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Data Patterns}{13}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Employment Shares by Occupation and Province}{13}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}RTI and Offshorability vs. Total Employment and Wages}{15}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}RTI and Offshorability vs. Employment Share and Relative Wage}{18}{subsection.3.3.3}% 
+\contentsline {chapter}{\numberline {4}Methodology}{20}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Pooled OLS Regression Model}{20}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Fixed Effects Regression Model}{20}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Least-Squares Dummy Variable Model}{20}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Two-Ways \IeC {\textquotedblleft }Within\IeC {\textquotedblright } Fixed Effects Model}{21}{subsection.4.2.2}% 
+\contentsline {chapter}{\numberline {5}Results}{22}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{25}{chapter.6}% 
+\contentsline {chapter}{Bibliography}{26}{section*.10}% 
+\contentsline {chapter}{\numberline {7}Bibliography}{26}{chapter.7}% 
+\contentsline {chapter}{Appendix \numberline {A}Acronyms}{28}{Appendix.a.A}% 
+\contentsline {chapter}{Appendix \numberline {B}Coding}{29}{Appendix.a.B}% 

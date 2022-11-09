@@ -1,0 +1,220 @@
+% This template contains modifications of the sfuthesis documentclass from Simon Fraser University.
+% The new documentclass is bumrp (Brock University MRP)
+
+% To compile in LaTeX you need to have the following files in the same directoty: template.tex, ref.bib, bumrp.cls
+
+% The modifications were done by
+% JF Lamarche
+% Department of Economics, Brock University
+% If you have questions or problems please contact him at jfl@brocku.ca
+
+% The content is provided by Zain Virani, MBE student 2019.
+
+
+\documentclass[undefended]{bumrp}
+
+% Following lines are user dependent: lines 18 to 35
+
+\title{Labour Market Polarization in Canada: To What Degree is Automation Responsible?}
+\author{Zachary Mesic}
+\previousdegrees{%
+	B.A.,  Brock University,  2019}
+\degree{Master of Business Economics}
+\discipline{Economics}
+\department{Department of Economics}
+\faculty{Faculty of Graduate Studies}
+\copyrightyear{2021}       % Year of submission
+\semester{Summer 2021}     % term of submission
+\date{September 10,  2021}     % obtain date from GPD
+
+\keywords{mental health; socioeconomic status; social support; stress; concavity} % 3 to 5 keywords describing your MRP
+
+\committee{
+	\member{Miguel Cardoso}{Supervisor\\Assistant Professor \hspace{0.5cm}\rule{6cm}{0.01cm}}
+	\member{Andrew Dickens}{Second Reader\\Assistant Professor \hspace{0.5cm}\rule{6cm}{0.01cm}}  % Could be a Co-Supervisor instead of Second Reader 
+
+}
+
+
+
+%   PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   Add any packages you need for your MRP here.
+%   You don't need to call the following packages, which are already called in the bumrp class file:
+%
+%   - appendix
+%   - etoolbox
+%   - fontenc
+%   - geometry
+%   - lmodern
+%   - nowidow
+%   - setspace
+%   - tocloft
+%
+%
+%   The following packages are a few suggestions you might find useful.
+%   (1) amsmath and amssymb are essential if you have math in your thesis; they provide useful commands like `blackboard bold'' symbols and environments for aligning equations.
+%   (2) amsthm includes allows you to easily change the style and numbering of theorems. It also provides an environment for proofs.
+%   (3) graphicx allows you to add images with \includegraphics{filename}.
+%   (4) hyperref turns your citations and cross-references into clickable links, and adds metadata to the compiled PDF.
+%   (5) chngcntr changes to numbering of the footnote counter such that they do not reset to 1 after each chapter
+
+
+
+\usepackage{amsmath}                            % (1)
+\usepackage{amssymb}                            % (1)
+\usepackage{amsthm}                             % (2)
+\usepackage{graphicx}                           % (3)
+\usepackage[pdfborder={0 0 0}]{hyperref}        % (4)
+\usepackage[svgnames,table]{xcolor}
+\hypersetup{colorlinks,linkcolor={NavyBlue},citecolor={NavyBlue},urlcolor={red}}
+\usepackage{chngcntr}                           % (5)
+\counterwithout{footnote}{chapter}              % (5)
+
+
+% Additional packages
+
+\usepackage{sansmathfonts}
+\usepackage[T1]{fontenc}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage{threeparttable}
+\usepackage{longtable}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{verbatim}
+\usepackage{listings}
+\usepackage{tabularx}
+\usepackage[round, sort, compress, authoryear]{natbib}
+\usepackage[italian,english]{babel}
+\usepackage[autostyle]{csquotes}  
+
+%   Spacing
+
+%   (1) Use a single word space between sentences. If you disable this, you will have to manually control spacing around abbreviations.
+%   (2) Correct the capitalization of "Chapter" and "Section" if you use the \autoref macro from the `hyperref` package.
+%   (3) The LaTeX thesis template defaults to one-and-a-half line spacing. If your supervisor prefers double-spacing, you can redefine the \defaultspacing command.
+%
+
+\frenchspacing                                    % (1)
+\renewcommand*{\chapterautorefname}{Chapter}      % (2)
+\renewcommand*{\sectionautorefname}{Section}      % (2)
+\renewcommand*{\subsectionautorefname}{Section}   % (2)
+% \renewcommand{\defaultspacing}{\doublespacing}  % (3)
+
+
+
+%   FRONTMATTER  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   Title page, committee page, copyright declaration, abstract, dedication, acknowledgements, table of contents, etc.
+%
+
+\begin{document}
+
+\frontmatter
+\maketitle{}
+\makecommittee{}
+
+\begin{Agreement}
+In presenting this major research paper in partial fulfillment of the requirements for an advanced degree at Brock University, I agree that the Department of Economics shall have a right to make it freely available for reference and study.  I further agree that permission for extensive copying of this research for scholarly purposes may be granted by the Graduate Program Director of the Master of Business Economics program or by his or her representatives.  It is understood that copying or publication of the major research paper for financial gain shall not be allowed without my written permission.
+
+\vspace{2cm}
+
+\noindent
+Department of Economics\\
+\noindent Brock University\\
+\noindent 1812 Sir Isaac Brock Way\\
+\noindent St. Catharines, Ontario\\
+\noindent L2S 3A1 CANADA
+
+\vspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%
+%Enter today's date
+%%%%%%%%%%%%%%%%%%%%%
+\noindent Signature:\hspace{0.5cm}\rule{6cm}{0.01cm}\hfill Date:\hspace{0.5cm}\rule{4cm}{0.01cm}
+
+\end{Agreement}
+
+\begin{abstract}
+	In this paper, I investigate the pervasiveness of the Routine-Biased Technological Change (RBTC) model in explaining labour market polarization in Canada. I obtain average weekly employment and wage data from Statistics Canada’s Labour Force Survey (LFS) over the respective time periods 1987-2020 and 1997-2018. For this analysis, I rely on the 2011 version of the National Occupational Classification (NOC) to track 27 occupational categories. To measure the “routineness” or the relative amount of routine to manual and abstract task of occupations, I use the Routine Task Intensity (RTI) index. Alongside the RTI index, I use the “offshorability” index to measure an occupation’s susceptibility to offshoring. I find that Routine-Biased Technological Change does not fully explain labour market polarization in Canada. There are other factors, such as the resource boom outline in Green and Sand (2015), that are also responsible for polarization of the Canadian labour market.
+\end{abstract}
+
+\addtoToC{Table of Contents}%
+\tableofcontents%
+\clearpage
+
+\addtoToC{List of Tables}%
+\listoftables%
+\clearpage
+
+\addtoToC{List of Figures}%
+\listoffigures%
+\clearpage
+
+
+% Your MRP starts next
+
+\mainmatter%
+
+\chapter{Motivation}
+
+It is without question that automation has and continues to significantly transform many aspects of our society, including the economy. History is replete with examples of how automation has created economy-wide disruption. For example, the Industrial Revolution paved the way for many tasks such as spinning and weaving initially completed by artisans to become automated, leading to widespread disruption (Mantoux, 1928) (Acemoglu and Restrepo, 2019). The consequences of this displacement led to the infamous Luddite riots of the early 19th century, where English textile labourers formed a radical coalition against the forces of automation, industrialization, and new technologies through protest and destruction of textile machinery (Mokyr, 1990) (Acemoglu and Restrepo, 2019). 
+
+Today, the forces of automation can be seen through the disruption of production-based jobs by automation technologies such as industrial robots and machinery (Graetz and Michaels 2018; Acemoglu and Restrepo 2018; Acemoglu and Restrepo, 2019). Specialized software and artificial intelligence have caused even those in white-collar positions in fields such as accounting, sales, logistics, trading, and managerial occupations to feel the impact of technology through the automation of tasks that they once performed (Acemoglu and Restrepo, 2019). 
+One of the direct outcomes of automation’s impact on the economy is the phenomenon known as labour market polarization. Labour market polarization, in the context of this paper, is defined as the relative increase in labour demand for high-skill and low-skill occupations, accompanied by the relative decrease in labour demand for middle-skill occupations (Autor, Katz, and Kearney, 2006) (Goos and Manning, 2007). Growing patterns of labour market polarization have been documented across Western countries, including in the United States (Autor, Levy, and Murnane 2003; Autor, Katz, and Kearney 2006; Autor and Dorn 2013), Canada (Green and Sand, 2015), and Western Europe (Spitz-Oener 2006; Goos and Manning 2007; Dustmann, Ludsteck, and Schönberg 2009; Goos, Manning, and Salomons, 2014). 
+
+Until recently, most studies relied on the “Skill-Biased Technological Change” (SBTC) model to explain labour market polarization, which suggests that “computerization” leads to an increase in the demand of college-educated workers and could explain rising wage inequalities (Autor, Katz, \& Kearney, 2006) (Goos, Manning, \& Salomons, 2014). Autor,  Levy,  and Murnane (2003) put forth an alternative understanding for how technology impacts labour markets, and how this impact could contribute to trends in labour market polarization. Goos, Manning, and Salomons (2014) refer to it as the “Routine-Biased Technological Change” (RBTC) model. The theory suggests that technological change decreases demand for routine manual and cognitive skills while increasing the demand for non-routine and cognitive skills.
+
+Therefore, to further explore the causes of this phenomenon, I investigate the pervasiveness of the RBTC model in explaining labour market polarization in Canada. Given that the RBTC is the leading theory in explaining labour market polarization in other Western nations, it only stands to reason that RBTC may hold salience under a Canadian context. This is especially true when comparing Canada to the United States, as the two countries have many economic similarities. As far as I am aware, this is the first paper to investigate the causes of labour market polarization in Canada and thus the first to estimate the prevalence of RBTC in the country.
+
+Labour market polarization has serious policy implications, including how to properly address societal issues such as income inequality. Since the 1970s, income inequality has increased significantly in most developed nations in the world (Partington, 2019). According to an analysis conducted by the Institute for Fiscal Studies (IFS), the share of income for the top 1\% of wealthiest households has almost tripled in the last four decades (Partington, 2019). In Canada, the fifth (or, highest) quintile was the only group to see an increase in its national income share over the period 1993 to 2008 (The Conference Board of Canada, 2021). Middle and low-income Canadians both saw decreases in their share of the national income (The Conference Board of Canada, 2021).
+
+Rising inequality creates undesirable economic, social, and political outcomes (Qureshi, 2020). It has slowed economic growth by limiting aggregate demand and stifling growth in productivity. Some other consequences include social discontent, polarization in politics, and populist nationalism). It has also amplified societal and economic susceptibility to shocks, including the COVID-19 pandemic. Therefore, understanding what gives rise to labour market polarization, and by association inequality, is crucial to maintaining both economic and political stability. 
+
+To date, much of the research has focused on the Unites States and little is known about the extent and causes of labour market polarization in Canada. Most of the current literature surrounding labour market polarization in Canada is concerned with identifying patterns and less about determining its causes. For example, Green and Sand (2015) find similar patterns of polarization in employment between Canada and the United States, but they do not offer an empirical model to determine the causes of the polarization in their paper.  Therefore, this paper uses Canadian labour market data not only to observe patterns of polarization, but also to develop an empirical model that can test the origins of labour market polarization in the country.
+
+I obtain average weekly employment and wage data from Statistics Canada’s Labour Force Survey (LFS) over the respective time periods 1987-2020 and 1997-2018. For this analysis, I rely on the 2011 version of the National Occupational Classification (NOC) to track 27 occupational categories. To measure the “routineness” or the relative amount of routine to manual and abstract task of occupations,  I use the Routine Task Intensity (RTI) index constructed by Autor and Dorn (2013). Alongside the RTI index, I use the “offshorability” index constructed by Blinder and Kreuger (2013) to measure an occupation’s susceptibility to offshoring. I find that while these data patterns imply that the RBTC model may explain labour market polarization well, there is not enough support in the empirical modelling to suggest that the RBTC model is the sole, or even the primary contributor to labour market polarization in Canada. Other factors, such as the resource boom outlined in Green and Sand (2015) are also responsible for labour market polarization in Canada.
+
+
+
+
+Mental health has always been a real, albeit highly underestimated, phenomenon. Every year, about one in five Canadians personally face a mental health concern (Health Canada, 2002). Having a mental health problem can adversely affect an individual’s life, the detrimental effects of which have the potential to spillover to the wider society, and the economy at large. The Mental Health Commission of Canada (2013) estimates the economic cost of mental illnesses to Canada to be at least \$50 billion per year, representing 2.8\% of its GDP in 2011. These costs manifest themselves in multiple forms, including sub-optimal labour force outcomes, loss of productivity, and excessive burden on the healthcare system \cite[][]{Stephens2001}. Despite heavy social and economic costs associated with mental disorders, economists have done little to provide empirical evidence on factors affecting mental well-being. In this study, I explore the impact of socioeconomic status (SES)—one of the most significant social determinants of health-related inequalities—on mental health, thereby attempting to fill the corresponding gap in the health economics literature.
+
+There is mounting evidence to show that people with higher SES are likely to experience better health than their otherwise identical counterparts with lower SES \cite[][]{Coburn1974,Meyer2014}. However, this positive correlation between health and SES is not merely restricted to physical health, but also extends to mental health. Economic research indicates higher prevalence of common psychiatric problems among the relatively deprived \cite[][]{Wildman2003}, and the unemployed \cite[][]{Wildman2003,Marcus2013}, while sociological evidence suggests greater likelihood of depression and anxiety among the less educated \cite[][]{Miech1999}. Consistent with these findings, I hypothesize a positive relationship between SES and mental health (i.e., I argue that an upward movement along the socioeconomic ladder is correlated with gains in psychological well-being).
+
+To test this hypothesis, I use cross-sectional data from the Canadian Community Health Survey 2012: Mental Health Component. As a proxy for mental health, I use the K6 distress scale \cite[][]{Kessler2002}, which estimates the level of psychological distress facing an individual. For the independent variable of interest, I construct a composite index of SES using principal component analysis of three of the underlying variables: education, income, and an indicator of whether the basic needs of the households are met with that amount of income.\footnote{\scriptsize The merits of using a composite index to measure SES are well-documented in health research \cite[][]{Meyer2014,Braveman2005}.}
+
+\chapter{Concluding Remarks}
+
+This study documents the beneficial impact of an improvement in SES on mental well-being, the strength of which does not diminish as one climbs up the socioeconomic ladder. I show that this relationship is not measure-specific, but is robust to multiple indicators of the two constructs. Upon examining the mechanisms underlying this relationship, I find that social support mediates the effect of SES on mental health, whereas stress does not. Nevertheless, both variables significantly interact with SES, whereby the association between SES and mental health is stronger for individuals experiencing inadequate social support or suffering from high levels of stress.
+
+
+
+
+
+
+%   BACK MATTER  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   References and appendices. Appendices come after the bibliography and should be in the order that they are referred to in the text.
+%
+%   If you include figures, etc. in an appendix, be sure to use \caption[]{...} to make sure they are not listed in the List of Figures.
+%
+
+\backmatter%
+	\addtoToC{Bibliography}
+	\bibliographystyle{apalike}
+	\bibliography{ref.bib}
+
+
+\begin{appendices}
+\chapter{Acronyms}
+
+List, in alphabetical order, the acronyms used in your MRP.
+
+\chapter{Code}
+	
+Your computer code will appear here.	
+	
+\end{appendices}
+
+
+\end{document}
